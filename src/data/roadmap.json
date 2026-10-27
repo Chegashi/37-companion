@@ -1,0 +1,215 @@
+{
+  "goal": "A suggested path through the advanced 42 projects, grouped by domain. Edit src/data/roadmap.json to change it.",
+  "titles": [
+    "6-web",
+    "6-apps",
+    "7-sec",
+    "7-ai"
+  ],
+  "phases": [
+    {
+      "id": 0,
+      "short": "Pro",
+      "title": "Professional experience",
+      "goal": "Full-time experience in a company — both RNCP titles need two",
+      "why": "Professional experiences count toward every RNCP title and teach how teams actually ship.",
+      "projects": [
+        {
+          "slug": "work-experience-ii",
+          "lane": "solo"
+        },
+        {
+          "slug": "startup-experience",
+          "lane": "solo"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "short": "Systems",
+      "title": "Systems — how the machine works",
+      "goal": "Memory, binaries, processes and the OS from the inside",
+      "why": "Understanding memory, processes and the kernel lets you reason about performance and reliability.",
+      "projects": [
+        {
+          "slug": "malloc",
+          "lane": "solo"
+        },
+        {
+          "slug": "nm",
+          "lane": "solo"
+        },
+        {
+          "slug": "lem-ipc",
+          "lane": "solo"
+        },
+        {
+          "slug": "ft_linux",
+          "lane": "solo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "short": "Infra",
+      "title": "Networks & cloud infrastructure",
+      "goal": "From packets to routed networks and deployed services",
+      "why": "Knowing packets, routing and deployment lets you design infrastructure instead of guessing.",
+      "projects": [
+        {
+          "slug": "ft_ping",
+          "lane": "solo"
+        },
+        {
+          "slug": "cloud-1",
+          "lane": "team"
+        },
+        {
+          "slug": "bgp-at-doors-of-autonomous-systems-is-simple",
+          "lane": "team"
+        },
+        {
+          "slug": "ft_traceroute",
+          "lane": "solo"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "short": "Security",
+      "title": "Security & cryptography",
+      "goal": "Cryptography from scratch, then securing real systems",
+      "why": "Security is part of every design decision; these projects teach how systems are attacked and defended.",
+      "projects": [
+        {
+          "slug": "ft_ssl_md5",
+          "lane": "solo"
+        },
+        {
+          "slug": "snow-crash",
+          "lane": "team"
+        },
+        {
+          "slug": "boot2root",
+          "lane": "team"
+        },
+        {
+          "slug": "rainfall",
+          "lane": "team"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "short": "Product",
+      "title": "Product engineering — web, mobile & languages",
+      "goal": "Ship complete products across stacks and paradigms",
+      "why": "Shipping web, mobile and functional projects gives you range across stacks.",
+      "projects": [
+        {
+          "slug": "matcha",
+          "lane": "team"
+        },
+        {
+          "slug": "tokenizer",
+          "lane": "solo"
+        },
+        {
+          "slug": "mobile",
+          "lane": "solo"
+        },
+        {
+          "slug": "swifty-companion",
+          "lane": "solo"
+        },
+        {
+          "slug": "piscine-ocaml",
+          "lane": "solo"
+        },
+        {
+          "slug": "ft_turing",
+          "lane": "team"
+        },
+        {
+          "slug": "tokenizeart",
+          "lane": "solo"
+        },
+        {
+          "slug": "hypertube",
+          "lane": "team"
+        },
+        {
+          "slug": "h42n42",
+          "lane": "solo"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "short": "AI",
+      "title": "Data & AI",
+      "goal": "From data pipelines to neural nets, reinforcement learning and vision",
+      "why": "Building models from scratch teaches how data and AI systems really work.",
+      "projects": [
+        {
+          "slug": "python-for-data-science",
+          "lane": "solo"
+        },
+        {
+          "slug": "piscine-data-science",
+          "lane": "solo"
+        },
+        {
+          "slug": "multilayer-perceptron",
+          "lane": "solo"
+        },
+        {
+          "slug": "learn2slither",
+          "lane": "solo"
+        },
+        {
+          "slug": "total-perspective-vortex",
+          "lane": "solo"
+        },
+        {
+          "slug": "leaffliction",
+          "lane": "team"
+        },
+        {
+          "slug": "ready-set-boole",
+          "lane": "solo"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "short": "Next",
+      "title": "Going further",
+      "goal": "AI infrastructure, observability and leadership",
+      "why": "Once the foundations are done, specialise and practise leading larger projects.",
+      "optional": true,
+      "projects": [
+        {
+          "slug": "inception-of-context",
+          "lane": "team"
+        },
+        {
+          "slug": "inception-of-wisdom",
+          "lane": "team"
+        },
+        {
+          "slug": "agent-smith",
+          "lane": "team"
+        },
+        {
+          "slug": "ft_lgtm",
+          "lane": "team"
+        },
+        {
+          "slug": "open-project",
+          "lane": "team"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "note": "Exam names, versions and prices change — check each provider's site before booking. Many offer student discounts or free vouchers through events.",
+  "certifications": [
+    {
+      "id": "aws-ccp",
+      "domain": "Infra",
+      "name": "AWS Certified Cloud Practitioner",
+      "provider": "Amazon Web Services",
+      "after": [
+        "cloud-1"
+      ],
+      "why": "Entry cloud certification — proves you know the cloud services cloud-1 deploys on."
+    },
+    {
+      "id": "htb-cjca",
+      "domain": "Security",
+      "name": "HTB Certified Junior Cybersecurity Associate (HTB CJCA)",
+      "provider": "Hack The Box",
+      "after": [
+        "cybersecurity",
+        "darkly",
+        "snow-crash"
+      ],
+      "why": "Entry point of the HTB path — proves core security fundamentals right after the Cybersecurity piscine and the first CTF projects."
+    },
+    {
+      "id": "lfcs",
+      "domain": "Systems",
+      "name": "Linux Foundation Certified System Administrator (LFCS)",
+      "provider": "Linux Foundation",
+      "after": [
+        "ft_linux",
+        "lem-ipc",
+        "nm"
+      ],
+      "why": "Hands-on Linux administration exam — the natural proof after building your own distribution."
+    },
+    {
+      "id": "ejpt",
+      "domain": "Security",
+      "name": "eJPT — Junior Penetration Tester",
+      "provider": "INE Security",
+      "after": [
+        "snow-crash",
+        "boot2root"
+      ],
+      "why": "Entry-level, hands-on security certification for authorized testing; matches what the 42 security VMs teach."
+    },
+    {
+      "id": "aws-aip",
+      "domain": "AI",
+      "name": "AWS Certified AI Practitioner",
+      "provider": "Amazon Web Services",
+      "after": [
+        "dslr",
+        "ft_linear_regression"
+      ],
+      "why": "Foundational AI/ML certification — the 42 AI projects already cover most of it."
+    },
+    {
+      "id": "aws-saa",
+      "domain": "Infra",
+      "name": "AWS Certified Solutions Architect – Associate",
+      "provider": "Amazon Web Services",
+      "after": [
+        "cloud-1",
+        "bgp-at-doors-of-autonomous-systems-is-simple",
+        "ft_traceroute"
+      ],
+      "why": "The most requested cloud architecture certification — designing secure, resilient systems on AWS."
+    },
+    {
+      "id": "hashicorp-terraform",
+      "domain": "Infra",
+      "name": "HashiCorp Certified: Terraform Associate (004)",
+      "provider": "HashiCorp",
+      "after": [
+        "cloud-1"
+      ],
+      "why": "Infrastructure as Code, the industry standard — rebuild cloud-1's infrastructure in Terraform first."
+    },
+    {
+      "id": "htb-cwes",
+      "domain": "Security",
+      "name": "Hack The Box Certified Web Exploitation Specialist (HTB CWES)",
+      "provider": "Hack The Box",
+      "after": [
+        "darkly",
+        "camagru",
+        "matcha"
+      ],
+      "why": "Web application security testing — builds on the web apps you write (camagru, matcha) and audit (darkly)."
+    },
+    {
+      "id": "psm",
+      "domain": "Lead",
+      "name": "Professional Scrum Master I (PSM I)",
+      "provider": "Scrum.org",
+      "optional": true,
+      "after": [
+        "hypertube"
+      ],
+      "why": "Shows you can run a team's delivery process — after leading a team project like hypertube."
+    },
+    {
+      "id": "aws-dea",
+      "domain": "Data",
+      "name": "AWS Certified Data Engineer – Associate",
+      "provider": "Amazon Web Services",
+      "after": [
+        "piscine-data-science",
+        "datomic",
+        "cloud-1"
+      ],
+      "why": "Big data on AWS — puts your data-engineering projects on a recognised certificate."
+    },
+    {
+      "id": "pmi-capm",
+      "domain": "Lead",
+      "name": "PMI Certified Associate in Project Management (CAPM)",
+      "provider": "PMI",
+      "after": [
+        "ft_transcendence",
+        "inception-of-things"
+      ],
+      "why": "Project management fundamentals with no experience requirement — the step before PMP."
+    },
+    {
+      "id": "htb-cdsa",
+      "domain": "Security",
+      "name": "Hack The Box Certified Defensive Security Analyst (HTB CDSA)",
+      "provider": "Hack The Box",
+      "after": [
+        "cybersecurity",
+        "ft_lgtm",
+        "cloud-1"
+      ],
+      "why": "The blue-team side: detection, log analysis and incident response — pairs with the observability stack of ft_lgtm."
+    },
+    {
+      "id": "aws-mle",
+      "domain": "AI",
+      "name": "AWS Certified Machine Learning Engineer – Associate",
+      "provider": "Amazon Web Services",
+      "after": [
+        "multilayer-perceptron",
+        "learn2slither",
+        "total-perspective-vortex",
+        "leaffliction"
+      ],
+      "why": "Proves you can build, deploy and run ML in production — the AI projects, in recruiter language."
+    },
+    {
+      "id": "htb-cpts",
+      "domain": "Security",
+      "name": "Hack The Box Certified Penetration Testing Specialist (HTB CPTS)",
+      "provider": "Hack The Box",
+      "after": [
+        "rainfall",
+        "unleashthebox"
+      ],
+      "why": "Advanced, respected hands-on security certification on the same platform as UnleashTheBox — the natural next step after the 42 security VMs."
+    },
+    {
+      "id": "databricks-de",
+      "domain": "Data",
+      "name": "Databricks Certified Data Engineer Associate",
+      "provider": "Databricks",
+      "after": [
+        "piscine-data-science",
+        "datomic"
+      ],
+      "optional": true,
+      "why": "Lakehouse / Spark data engineering — widely used big-data platform."
+    },
+    {
+      "id": "cka",
+      "domain": "Next",
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "provider": "CNCF / Linux Foundation",
+      "after": [
+        "inception-of-things",
+        "ft_lgtm"
+      ],
+      "why": "Kubernetes is the standard platform at big companies; used in Inception-of-Things and ft_lgtm."
+    },
+    {
+      "id": "htb-cwee",
+      "domain": "Security",
+      "name": "HTB Certified Web Exploitation Expert (HTB CWEE)",
+      "provider": "Hack The Box",
+      "after": [
+        "darkly",
+        "hypertube",
+        "ft_transcendence"
+      ],
+      "why": "Expert level after CWES — advanced web security on larger applications like hypertube and ft_transcendence."
+    },
+    {
+      "id": "htb-cwpe",
+      "domain": "Security",
+      "name": "HTB Certified Wi-Fi Pentesting Expert (HTB CWPE)",
+      "provider": "Hack The Box",
+      "after": [
+        "ft_ping",
+        "ft_nmap",
+        "bgp-at-doors-of-autonomous-systems-is-simple"
+      ],
+      "why": "Wireless network security testing — extends the networking depth from ft_nmap and BGP."
+    },
+    {
+      "id": "confluent-kafka",
+      "domain": "Data",
+      "name": "Confluent Certified Developer for Apache Kafka (CCDAK)",
+      "provider": "Confluent",
+      "after": [
+        "ft_microservices",
+        "messagequeue"
+      ],
+      "optional": true,
+      "why": "Streaming data — after the microservices and message-queue projects."
+    },
+    {
+      "id": "aws-dop",
+      "domain": "Infra",
+      "name": "AWS Certified DevOps Engineer – Professional",
+      "provider": "Amazon Web Services",
+      "after": [
+        "cloud-1",
+        "ft_lgtm",
+        "inception-of-things"
+      ],
+      "why": "Professional-level DevOps on AWS — CI/CD, automation and operations, after AWS SAA."
+    },
+    {
+      "id": "htb-cape",
+      "domain": "Security",
+      "name": "HTB Certified Active Directory Pentesting Expert (HTB CAPE)",
+      "provider": "Hack The Box",
+      "after": [
+        "boot2root",
+        "unleashthebox"
+      ],
+      "why": "Enterprise (Active Directory) environments — the expert step after CPTS, closest to real corporate engagements."
+    },
+    {
+      "id": "nvidia-genl",
+      "domain": "AI",
+      "name": "NVIDIA-Certified Associate: Generative AI LLMs",
+      "provider": "NVIDIA",
+      "after": [
+        "inception-of-context",
+        "rag-against-the-machine"
+      ],
+      "optional": true,
+      "why": "LLM fundamentals — pairs with the RAG and Inception of context projects."
+    },
+    {
+      "id": "cks",
+      "domain": "Next",
+      "name": "CKS: Certified Kubernetes Security Specialist",
+      "provider": "CNCF / Linux Foundation",
+      "after": [
+        "ft_lgtm",
+        "inception-of-things"
+      ],
+      "why": "Kubernetes security — requires a valid CKA first."
+    },
+    {
+      "id": "htb-offensive-ai",
+      "domain": "Security",
+      "name": "HTB Certified Offensive AI Expert (HTB COAE)",
+      "provider": "Hack The Box",
+      "after": [
+        "inception-of-context",
+        "inception-of-wisdom",
+        "rag-against-the-machine"
+      ],
+      "why": "Security of AI systems — where the AI-infrastructure projects and the security path meet."
+    },
+    {
+      "id": "databricks-ml",
+      "domain": "AI",
+      "name": "Databricks Certified Machine Learning Associate",
+      "provider": "Databricks",
+      "after": [
+        "multilayer-perceptron",
+        "leaffliction"
+      ],
+      "optional": true,
+      "why": "MLOps on a big-data platform — model training, tracking and deployment."
+    },
+    {
+      "id": "pmp",
+      "domain": "Lead",
+      "name": "PMI Project Management Professional (PMP)",
+      "provider": "PMI",
+      "after": [
+        "open-project"
+      ],
+      "why": "Requires 36 months leading projects — after leading Open Project and other team work."
+    }
+  ]
+}

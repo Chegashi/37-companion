@@ -1,0 +1,993 @@
+{
+ "fetched_at": "2026-10-18T23:55:36+00:00",
+ "sources": {
+  "credly": "https://www.credly.com/organizations/42/badges",
+  "rncp": [
+   "https://www.francecompetences.fr/recherche/rncp/39783/",
+   "https://www.francecompetences.fr/recherche/rncp/39774/"
+  ]
+ },
+ "badges": [
+  {
+   "id": "b83bb16c-a972-46f3-9dfe-8078829596bc",
+   "name": "42 Cursus - Junior Developer - Level 9",
+   "kind": "level",
+   "level": 9,
+   "plus": false,
+   "rank": "Junior Developer",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- After successfully completing the core curriculum, the Junior Developer has acquired the foundational skill set necessary for their first professional experience. They exhibit adaptability across various scenarios, programming languages, and technologies, and can solve relatively complex problems.",
+   "image": "https://images.credly.com/images/58644734-88a3-447b-8f0f-e07d21d61e83/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-9",
+   "skills": [
+    "AI Literacy",
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Networking and SysAdmin",
+    "Imperative and Object Programming",
+    "Standard Algorithms",
+    "Standard Graphic Computing",
+    "Web Frameworks"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Foundational",
+   "time_to_earn": null,
+   "updated_at": "2026-03-16T06:26:23.163-05:00"
+  },
+  {
+   "id": "508df9d0-b084-47e8-a777-11bb5e02103d",
+   "name": "42 Cursus - Junior Developer - Level 10",
+   "kind": "level",
+   "level": 10,
+   "plus": false,
+   "rank": "Junior Developer",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- After successfully completing the core curriculum, the Junior Developer has acquired the foundational skill set necessary for their first professional experience. They exhibit adaptability across various scenarios, programming languages, and technologies, and can solve relatively complex problems.",
+   "image": "https://images.credly.com/images/8468ab9e-d2d7-440c-993d-8ed7e7ebbdb2/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-10",
+   "skills": [
+    "AI Literacy",
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Networking and SysAdmin",
+    "Imperative and Object Programming",
+    "Standard Algorithms",
+    "Standard Graphic Computing",
+    "Web Frameworks"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Foundational",
+   "time_to_earn": null,
+   "updated_at": "2026-03-16T06:26:48.966-05:00"
+  },
+  {
+   "id": "a08fcc5f-1db2-46ce-a1b7-a21662921a06",
+   "name": "42 Cursus - Junior Developer - Level 11",
+   "kind": "level",
+   "level": 11,
+   "plus": false,
+   "rank": "Junior Developer",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- After successfully completing the core curriculum, the Junior Developer has acquired the foundational skill set necessary for their first professional experience. They exhibit adaptability across various scenarios, programming languages, and technologies, and can solve relatively complex problems.",
+   "image": "https://images.credly.com/images/a6e3d74d-5acb-4519-91ce-70220c9f287b/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-11",
+   "skills": [
+    "AI Literacy",
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Networking and SysAdmin",
+    "Imperative and Object Programming",
+    "Standard Algorithms",
+    "Standard Graphic Computing",
+    "Web Frameworks"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Foundational",
+   "time_to_earn": null,
+   "updated_at": "2026-03-16T06:27:09.593-05:00"
+  },
+  {
+   "id": "61698db3-2309-4c21-96b9-094a9bfbeb40",
+   "name": "42 Cursus - Junior Developer - Level 12",
+   "kind": "level",
+   "level": 12,
+   "plus": false,
+   "rank": "Junior Developer",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- After successfully completing the core curriculum, the Junior Developer has acquired the foundational skill set necessary for their first professional experience. They exhibit adaptability across various scenarios, programming languages, and technologies, and can solve relatively complex problems.",
+   "image": "https://images.credly.com/images/f0afa329-e6eb-4ca0-b9e0-163f46672a08/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-12",
+   "skills": [
+    "AI Literacy",
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Networking and SysAdmin",
+    "Imperative and Object Programming",
+    "Standard Algorithms",
+    "Standard Graphic Computing",
+    "Web Frameworks"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Foundational",
+   "time_to_earn": null,
+   "updated_at": "2026-03-16T06:27:28.271-05:00"
+  },
+  {
+   "id": "08afc91e-1420-4788-9378-03414148f037",
+   "name": "42 Cursus - Developer - Level 13",
+   "kind": "level",
+   "level": 13,
+   "plus": false,
+   "rank": "Developer",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- Building upon the foundational skills acquired during the 42 core curriculum, the Developer has started their chosen specialization, equipped with sharpened skills in a specific domain, ready to contribute to the workforce.",
+   "image": "https://images.credly.com/images/022d47c3-5524-4954-a08e-2db2d6d23b8b/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-developer-level-13",
+   "skills": [
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Curriculum",
+    "Specialization Basics"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Intermediate",
+   "time_to_earn": null,
+   "updated_at": "2024-01-05T04:50:41.810-06:00"
+  },
+  {
+   "id": "168b6af7-af59-44ec-9939-905af3241e2c",
+   "name": "42 Cursus - Developer - Level 14",
+   "kind": "level",
+   "level": 14,
+   "plus": false,
+   "rank": "Developer",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- Building upon the foundational skills acquired during the 42 core curriculum, the Developer has started their chosen specialization, equipped with sharpened skills in a specific domain, ready to contribute to the workforce.",
+   "image": "https://images.credly.com/images/843f4206-7e11-47a1-b113-287a92b8c561/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-developer-level-14",
+   "skills": [
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Curriculum",
+    "Specialization Basics"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Intermediate",
+   "time_to_earn": null,
+   "updated_at": "2024-01-05T05:08:31.877-06:00"
+  },
+  {
+   "id": "a8d776c8-0f19-4504-a3dc-c74bb463d988",
+   "name": "42 Cursus - Developer - Level 15",
+   "kind": "level",
+   "level": 15,
+   "plus": false,
+   "rank": "Developer",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- Building upon the foundational skills acquired during the 42 core curriculum, the Developer has started their chosen specialization, equipped with sharpened skills in a specific domain, ready to contribute to the workforce.",
+   "image": "https://images.credly.com/images/19f51b33-6af1-450c-ab8e-f5fc06242ed3/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-developer-level-15",
+   "skills": [
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Curriculum",
+    "Specialization Basics"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Intermediate",
+   "time_to_earn": null,
+   "updated_at": "2024-01-05T05:09:07.682-06:00"
+  },
+  {
+   "id": "be77f102-6eba-4678-b5e1-23a24c601f35",
+   "name": "42 Cursus - Advanced Developer - Level 16",
+   "kind": "level",
+   "level": 16,
+   "plus": false,
+   "rank": "Advanced Developer",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- With their initial professional experience acquired, the Advanced Developer has achieved complete mastery in their specialization. They can now work autonomously on related projects, making informed decisions and engaging with clients.",
+   "image": "https://images.credly.com/images/31d39e2e-4cc4-48c5-84bd-7a4649bbefcb/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-advanced-developer-level-16",
+   "skills": [
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Curriculum",
+    "Professional Experience",
+    "Specialization"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": null,
+   "updated_at": "2024-01-05T04:51:17.589-06:00"
+  },
+  {
+   "id": "276dac6d-7e93-4c1f-bffd-89a75dd07b7d",
+   "name": "42 Cursus - Advanced Developer - Level 17",
+   "kind": "level",
+   "level": 17,
+   "plus": false,
+   "rank": "Advanced Developer",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- With their initial professional experience acquired, the Advanced Developer has achieved complete mastery in their specialization. They can now work autonomously on related projects, making informed decisions and engaging with clients.",
+   "image": "https://images.credly.com/images/f21b525b-f3ee-4ea6-a57a-46c07c60bfa1/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-advanced-developer-level-17",
+   "skills": [
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Curriculum",
+    "Professional Experience",
+    "Specialization"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": null,
+   "updated_at": "2024-01-05T05:09:58.495-06:00"
+  },
+  {
+   "id": "11b89b2d-5367-4a08-9a16-486b2a4ad3b0",
+   "name": "42 Cursus - Advanced Developer - Level 18",
+   "kind": "level",
+   "level": 18,
+   "plus": false,
+   "rank": "Advanced Developer",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- With their initial professional experience acquired, the Advanced Developer has achieved complete mastery in their specialization. They can now work autonomously on related projects, making informed decisions and engaging with clients.",
+   "image": "https://images.credly.com/images/d3e1f6a8-73dd-44ed-bd25-808bf8e610d6/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-advanced-developer-level-18",
+   "skills": [
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Curriculum",
+    "Professional Experience",
+    "Specialization"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": null,
+   "updated_at": "2024-01-05T05:11:20.184-06:00"
+  },
+  {
+   "id": "22a9039c-eaf7-427f-b193-5c07ea71287a",
+   "name": "42 Cursus - Computer Scientist - Level 19",
+   "kind": "level",
+   "level": 19,
+   "plus": false,
+   "rank": "Computer Scientist",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- The 42 Computer Scientist profile can start managing a team on larger and cross-functional projects, integrating multiple ICT components, and engaging with various stakeholders and customers.",
+   "image": "https://images.credly.com/images/2ba46218-1622-4e2a-89fa-4df68f78b564/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-computer-scientist-level-19",
+   "skills": [
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Curriculum",
+    "Lead Developer",
+    "Multiple Specializations",
+    "Professional Experience"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": null,
+   "updated_at": "2024-01-05T04:50:14.601-06:00"
+  },
+  {
+   "id": "ca372ea4-9219-4551-9813-201682ab5973",
+   "name": "42 Cursus - Computer Scientist - Level 20",
+   "kind": "level",
+   "level": 20,
+   "plus": false,
+   "rank": "Computer Scientist",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- The 42 Computer Scientist profile can start managing a team on larger and cross-functional projects, integrating multiple ICT components, and engaging with various stakeholders and customers.",
+   "image": "https://images.credly.com/images/211835f4-6bee-41b3-b1a6-b6ed22d96322/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-computer-scientist-level-20",
+   "skills": [
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Curriculum",
+    "Lead Developer",
+    "Multiple Specializations",
+    "Professional Experience"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": null,
+   "updated_at": "2024-03-28T05:56:25.511-05:00"
+  },
+  {
+   "id": "e490dc5d-aa06-48f8-a5dc-f3c122939a09",
+   "name": "42 Cursus - Computer Architect - Level 21",
+   "kind": "level",
+   "level": 21,
+   "plus": false,
+   "rank": "Computer Architect",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- Expert in multiple IT fields, the Computer Architect can lead complex IT projects, manage teams, and even venture into entrepreneurship.",
+   "image": "https://images.credly.com/images/9d64643e-62d5-4a84-abe7-82fca9255b94/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-computer-architect-level-21.1",
+   "skills": [
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Curriculum",
+    "Engineer",
+    "Multiple Professional Experiences",
+    "Multiple Specializations"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": null,
+   "updated_at": "2024-01-05T05:13:09.650-06:00"
+  },
+  {
+   "id": "cd70ffc7-0a8e-49dc-8849-3e6b496add02",
+   "name": "42 Cursus - Computer Architect - Level 21+",
+   "kind": "level",
+   "level": 21,
+   "plus": true,
+   "rank": "Computer Architect",
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network. -- Expert in multiple IT fields, the Computer Architect can lead complex IT projects, manage teams, and even venture into entrepreneurship.",
+   "image": "https://images.credly.com/images/67a12cf3-8db2-4f34-9d76-02eaa3d4b104/image.png",
+   "url": "https://www.credly.com/org/42/badge/42-cursus-computer-architect-level-21",
+   "skills": [
+    "Adaptation & Problem-Solving",
+    "Collaboration",
+    "Core Curriculum",
+    "Engineer",
+    "Multiple Professional Experiences",
+    "Multiple Specializations"
+   ],
+   "earn": [
+    "Passed the core curriculum courses",
+    "Passed advanced courses (depends on each level and student's choices)"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": null,
+   "updated_at": "2024-01-05T04:49:46.222-06:00"
+  },
+  {
+   "id": "2fc3708c-1aa7-4f40-bc8f-1230ae7b3d52",
+   "name": "RNCP 6 - Concepteur Développeur de Solutions Informatiques - Développement de Logiciels Applicatifs (39783)",
+   "kind": "rncp",
+   "level": null,
+   "plus": false,
+   "rank": null,
+   "rncp_code": "39783",
+   "rncp_level": 6,
+   "current": true,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network and earned a EU-recognized certification registered at the French National Directory of Professional Certifications (Répertoire National des Certifications Professionnelles). RNCP level 6 is equivalent to a bachelor's degree.",
+   "image": "https://images.credly.com/images/f4a48034-1bae-40f2-8b84-55e8927cd441/blob",
+   "url": "https://www.credly.com/org/42/badge/rncp-6-concepteur-developpeur-de-solutions-informat.2",
+   "skills": [
+    "Applicative software development",
+    "Deploying and carrying out application maintenance",
+    "Technically assessing the requirements",
+    "Testing",
+    "Writing & Correcting"
+   ],
+   "earn": [
+    "Passed 42 core curriculum and advanced courses to reach at least level 17 (approximately 3-4 years of training).",
+    "Completed certificate-specific modules"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": "Years",
+   "updated_at": "2025-05-14T11:34:24.473-05:00"
+  },
+  {
+   "id": "3390caa1-46e9-4afa-aa9b-9d1f50d78d21",
+   "name": "RNCP 6 - Concepteur Développeur de Solutions Informatiques - Développement d’Application Web & Mobile (39783)",
+   "kind": "rncp",
+   "level": null,
+   "plus": false,
+   "rank": null,
+   "rncp_code": "39783",
+   "rncp_level": 6,
+   "current": true,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network and earned a EU-recognized certification registered at the French National Directory of Professional Certifications (Répertoire National des Certifications Professionnelles). RNCP level 6 is equivalent to a bachelor's degree.",
+   "image": "https://images.credly.com/images/09c6fe3f-1399-49ca-a04c-17f40ed4d927/blob",
+   "url": "https://www.credly.com/org/42/badge/rncp-6-concepteur-developpeur-de-solutions-informat.3",
+   "skills": [
+    "Deploying and carrying out application maintenance",
+    "Technically assessing the requirements",
+    "Testing",
+    "Web and mobile application development",
+    "Writing & Correcting"
+   ],
+   "earn": [
+    "Passed 42 core curriculum and advanced courses to reach at least level 17 (approximately 3-4 years of training)",
+    "Completed certificate-specific modules"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": "Years",
+   "updated_at": "2025-05-14T11:35:30.335-05:00"
+  },
+  {
+   "id": "869af25b-0ae8-419f-9f18-ded03b27ebb0",
+   "name": "RNCP 6 - Concepteur développeur de solutions informatiques - Développement de logiciels applicatifs",
+   "kind": "rncp",
+   "level": null,
+   "plus": false,
+   "rank": null,
+   "rncp_code": null,
+   "rncp_level": 6,
+   "current": false,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network and earned a EU-recognized certification registered at the French National Directory of Professional Certifications (Répertoire National des Certifications Professionnelles). RNCP level 6 is equivalent to a bachelor's degree.",
+   "image": "https://images.credly.com/images/14745f06-a9b1-4540-9ce6-b59c9625b7fa/image.png",
+   "url": "https://www.credly.com/org/42/badge/rncp-6-concepteur-developpeur-de-solutions-informat.1",
+   "skills": [
+    "Applicative software development",
+    "Deploying and carrying out application maintenance",
+    "Technically assessing the requirements",
+    "Testing, writing and correcting"
+   ],
+   "earn": [
+    "Passed 42 core curriculum and advanced courses to reach at least level 17 (approximately 3-4 years of training)",
+    "Completed certificate-specific modules"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": "Years",
+   "updated_at": "2024-04-30T05:06:00.040-05:00"
+  },
+  {
+   "id": "a0684011-b1fa-4e37-a1e7-1dcad2cd809a",
+   "name": "RNCP 6 - Concepteur développeur de solutions informatiques - Développement d’application web & mobile",
+   "kind": "rncp",
+   "level": null,
+   "plus": false,
+   "rank": null,
+   "rncp_code": null,
+   "rncp_level": 6,
+   "current": false,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network and earned a EU-recognized certification registered at the French National Directory of Professional Certifications (Répertoire National des Certifications Professionnelles). RNCP level 6 is equivalent to a bachelor's degree.",
+   "image": "https://images.credly.com/images/a4fe6431-ce06-4b64-bd8c-060d584e38aa/image.png",
+   "url": "https://www.credly.com/org/42/badge/rncp-6-concepteur-developpeur-de-solutions-informat",
+   "skills": [
+    "Deploying and carrying out application maintenance",
+    "Technically assessing the requirements",
+    "Testing, writing and correcting",
+    "Web and mobile application development"
+   ],
+   "earn": [
+    "Passed 42 core curriculum and advanced courses to reach at least level 17 (approximately 3-4 years of training)",
+    "Completed certificate-specific modules"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": "Years",
+   "updated_at": "2024-04-30T05:05:12.718-05:00"
+  },
+  {
+   "id": "9cf1a01e-161f-4b95-a0d2-a5e440463e96",
+   "name": "RNCP Niveau 7 - Expert en Architecture Informatique - Architecture de Données (39774)",
+   "kind": "rncp",
+   "level": null,
+   "plus": false,
+   "rank": null,
+   "rncp_code": "39774",
+   "rncp_level": 7,
+   "current": true,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network and earned a EU-recognized certification registered at the French National Directory of Professional Certifications (Répertoire National des Certifications Professionnelles). RNCP level 7 is equivalent to a master’s degree.",
+   "image": "https://images.credly.com/images/34641942-e0ed-4eb5-a6fb-84ba193f4961/blob",
+   "url": "https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a.2",
+   "skills": [
+    "Data Architecture",
+    "Design of a technical specification for a digital solution",
+    "Leading and coordinating the implementation of a computer project",
+    "Monitoring and improvement of processes",
+    "Supervising the production launch"
+   ],
+   "earn": [
+    "Passed 42 core curriculum and advanced courses to reach at least level 21 (approximately 5-6 years of training)",
+    "Completed certificate-specific modules"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": "Years",
+   "updated_at": "2025-05-14T11:36:40.405-05:00"
+  },
+  {
+   "id": "47ad62dd-b4ce-4e51-b7f5-213ab690d279",
+   "name": "RNCP Niveau 7 - Expert en Architecture Informatique - Architecture de bases de données et Data",
+   "kind": "rncp",
+   "level": null,
+   "plus": false,
+   "rank": null,
+   "rncp_code": null,
+   "rncp_level": 7,
+   "current": false,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network and earned a EU-recognized certification registered at the French National Directory of Professional Certifications (Répertoire National des Certifications Professionnelles). RNCP level 7 is equivalent to a master’s degree.",
+   "image": "https://images.credly.com/images/66d4a15c-b5ab-44a4-9103-d29d257324bf/image.png",
+   "url": "https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a.1",
+   "skills": [
+    "Database architecture and data",
+    "Design of a technical specification for a digital solution",
+    "Leading and coordinating the implementation of a computer project",
+    "Supervising the production launch, monitoring and improvement of processes"
+   ],
+   "earn": [
+    "Passed 42 core curriculum and advanced courses to reach at least level 21 (approximately 5-6 years of training)",
+    "Completed certificate-specific modules"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": "Years",
+   "updated_at": "2024-04-29T08:35:02.410-05:00"
+  },
+  {
+   "id": "e88a0c46-f477-42b4-bc3d-6f6a8e8909d8",
+   "name": "RNCP Niveau 7 - Expert en Architecture Informatique - Architecture des Systèmes d’Information Réseaux (39774)",
+   "kind": "rncp",
+   "level": null,
+   "plus": false,
+   "rank": null,
+   "rncp_code": "39774",
+   "rncp_level": 7,
+   "current": true,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network and earned a EU-recognized certification registered at the French National Directory of Professional Certifications (Répertoire National des Certifications Professionnelles). RNCP level 7 is equivalent to a master’s degree.",
+   "image": "https://images.credly.com/images/244f8d83-5999-4bb6-96d9-e1ad5c0c3bf9/blob",
+   "url": "https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a.3",
+   "skills": [
+    "Design of a technical specification for a digital solution",
+    "Leading and coordinating the implementation of a computer project",
+    "Monitoring and improvement of processes",
+    "Network Information Systems Architecture",
+    "Supervising the production launch"
+   ],
+   "earn": [
+    "Passed 42 core curriculum and advanced courses to reach at least level 21 (approximately 5-6 years of training)",
+    "Completed certificate-specific modules"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": "Years",
+   "updated_at": "2025-05-14T11:36:04.418-05:00"
+  },
+  {
+   "id": "1136d5ed-b22b-4154-a340-dd796031eaa3",
+   "name": "RNCP Niveau 7 - Expert en Architecture Informatique - Architecture des systèmes d’information réseaux",
+   "kind": "rncp",
+   "level": null,
+   "plus": false,
+   "rank": null,
+   "rncp_code": null,
+   "rncp_level": 7,
+   "current": false,
+   "description": "This certificate guarantees the student graduated from a school in the 42 network and earned a EU-recognized certification registered at the French National Directory of Professional Certifications (Répertoire National des Certifications Professionnelles). RNCP level 7 is equivalent to a master’s degree.",
+   "image": "https://images.credly.com/images/fd0ea755-3eb2-4d46-9511-2ae54e614818/image.png",
+   "url": "https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a",
+   "skills": [
+    "Design of a technical specification for a digital solution",
+    "Leading and coordinating the implementation of a computer project",
+    "Network Information Systems Architecture",
+    "Supervising the production launch, monitoring and improvement of processes"
+   ],
+   "earn": [
+    "Passed 42 core curriculum and advanced courses to reach at least level 21 (approximately 5-6 years of training)",
+    "Completed certificate-specific modules"
+   ],
+   "level_label": "Advanced",
+   "time_to_earn": "Years",
+   "updated_at": "2024-04-29T08:33:22.373-05:00"
+  },
+  {
+   "id": "143b886f-10a4-4ba1-b2c6-606de65e96bd",
+   "name": "42 Alumni Ambassador [2025-2026]",
+   "kind": "other",
+   "level": null,
+   "plus": false,
+   "rank": null,
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "42 Alumni Ambassadors are recognized for their leadership, dedication, and impact within the 42 Alumni network. They actively lead and engage the community — locally and globally — by launching inspiring initiatives, serving as trusted regional contacts, and organizing activities that bring former 42 students together worldwide. Ambassadors are appointed by the 42 Central team for a one-year term.",
+   "image": "https://images.credly.com/images/b5903b05-2842-4ce7-988d-e104ebe057e1/blob",
+   "url": "https://www.credly.com/org/42/badge/42-alumni-ambassador-2025-2026",
+   "skills": [
+    "Action Oriented",
+    "Community Building",
+    "Community Leadership",
+    "Community Management",
+    "Community Support",
+    "Engagement Skills",
+    "Leadership"
+   ],
+   "earn": [
+    "42 Alumni Ambassador demonstrate strong motivation, active involvement in the community, leadership abilities, and local presence. They embody 42’s values, and are willing to dedicate time to organize initiatives that strengthen the Alumni network."
+   ],
+   "level_label": "N/A",
+   "time_to_earn": "Months",
+   "updated_at": "2026-04-22T10:17:29.271-05:00"
+  },
+  {
+   "id": "51cbe632-ccd4-400a-8a96-90ae512cdbc9",
+   "name": "42 Alumni Ambassador [2026-2027]",
+   "kind": "other",
+   "level": null,
+   "plus": false,
+   "rank": null,
+   "rncp_code": null,
+   "rncp_level": null,
+   "current": null,
+   "description": "42 Alumni Ambassadors are recognized for their leadership, dedication, and impact within the 42 Alumni network. They actively lead and engage the community - locally and globally - by launching inspiring initiatives, serving as trusted regional contacts, and organizing activities that bring former 42 students together worldwide. Ambassadors are appointed by the 42 Central team for a one-year term.",
+   "image": "https://images.credly.com/images/e9ea12ed-23b7-416a-be31-a22eade5d5a0/blob",
+   "url": "https://www.credly.com/org/42/badge/42-alumni-ambassador-2026-2027",
+   "skills": [
+    "Action Oriented",
+    "Commitment",
+    "Community Building",
+    "Community Leadership",
+    "Community Management",
+    "Community Support",
+    "Enthusiasm",
+    "Leadership"
+   ],
+   "earn": [
+    "42 Alumni Ambassador demonstrate strong motivation, active involvement in the community, leadership abilities, and local presence. They embody 42’s values, and are willing to dedicate time to organize initiatives that strengthen the Alumni network."
+   ],
+   "level_label": null,
+   "time_to_earn": "Months",
+   "updated_at": "2026-04-23T04:52:23.474-05:00"
+  }
+ ],
+ "fiches": {
+  "39783": {
+   "code": "39783",
+   "title": "Concepteur développeur de solutions informatiques",
+   "level": 6,
+   "eqf": "bachelor's degree level",
+   "expiry": "31-10-2029",
+   "url": "https://www.francecompetences.fr/recherche/rncp/39783/",
+   "info_url": "https://42.fr/nos-engagements/renouvellement-rncp/",
+   "summary": "Le concepteur développeur de solutions informatique sa pour mission de concevoir, développer et mettre au point des projets d'applications informatiques, depuis la phase d'études jusqu'à leur intégration, conformément aux besoins fonctionnels et aux cahiers des charges des clients ou des entreprises. Les développeurs de solutions informatiques peuvent être amenés à conduire des projets de développement ou à coordonner des équipes. La variabilité de leur activité, souvent déterminée par les avancées technologiques, exige qu'ils maîtrisent soit des technologies spécifiques, soit des compétences multiplateformes.",
+   "activities": [
+    "Réalisation d’une veille technologique pour le développement d’une application ou logiciel informatique",
+    "Analyse des besoins du commanditaire et étude de l’environnement technique",
+    "Rédaction des spécifications fonctionnelles de la solution informatique répondant aux besoins du commanditaire",
+    "Planification technique du développement d’une solution informatique",
+    "Conception technique et fonctionnelle d’une application web/ mobile",
+    "Développement des fonctionnalités de l’application et des interfaces",
+    "Conception d’un logiciel applicatif",
+    "Réalisation de logiciels selon différents paradigmes de programmation",
+    "Préparation et réalisation de tests unitaires fonctionnels",
+    "Mise en œuvre des tests environnementaux",
+    "Réalisation des corrections nécessaires en fonction des résultats des tests",
+    "Mise en production technique",
+    "Documentation et transfert de compétences",
+    "Mise en œuvre d’une maintenance évolutive de la solution informatique"
+   ],
+   "blocks": [
+    {
+     "code": "RNCP39783BC01",
+     "title": "Réaliser l’analyse technique des besoins du commanditaire et planifier le développement d’une application ou logiciel informatique",
+     "option": null,
+     "competences": [
+      "Réaliser une veille technologique continue sur différents domaines liés au numérique, en suivant la littérature en ligne ou en interagissant avec ses pairs (salons, conférences…) afin d’accroître ses connaissances, de rester au fait des évolutions et d’être agile dans ses projets et force de proposition",
+      "Analyser les besoins du commanditaire, en conduisant des entretiens avec les parties prenantes, en synthétisant les informations recueillies et en identifiant les besoins implicites et explicites, dans le but de disposer d'une base précise et exhaustive des attentes du commanditaire pour orienter efficacement le projet",
+      "Réaliser une étude de l’environnement technique, en étudiant l’environnement matériel et logiciel de l’organisation, en analysant les sites Internet et les supports de communication du client et en recensant les pratiques courantes du secteur d’activité existantes sur le marché, dans le but de proposer des solutions adaptées aux besoins exprimés",
+      "Rédiger les spécifications fonctionnelles de la solution informatique, en traduisant les besoins du commanditaire dans un document structuré, en tenant compte de la réglementation en vigueur, notamment relative à la protection des données et à l’accessibilité informatique et en utilisant des outils de modélisation fonctionnelle, afin de définir les fonctionnalités attendues et de guider le développement du projet",
+      "Présenter les spécifications fonctionnelles au commanditaire, en utilisant des maquettes, des diagrammes et des présentations détaillées pour illustrer les fonctionnalités prévues, afin de s'assurer de la compréhension et de l'adhésion du commanditaire aux solutions proposées",
+      "Planifier le développement d’une solution informatique, en ordonnant les étapes du développement dans un calendrier logique, en respectant les contraintes, et en répartissant les responsabilités et les tâches en fonction des compétences disponibles et des éventuelles situations de handicap, afin d’optimiser les délais, les coûts et l’efficacité collective.",
+      "Assurer la qualité du développement d’une solution informatique, en identifiant les risques potentiels, en élaborant des plans de contingence, en définissant des critères de réussite clairs et en établissant des points de contrôle réguliers, afin de garantir un développement robuste, de haute qualité et conforme aux exigences du commanditaire"
+     ],
+     "evaluation": "Mise en situation professionnelle - Rendus de livrables - Soutenance orale"
+    },
+    {
+     "code": "RNCP39783BC02",
+     "title": "Concevoir et développer des applications web & mobile",
+     "option": 1,
+     "competences": [
+      "Concevoir l’architecture et les interfaces utilisateur de l’application web/mobile, en élaborant l’architecture fonctionnelle et logicielle, en créant des maquettes et prototypes interactifs, et en définissant la structure des données et des bases de données relationnelles, afin d’assurer une base solide pour le développement et l’intégration efficace des composantes de l’application",
+      "Structurer le flux et le stockage des données nécessaires au traitement des informations réalisées par l’application, en concevant la structure de la base de données, en définissant les interactions entre les différents composants de l’application, dans le respect de la réglementation en vigueur relative à la protection des données, afin d’assurer un traitement efficace des données et de faciliter le développement et les évolutions futures",
+      "Assurer le choix et la maîtrise des technologies pour développer une application web/mobile, en tenant compte des besoins, des objectifs, de l'accessibilité (comme la déficience visuelle), en téléchargeant, configurant et intégrant les outils de développement pour garantir leur compatibilité, afin de répondre aux exigences du commanditaire",
+      "Installer l’infrastructure de la future application, en connectant les logiciels et librairies choisis, et en vérifiant leur bonne interopérabilité, afin d’assurer le stockage des données et la création des algorithmes et des interfaces",
+      "Utiliser les librairies et/ou les Frameworks correspondants permettant un développement d’une application web/mobile avec des structures et des fonctionnalités déjà existantes, en respectant les standards et les contraintes de programmation préétablis, afin de faciliter la structuration puis l’intégration et enfin l’installation des applications",
+      "Réaliser le code et les algorithmes, en utilisant les outils et technologies sélectionnés, en respectant les spécifications, les règles de codage, la conformité RGPD et les normes de sécurité, et en tenant compte des situations de handicap visuel, afin de garantir une application fonctionnelle, performante et conforme aux spécifications",
+      "Mettre en place les éléments graphiques et interactifs de l’application (interfaces), en utilisant des outils de design graphique et des frameworks CSS, en intégrant des composants interactifs avec HTML, CSS et JavaScript, en optimisant l'ergonomie des interfaces et en appliquant les principes d’accessibilité du RGAA, afin de réaliser une interface utilisateur ergonomique, esthétique et accessible"
+     ],
+     "evaluation": "Mises en situation professionnelle réelles en mode projet"
+    },
+    {
+     "code": "RNCP39783BC03",
+     "title": "Concevoir et développer des logiciels applicatifs",
+     "option": 2,
+     "competences": [
+      "Elaborer l’architecture globale du logiciel, selon les contraintes techniques, les spécifications et les fonctionnalités attendues, en utilisant des outils de modélisation d’architecture, et en choisissant le paradigme de programmation, afin d’assurer une structure cohérente, évolutive et performante pour le développement et la maintenance du logiciel",
+      "Concevoir des algorithmes personnalisés, en analysant la problématique et en réalisant un design algorithmique de la solution, en décomposant le problème général en sous-problèmes et en associant chaque sous-problème à un ensemble de données et à un traitement logique, afin de développer des solutions adaptées aux particularités du projet",
+      "Modéliser les données, en utilisant des outils de modélisation et des langages de définition de données, afin de structurer efficacement les informations nécessaires au fonctionnement du logiciel applicatif, garantissant ainsi l’intégrité et la performance du système",
+      "Réaliser des maquettes et prototypes, en créant des représentations visuelles des interfaces et des fonctionnalités, en utilisant des outils de prototypage et de design UX/UI, afin de valider les concepts et recueillir les retours des parties prenantes",
+      "Mettre en œuvre les algorithmes standard, complexes et personnalisés choisis pour la résolution du problème donné en créant une série d’instructions dans le langage de programmation utilisé afin d’effectuer le traitement des informations choisi",
+      "Réaliser un projet en programmation impérative, en décomposant la problématique, en appliquant les fondamentaux (syntaxe, variables, fonctions, boucles, etc.), en intégrant l'accessibilité pour les personnes en situation de handicap et en optimisant le code pour réduire l'empreinte carbone, afin de créer un code performant, accessible et éco-responsable",
+      "Réaliser un projet selon le paradigme de la programmation fonctionnelle, en utilisant les outils spécifiques facilitant l'activité de programmation (interpréteurs, compilateurs, contrôleurs de types...), et en appliquant les principes d’accessibilité du RGAA, du green IT et de la protection des données, afin de construire un programme résolvant un problème donné",
+      "Réaliser un projet en programmation orientée objet, en représentant les concepts avec des objets (classes, héritage, surcharge, …), en assurant l'accessibilité pour les personnes en situation de handicap, afin de créer un code maintenable et réutilisable conforme aux pratiques de green coding répondant aux besoins du client"
+     ],
+     "evaluation": "Mise en situation réelle en mode projet avec rendus de livrables"
+    },
+    {
+     "code": "RNCP39783BC04",
+     "title": "Réaliser des tests et corrections en vue du déploiement d’une solution informatique",
+     "option": null,
+     "competences": [
+      "Préparer les tests unitaires, en développant des scripts de tests, en utilisant des frameworks de tests tels que JUnit, NUnit, Mocha ou Jasmine, afin de garantir la fiabilité et la conformité des fonctionnalités de la solution informatique aux solutions techniques",
+      "Réaliser les tests unitaires, en exécutant des suites de tests sur les composants individuels de la solution afin de détecter et de corriger les erreurs précocement, assurant ainsi la stabilité et la performance optimales de la solution informatique",
+      "Réaliser les tests de charge / tests de performance environnementaux, en prenant des décisions en collaboration avec les équipes dédiées, en définissant des hypothèses de trafic, et en choisissant et en installant les outils de tests appropriés, afin d’anticiper les évolutions et problèmes possibles de son application, et en vérifier la fiabilité",
+      "Réaliser des corrections nécessaires en fonction des anomalies décrites, en échangeant et en prenant les décisions avec les équipes impliquées dans le projet (développeurs, architecte SI, DevOps…) afin de mettre en œuvre les correctifs qui sont en lien avec son domaine de compétence"
+     ],
+     "evaluation": "Mise en situation professionnelle - Cas pratique"
+    },
+    {
+     "code": "RNCP39783BC05",
+     "title": "Mettre en production et réaliser la maintenance de la solution informatique développée",
+     "option": null,
+     "competences": [
+      "Réaliser la livraison de la solution, en remettant un package logiciel aux équipes dédiées à la mise en œuvre et au maintien du système d’information de l’entreprise, afin d’en permettre l’accessibilité aux utilisateurs finaux",
+      "Assurer le transfert d’informations et de compétences sur la solution informatique, en réalisant une documentation adaptée pour les utilisateurs finaux et les équipes techniques en charge de la maintenance et de l’évolution, et dans le respect des contraintes de sécurité et des exigences d’accessibilité, afin de garantir une utilisation optimale, sécurisée et inclusive du logiciel",
+      "Mettre en œuvre une maintenance évolutive de la solution informatique en assurant les corrections à la suite des problèmes soulevés (bugs) par les utilisateurs ou les équipes dédiées, afin d’assurer une maintenance corrective et évolutive de la solution",
+      "Assurer la programmation des évolutions en prenant en compte et en intégrant les évolutions des solutions techniques existantes et celles demandées par les utilisateurs, afin d’avoir une solution optimale"
+     ],
+     "evaluation": "Mise en situation professionnelle réelle et/ou fictive - rendu de livrables"
+    }
+   ],
+   "rule": [
+    "La certification s'obtient par validation des 3 blocs de compétences communs obligatoires, complétée de la validation d'un des 2 blocs de spécialisation.",
+    "Le candidat doit également valider é plusieurs expériences professionnelles (2 stages en entreprise ou 1 stage en entreprise + 1 contrat en alternance d’un ou deux ans)."
+   ],
+   "sectors": "Le secteur du développement informatique est en pleine expansion, alimenté par la transformation numérique et les nouvelles technologies. Les développeurs sont très recherchés dans divers secteurs comme les TIC, la finance, la santé, l'industrie et le commerce. Ils peuvent travailler dans des startups, des PME ou des grandes entreprises, chaque type offrant des environnements et des rôles variés. Les méthodologies agiles, le télétravail et les équipes multidisciplinaires sont courants, permettant une grande flexibilité et une approche collaborative.",
+   "jobs": [
+    "Concepteur-développeur",
+    "Développeur full-stack, back-end, IOS, ...",
+    "Développeur logiciel applications web et mobile",
+    "Développeur de jeux vidéos",
+    "Développeur informatique"
+   ],
+   "rome": [
+    {
+     "code": "M1805",
+     "label": "Études et développement informatique"
+    }
+   ],
+   "prerequisites": [
+    "Le candidat devra avoir plus de 18 ans et passer un processus de sélection.",
+    "Ce processus est composé de plusieurs étapes : des jeux en ligne, check-in, une réunion d’information, piscine (test de positionnement d’un mois qui se déroule dans les locaux de l'organisme)"
+   ],
+   "stats": [
+    {
+     "year": 2023,
+     "certified": 22,
+     "by_vae": 2,
+     "insertion_6m": 100,
+     "in_job_6m": 100,
+     "in_job_2y": null
+    },
+    {
+     "year": 2022,
+     "certified": 6,
+     "by_vae": 1,
+     "insertion_6m": 75,
+     "in_job_6m": 75,
+     "in_job_2y": 100
+    }
+   ]
+  },
+  "39774": {
+   "code": "39774",
+   "title": "Expert en architecture informatique",
+   "level": 7,
+   "eqf": "master's degree level",
+   "expiry": "31-10-2029",
+   "url": "https://www.francecompetences.fr/recherche/rncp/39774/",
+   "info_url": "https://42.fr/nos-engagements/renouvellement-rncp-7/",
+   "summary": "L’expert en Architecture Informatique a pour mission de définir et concevoir des architectures robustes qui alignent les systèmes informatiques sur les objectifs stratégiques des entreprises. Leur rôle inclut l'évaluation des besoins des utilisateurs, la conception de solutions techniques, et la veille technologique pour suivre les évolutions du secteur.",
+   "activities": [
+    "Veille technologique et réglementaire",
+    "Analyse de l’existant, des besoins du commanditaire et de la faisabilité du projet",
+    "Définition de l’architecture matérielle et logicielle",
+    "Développement de l’architecture réseau et systèmes",
+    "Sécurisation des réseaux et systèmes",
+    "Développement de l’architecture de données",
+    "Mise en œuvre des stratégies de sécurité des données",
+    "Mise en place des services de traitement et de visualisation des données au sein de l’architecture",
+    "Sélection des ressources technologiques et mobilisation de ressources externes",
+    "Organisation du projet d’infrastructure informatique",
+    "Pilotage du projet d’infrastructure informatique",
+    "Réalisation de la documentation utilisateur",
+    "Implémentation d’une maintenance de l’architecture",
+    "Évolutions de l’architecture et amélioration des processus"
+   ],
+   "blocks": [
+    {
+     "code": "RNCP39774BC01",
+     "title": "Définir et concevoir l’architecture informatique d’une solution numérique",
+     "option": null,
+     "competences": [
+      "Réaliser une veille technologique continue sur différents domaines liés au numérique afin de toujours être dans la tendance et proposer aux clients des solutions innovantes et responsables",
+      "Rechercher des solutions innovantes en testant de nouvelles techniques et nouveaux logiciels, et en les intégrant à des solutions existantes dans le but d’optimiser les processus et renforcer les capacités technologiques de la structure",
+      "Analyser l'infrastructure informatique actuelle pour identifier les points forts et les faiblesses, en utilisant des outils d'audit et d'analyse de performance afin de comprendre l'état de départ du système",
+      "Identifier les parties prenantes du projet et collecter les besoins et attentes en menant des entretiens et ateliers, afin de définir les objectifs et les contraintes du projet tout en prenant en compte les spécificités et les intérêts de chacun",
+      "Évaluer la faisabilité du projet en effectuant des estimations quant aux besoins nécessaires à sa réalisation, à l'aide d’outils de simulation et de prototypage dans le but de valider la viabilité des solutions proposées",
+      "Formaliser les besoins du commanditaire dans un cahier des charges technique comprenant d’une part l’existant de l’infrastructure actuelle et une projection fonctionnelle de ce que devrait être l’infrastructure cible afin de fournir une base claire et structurée pour la conception, la mise en œuvre et la recette de solutions alignées avec les objectifs stratégiques du projet",
+      "Concevoir l'architecture matérielle et logicielle en choisissant parmi les stratégies possibles, et en utilisant des outils de modélisation de l'architecture dans le respect des pratiques écoresponsables pour visualiser les composants du système et leurs interactions",
+      "Sélectionner les matériels, outils, et technologies appropriées pour l’architecture définie en fonction des besoins du projet, des contraintes de budget et des tendances actuelles afin de garantir une solution performante et évolutive",
+      "Évaluer les risques en matière de sécurité à travers des analyses de risques classiques, la modélisation des menaces connues, et des scénarios de risques spécifiques, afin d’intégrer des mesures de sécurité dès la conception du projet, et ainsi protéger les données et les systèmes contre les menaces"
+     ],
+     "evaluation": "Mise en situation professionnelle - Rendus de livrable - Soutenance orale"
+    },
+    {
+     "code": "RNCP39774BC02",
+     "title": "Réaliser l’architecture des systèmes d’information et réseaux",
+     "option": 1,
+     "competences": [
+      "Installer et administrer des serveurs physiques et virtuels, locaux et à distance (Cloud), en utilisant des systèmes d'exploitation tels que Linux et Windows Server et des méthodes de virtualisation et de conteneurisation comme ESXI et Docker pour garantir la disponibilité, la performance, mais également l’écoresponsabilité des services hébergés",
+      "Mettre en place une architecture réseau I.P. en installant, connectant et configurant les équipements réseau (routeurs, commutateurs, pare-feu, passerelles, … ), en respectant les protocoles de communication, et en intégrant les contraintes d’architecture, de performance, d’éco-responsabilité et de transit afin de permettre aux machines de communiquer entre elles et de répondre au besoin",
+      "Installer et configurer les services réseau qui ensemble constituent le système d’information, comme les services centralisés de gestion des utilisateurs, la messagerie, les stockages et calculs partagés et distribués, les outils métiers, mais également les outils DevOps afin de garantir une infrastructure stable, sécurisée et performante, permettant aux utilisateurs et aux applications de fonctionner de manière optimale et continue dans un environnement évolutif",
+      "Administrer le réseau et les services en utilisant des tâches planifiées, des logiciels de surveillance appropriés ou en créant des logiciels ou scripts ad-hoc pour tenir compte des spécificités du système d’information afin de garantir au quotidien le service rendu à l’ensemble de ses utilisateurs",
+      "Réaliser et superviser avec les équipes dédiées des tests fonctionnels et des tests de charge sur l’architecture afin de vérifier que celle-ci réponde bien aux besoins client et au cahier des charges technique, ainsi qu’aux situations de surcroît d’activité, et appliquer si nécessaire les correctifs appropriés",
+      "Établir des objectifs de sécurité clairs et spécifiques en collaborant avec les parties prenantes afin de garantir que les mesures de sécurisation répondent aux enjeux de l'organisation",
+      "Mettre en œuvre des politiques de sécurité réseau et système en sélectionnant, en installant et en configurant des pare-feu, des VPN, des systèmes de détection d'intrusion (IDS/IPS) afin de protéger les données et les infrastructures contre les menaces, et augmenter la résilience (redondance, sauvegarde)",
+      "Administrer les accès et les identités en configurant des bases utilisateurs ou annuaires (comme Active Directory, LDAP) et des politiques d'authentification et d'autorisation pour garantir la sécurité et la conformité des accès aux ressources réseau et système",
+      "Organiser et réalisation des tests de sécurité (tests de pénétration, audits de sécurité, scans de vulnérabilité) en utilisant des méthodes telles que les simulations d’attaques (virus, rootkit, man-in-the-middle), les analyses de code et les revues de configuration et en s’appuyant sur des outils tels que Nessus, OpenVAS, Qualys afin d’identifier et corriger les failles de sécurité dans les réseaux et systèmes, ainsi que des tests de “social engineering” visant à abuser des utilisateurs pour obtenir des accès indus"
+     ],
+     "evaluation": "Mise en situation professionnelle - Rendus de livrable - Soutenance orale"
+    },
+    {
+     "code": "RNCP39774BC03",
+     "title": "Réaliser l’architecture de données",
+     "option": 2,
+     "competences": [
+      "Identifier les flux de données en collectant l’information auprès de différents responsables/services, en cartographiant et en visualisant les données brutes, les volumes, les utilisations, à l’aide d’outils appropriés, afin de proposer une stratégie cohérente liée à la Data",
+      "Mettre en œuvre une architecture de données globale et éco-responsable au moyen d’éléments d’infrastructure réseau et matériels, de stratégie de stockage en bases de données, et de services de traitements de la data, afin de répondre aux besoins utilisateurs et au volume de données",
+      "Assurer la structuration de la donnée en choisissant des méthodes de stockage de l’information et bases de données appropriées selon le type et l’usage de la donnée (SGBD relationnel ou non relationnel, fichiers brut, base documentaire, …), grâce à des outils de modélisation afin de répondre aux besoins du client tant en matière de capacité de stockage et de traitement que de temps de réponse de l'ensemble du système",
+      "Réaliser et superviser avec les équipes dédiées des tests fonctionnels de transit et utilisation de la donnée, et des tests de charge sur l’architecture afin de vérifier que celle-ci réponde bien aux besoins clients et au cahier des charges technique, ainsi qu’aux situations de surcroît d’activité, et appliquer si nécessaire les correctifs appropriés",
+      "Définir des règles de sécurité et des contrôles d'accès en configurant des rôles, des permissions et des politiques de chiffrement afin de protéger les données contre les accès non autorisés et les violations : sur les zones de fichiers partagés, sur certaines bases de données ou tables spécifiques, sur certaines portions du réseau",
+      "Mettre en place des systèmes de surveillance et de détection des anomalies d’accès et de données, en utilisant des outils de monitoring et des solutions SIEM (Security Information and Event Management) pour détecter et répondre rapidement aux incidents de sécurité",
+      "Mettre en œuvre des stratégies de sauvegarde et de récupération des données en planifiant des sauvegardes régulières et en testant les procédures de restauration afin de garantir la continuité des opérations en cas de perte de données",
+      "Effectuer le traitement de la Data par la programmation informatique, la mise en place d’algorithmes comme le big data, le cloud computing, le machine learning (apprentissage automatique) ou le deep learning (apprentissage profond), des calculs statistiques et de corrélations, le cryptage ou l’authentification sur la blockchain, afin de pouvoir exploiter et donner du sens à ces données",
+      "Réaliser une Data visualisation, avant le traitement des données comme à la suite, à l’aide de graphiques et synthèses permettant aux décideurs d’orienter la stratégie de l’entreprise, tout en s’assurant du respect de la confidentialité en matière de traitement des données"
+     ],
+     "evaluation": "Mise en situation professionnelle - Rendus de livrable - Soutenance orale"
+    },
+    {
+     "code": "RNCP39774BC04",
+     "title": "Piloter la mise en œuvre de l’architecture informatique",
+     "option": null,
+     "competences": [
+      "Établir les critères de sélection des ressources externes en matière de sécurité des données, de respect de l’environnement, d’expertise, de gamme de services et solutions, de qualité du soutien, et d’accessibilité, afin d’être le plus compétitif dans la réalisation du projet et des besoins exprimés",
+      "Sélectionner les ressources externes (matérielles, humaines, services) permettant de réaliser l’architecture système et réseau ou base de données et data qui a été décidée, dans le respect des budgets, de la qualité attendue, et du respect des normes (environnemental, sécurité, législation)",
+      "Réaliser le plan d’organisation du projet en identifiant les différentes phases et les différentes actions à mener, dans le respect des éléments de coût-délai-qualité, en communiquant auprès des équipes sur les objectifs et en identifiant les risques techniques, afin de s’assurer de la bonne conduite du projet informatique",
+      "Assurer la direction du projet et de l’ensemble des collaborateurs et intervenants, tout en s’assurant de la prévention des conflits et en s’adaptant aux divers profils impliqués, y compris des profils en situation de handicap, afin d’avoir une bonne cohésion d’ensemble",
+      "Piloter et superviser la mise en œuvre du projet informatique, en s'assurant de la définition et de l'atteinte des objectifs, en anticipant et gérant les risques, et en faisant évoluer le projet le cas échéant, pour garantir la réussite du projet en accord avec les besoins clients et le cahier des charges",
+      "Livrer le projet terminé et en production, en contrôlant les attendus en interne puis avec le client, et en faisant le bilan des changements et de leurs impacts afin de garantir la satisfaction du client, la conformité aux exigences initiales, et d’assurer une transition fluide vers l’exploitation opérationnelle"
+     ],
+     "evaluation": "Mise en situation professionnelle - Rendus de livrable - Soutenance orale"
+    },
+    {
+     "code": "RNCP39774BC05",
+     "title": "Gérer le déploiement et l’optimisation continue de l’architecture informatique",
+     "option": null,
+     "competences": [
+      "Réaliser et contrôler la documentation utilisateur à destination des clients, des utilisateurs et des responsables de la production, afin de garantir l'exactitude et la cohérence des informations fournies",
+      "Communiquer la documentation à tous les interlocuteurs à travers l’organisation au travers de sessions explicatives ou de formation afin de garantir une compréhension partagée et homogène des informations essentielles",
+      "Mettre en œuvre une maintenance évolutive des applications en assurant les corrections suite aux remontées automatiques d’informations de production, aux problèmes soulevés (bugs) par les utilisateurs ou les équipes dédiées afin de garantir la performance, la stabilité et l’évolution continue des applications",
+      "Recueillir les nouveaux besoins d’infrastructure auprès des clients et utilisateurs afin d’optimiser l’architecture existante",
+      "Mettre en œuvre les évolutions de l’architecture pour répondre aux nouveaux besoins des différents interlocuteurs (client, utilisateur, superviseur, développeur, …) en tenant compte des contraintes techniques, des exigences de performance et de sécurité, ainsi que des délais et des budgets alloués pour garantir une adaptation cohérente et efficace des systèmes"
+     ],
+     "evaluation": "Mise en situation professionnelle - Rendus de livrable - Soutenance orale"
+    }
+   ],
+   "rule": [
+    "La certification s'obtient par validation des 3 blocs de compétences communs obligatoires, complétée de la validation d'un des 2 blocs de spécialisation.",
+    "Le candidat devra également valider plusieurs expériences professionnelles (2 stages en entreprise ou 1 stage en entreprise + 1 contrat en alternance d’un ou deux ans)."
+   ],
+   "sectors": "L'expert en architecture informatique exerce dans une variété de secteurs d'activité, notamment ceux qui nécessitent des systèmes informatiques complexes et une infrastructure technologique robuste. Les principaux secteurs où cette expertise est requise sont : technologie de l'information (IT) et services numériques, banque et finance, télécommunications, santé et services médicaux, industrie manufacturière et logistique, commerce de détail (e-commerce), secteur public et gouvernement, énergie et services publics, transport et aéronautique et éducation.",
+   "jobs": [
+    "Architecte Système",
+    "Architecte IT (Technologies de l'Information)",
+    "Architecte Logiciel",
+    "Architecte Technique",
+    "Architecte d'Entreprise",
+    "Architecte Infrastructure",
+    "Consultant en Architecture Informatique",
+    "Ingénieur en Architecture Informatique",
+    "Architecte Cloud",
+    "Architecte Sécurité",
+    "Architecte des systèmes d’information",
+    "Architecte des infrastructures de données"
+   ],
+   "rome": [
+    {
+     "code": "M1802",
+     "label": "Expertise et support en systèmes d'information"
+    },
+    {
+     "code": "M1806",
+     "label": "Conseil et maîtrise d'ouvrage en systèmes d'information"
+    }
+   ],
+   "prerequisites": [
+    "Le candidat devra avoir plus de 18 ans et passer un processus de sélection.",
+    "Ce processus est composé de plusieurs étapes : des jeux en ligne, check-in, une réunion d’information, piscine (test de positionnement d’un mois qui se déroule dans les locaux de l'organisme)"
+   ],
+   "stats": [
+    {
+     "year": 2023,
+     "certified": 50,
+     "by_vae": 1,
+     "insertion_6m": 100,
+     "in_job_6m": 81,
+     "in_job_2y": null
+    },
+    {
+     "year": 2022,
+     "certified": 11,
+     "by_vae": 5,
+     "insertion_6m": 100,
+     "in_job_6m": 89,
+     "in_job_2y": 90
+    }
+   ]
+  }
+ }
+}

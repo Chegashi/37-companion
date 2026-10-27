@@ -1,0 +1,6483 @@
+{
+  "generated_at": "2026-10-04T02:11:57.982Z",
+  "cursus_id": 21,
+  "count": 160,
+  "projects": [
+    {
+      "id": 1387,
+      "name": "42run",
+      "slug": "42run",
+      "url": "https://projects.intra.42.fr/projects/42cursus-42run",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "scop"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "OpenGL"
+      ],
+      "description": "Do you know the mobile game Temple Run? Time to settle and create it on your own! This OpenGL project aims to create a graphic game using the power of GPUs, manipulating 3D meshes, and implementing classical gameplay features.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1854,
+      "name": "42sh",
+      "slug": "42sh",
+      "url": "https://projects.intra.42.fr/projects/42cursus-42sh",
+      "xp": 15750,
+      "estimate": "294 hours",
+      "estimate_hours": 294,
+      "team": "4-5",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Unix",
+        "System"
+      ],
+      "description": "This project consists of creating a complete shell. A minimum set of functionalities is asked, from which you will build your own finalized shell, potentially going as far as job control and shell scripting. This project will involve a large variety of standard UNIX (and POSIX) functionalities.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: suite",
+        "RNCP6 Applicative: suite",
+        "RNCP7 Security: suite",
+        "RNCP7 Data: suite"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2371,
+      "name": "Abstract_data",
+      "slug": "abstract_data",
+      "url": "https://projects.intra.42.fr/projects/abstract_data",
+      "xp": 20084,
+      "estimate": "290 hours",
+      "estimate_hours": 290,
+      "team": "solo",
+      "requires": [
+        [
+          "piscine-object"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "data structures",
+        "OOP",
+        "C++"
+      ],
+      "description": "The multiple available containers in C++ all have a very different usage. To make sure you understand them all, let's re-implement them!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: OOP"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1461,
+      "name": "abstract-vm",
+      "slug": "abstract-vm",
+      "url": "https://projects.intra.42.fr/projects/42cursus-abstract-vm",
+      "xp": 9450,
+      "estimate": "21 days",
+      "estimate_hours": 147,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "C++",
+        "Virtual machine",
+        "Manipulation of abstract data"
+      ],
+      "description": "This project gets you back into the flow after the C++ piscine and involves creating a virtual machine capable of executing code in basic pseudo-ASM. You will use a stack for basic arithmetic operations, similar to the dc command.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 2743,
+      "name": "Agent smith",
+      "slug": "agent-smith",
+      "url": "https://projects.intra.42.fr/projects/42cursus-agent-smith",
+      "xp": 10042,
+      "estimate": "100 hours",
+      "estimate_hours": 100,
+      "team": "2-3",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ],
+        [
+          "rag-against-the-machine"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "AI",
+        "Agentic"
+      ],
+      "description": "This is a project where you build an autonomous AI agent capable of reasoning, generating, executing, and iterating on code to solve programming challenges in a secure, sandboxed environment.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 2763,
+      "name": "AI Experimentation Rushes",
+      "slug": "ai-experimentation-rushes",
+      "url": "https://projects.intra.42.fr/projects/ai-experimentation-rushes",
+      "xp": 0,
+      "estimate": "480 hours",
+      "estimate_hours": 480,
+      "team": "solo",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [],
+      "description": "",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 2762,
+          "name": "BrickDepth",
+          "slug": "brickdepth",
+          "xp": 0,
+          "estimate": "48 hours",
+          "requires": []
+        },
+        {
+          "id": 2764,
+          "name": "ChromaCraft",
+          "slug": "chromacraft",
+          "xp": 0,
+          "estimate": "48 hours",
+          "requires": []
+        },
+        {
+          "id": 2765,
+          "name": "CVForge",
+          "slug": "cvforge",
+          "xp": 0,
+          "estimate": "48 hours",
+          "requires": []
+        },
+        {
+          "id": 2766,
+          "name": "FaceSwap42",
+          "slug": "faceswap42",
+          "xp": 0,
+          "estimate": "48 hours",
+          "requires": []
+        },
+        {
+          "id": 2767,
+          "name": "grAff-it",
+          "slug": "graff-it",
+          "xp": 0,
+          "estimate": "48 hours",
+          "requires": []
+        },
+        {
+          "id": 2768,
+          "name": "GraphForge",
+          "slug": "graphforge",
+          "xp": 0,
+          "estimate": "48 hours",
+          "requires": []
+        },
+        {
+          "id": 2769,
+          "name": "InterviewSim",
+          "slug": "interviewsim",
+          "xp": 0,
+          "estimate": "48 hours",
+          "requires": []
+        },
+        {
+          "id": 2770,
+          "name": "LeakLab",
+          "slug": "leaklab",
+          "xp": 0,
+          "estimate": "48 hours",
+          "requires": []
+        },
+        {
+          "id": 2771,
+          "name": "PrompTrial",
+          "slug": "promptrial",
+          "xp": 0,
+          "estimate": "48 hours",
+          "requires": []
+        },
+        {
+          "id": 2772,
+          "name": "SpinDetect",
+          "slug": "spindetect",
+          "xp": 0,
+          "estimate": "48 hours",
+          "requires": []
+        }
+      ],
+      "xp_with_modules": 0,
+      "unlocks": []
+    },
+    {
+      "id": 1435,
+      "name": "avaj-launcher",
+      "slug": "avaj-launcher",
+      "url": "https://projects.intra.42.fr/projects/42cursus-avaj-launcher",
+      "xp": 4200,
+      "estimate": "50 hours",
+      "estimate_hours": 50,
+      "team": "solo",
+      "requires": [
+        [
+          "java-module-09"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Java",
+        "UML"
+      ],
+      "description": "First project of the Java projects arc. Implementation of a simple Java program according to a given class diagram written in UML.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: OOP"
+      ],
+      "unlocks": [
+        "swingy"
+      ]
+    },
+    {
+      "id": 2606,
+      "name": "B",
+      "slug": "b",
+      "url": "https://projects.intra.42.fr/projects/b",
+      "xp": 9450,
+      "estimate": "50 hours",
+      "estimate_hours": 50,
+      "team": "solo",
+      "requires": [
+        [
+          "libasm"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Compilation",
+        "B"
+      ],
+      "description": "The letter before C",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "cc1"
+      ]
+    },
+    {
+      "id": 2071,
+      "name": "Bgp At Doors of Autonomous Systems is Simple",
+      "slug": "bgp-at-doors-of-autonomous-systems-is-simple",
+      "url": "https://projects.intra.42.fr/projects/bgp-at-doors-of-autonomous-systems-is-simple",
+      "xp": 22450,
+      "estimate": "200 hours",
+      "estimate_hours": 200,
+      "team": "2-3",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Network administration",
+        "GNS3",
+        "BGP"
+      ],
+      "description": "The purpose of this project is to deepen your knowledge of NetPractice. You will have to simulate several networks (VXLAN+BGP-EVPN) in GNS3.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: suite",
+        "RNCP6 Applicative: suite",
+        "RNCP7 Security: suite",
+        "RNCP7 Security: admin-sys",
+        "RNCP7 Data: suite"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1389,
+      "name": "bomberman",
+      "slug": "bomberman",
+      "url": "https://projects.intra.42.fr/projects/42cursus-bomberman",
+      "xp": 25200,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "4-5",
+      "requires": [
+        [
+          "humangl"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "Multiplayer"
+      ],
+      "description": "Bomberman is a classic video game: as simple in its gameplay as it is fun to play! You will leverage its simplicity here to undertake your first major professional-grade C++ project. Your goal is to recode a version of Bomberman in C++ and OpenGL, with the aim of creating the most polished game possible.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: OOP"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1446,
+      "name": "boot2root",
+      "slug": "boot2root",
+      "url": "https://projects.intra.42.fr/projects/42cursus-boot2root",
+      "xp": 11500,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "2-4",
+      "requires": [
+        [
+          "snow-crash"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Security",
+        "Unix"
+      ],
+      "description": "This project introduces computer security through a hands-on challenge: you are given access to a deliberately vulnerable Linux server and must become root by at least two distinct methods. Each path requires reconnaissance, web exploitation, and a chain of privilege escalations across multiple user accounts. You will document every step in a writeup, explain the vulnerability behind each breach, and understand how it could have been prevented.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: security"
+      ],
+      "unlocks": [
+        "unleashthebox"
+      ]
+    },
+    {
+      "id": 2745,
+      "name": "Call Me Maybe",
+      "slug": "call-me-maybe",
+      "url": "https://projects.intra.42.fr/projects/42cursus-call-me-maybe",
+      "xp": 1764,
+      "estimate": "80 hours",
+      "estimate_hours": 80,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "AI",
+        "Parsing",
+        "LLM"
+      ],
+      "description": "This project introduces function calling in Large Language Models by building a system that translates natural language prompts into structured function calls with typed arguments. You'll implement constrained decoding to guarantee valid JSON output, achieving near-perfect reliability with a small 0.5B parameter model, bridging the gap between human language and computer-executable operations.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/223020/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "unlocks": [
+        "rag-against-the-machine"
+      ]
+    },
+    {
+      "id": 1396,
+      "name": "camagru",
+      "slug": "camagru",
+      "url": "https://projects.intra.42.fr/projects/42cursus-camagru",
+      "xp": 4200,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Web",
+        "MVC"
+      ],
+      "description": "This project is a warm-up for web development. You will need to create a small, Instagram-like website that allows users to create and share photomontages. From scratch, you will implement the basic functionalities commonly used by any website with a user base.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: web",
+        "RNCP6 Applicative: OOP",
+        "RNCP7 Data: databases"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2625,
+      "name": "cc1",
+      "slug": "cc1",
+      "url": "https://projects.intra.42.fr/projects/cc1",
+      "xp": 50000,
+      "estimate": "300 hours",
+      "estimate_hours": 300,
+      "team": "1-2",
+      "requires": [
+        [
+          "b"
+        ],
+        [
+          "ft_yacc"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Computer science",
+        "Compilers",
+        "llvm"
+      ],
+      "description": "This project is about creating a C compiler",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1934,
+      "name": "churn",
+      "slug": "churn",
+      "url": "https://projects.intra.42.fr/projects/churn",
+      "xp": 9450,
+      "estimate": "14 days",
+      "estimate_hours": 98,
+      "team": "1-2",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DB & Data",
+        "Algorithms & AI",
+        "Rigor"
+      ],
+      "description": "This project is an introduction to artificial neural nets: fully-connected neural nets, hidden layers, activation functions, back-propagation, dropout",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "myspotify"
+      ]
+    },
+    {
+      "id": 2349,
+      "name": "cinema",
+      "slug": "cinema",
+      "url": "https://projects.intra.42.fr/projects/42cursus-cinema",
+      "xp": 9450,
+      "estimate": "7 days",
+      "estimate_hours": 49,
+      "team": "2-2",
+      "requires": [
+        [
+          "java-module-09"
+        ],
+        [
+          "fwa"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Rigor",
+        "DB & Data",
+        "Object-oriented programming",
+        "Technology integration",
+        "Group & interpersonal"
+      ],
+      "description": "Let's expand your knowledge of Java web development using the Spring stack and master Hibernate framework",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "spring-boot"
+      ]
+    },
+    {
+      "id": 1957,
+      "name": "City Life",
+      "slug": "city-life",
+      "url": "https://projects.intra.42.fr/projects/city-life",
+      "xp": 15750,
+      "estimate": "21 days",
+      "estimate_hours": 147,
+      "team": "solo",
+      "requires": [
+        [
+          "uber"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DB & Data",
+        "Algorithms & AI",
+        "Adaptation & creativity",
+        "Technology integration",
+        "Data Visualization"
+      ],
+      "description": "This project is an introduction to geospatial analytics: GeoPandas, clustering, making maps",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "fried-eggs"
+      ]
+    },
+    {
+      "id": 1414,
+      "name": "cloud-1",
+      "slug": "cloud-1",
+      "url": "https://projects.intra.42.fr/projects/42cursus-cloud-1",
+      "xp": 9450,
+      "estimate": "100 hours",
+      "estimate_hours": 100,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "System administration",
+        "Cloud"
+      ],
+      "description": "This project is an introduction to cloud servers.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/202602/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP7 Security: admin-sys"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1382,
+      "name": "computorv1",
+      "slug": "computorv1",
+      "url": "https://projects.intra.42.fr/projects/42cursus-computorv1",
+      "xp": 4200,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Math",
+        "Polynomial"
+      ],
+      "description": "The goal of this project is to get acquainted with handling elementary math tools that may be helpful for other 42 projects. You will not “do math for doing math”, but to develop a progressive and relaxed approach to projects where these tools are needed. You can choose the language of your choice for this subject.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "computorv2"
+      ]
+    },
+    {
+      "id": 1433,
+      "name": "computorv2",
+      "slug": "computorv2",
+      "url": "https://projects.intra.42.fr/projects/42cursus-computorv2",
+      "xp": 9450,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "solo",
+      "requires": [
+        [
+          "computorv1"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Math",
+        "Imaginary number"
+      ],
+      "description": "Now that you have programmed your equation solver, it’s time to go further. Computor V2 lets you create your own calculator from the command line, which will integrate your Computor V1 as well as functions for matrix calculus, function solving, calculations with complex numbers, and more.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/214344/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1475,
+      "name": "corewar",
+      "slug": "corewar",
+      "url": "https://projects.intra.42.fr/projects/42cursus-corewar",
+      "xp": 17500,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-4",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Emulation",
+        "Optimisation"
+      ],
+      "description": "This project involves creating a virtual arena, and having simplistic-language programs fight each other. You will thus get acquainted with VM conception (with instructions it recognizes, registers, etc) and compilation problems of an assembly language in bytecode. In bonus, the pleasure to have your champions fight in the arena.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 2346,
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "url": "https://projects.intra.42.fr/projects/cybersecurity",
+      "xp": 0,
+      "estimate": "63 hours",
+      "estimate_hours": 63,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity"
+      ],
+      "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/213170/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP7 Security: security"
+      ],
+      "modules": [
+        {
+          "id": 2337,
+          "name": "Cybersecurity - Stockholm - Malware",
+          "slug": "cybersecurity-stockholm-malware",
+          "xp": 1350,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "cybersecurity-reverse-me-rev"
+            ]
+          ]
+        },
+        {
+          "id": 2344,
+          "name": "(Optional) Cybersecurity - Iron Dome - Malware",
+          "slug": "optional-cybersecurity-iron-dome-malware",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "cybersecurity-stockholm-malware"
+            ]
+          ]
+        },
+        {
+          "id": 2326,
+          "name": "Cybersecurity - arachnida - Web",
+          "slug": "cybersecurity-arachnida-web",
+          "xp": 1350,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2328,
+          "name": "Cybersecurity - ft_onion - Web",
+          "slug": "cybersecurity-ft_onion-web",
+          "xp": 1350,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "cybersecurity-ft_otp-otp"
+            ]
+          ]
+        },
+        {
+          "id": 2327,
+          "name": "Cybersecurity - ft_otp - OTP",
+          "slug": "cybersecurity-ft_otp-otp",
+          "xp": 1350,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "cybersecurity-arachnida-web"
+            ]
+          ]
+        },
+        {
+          "id": 2343,
+          "name": "Cybersecurity - Inquisitor - Network",
+          "slug": "cybersecurity-inquisitor-network",
+          "xp": 1350,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "cybersecurity-stockholm-malware"
+            ]
+          ]
+        },
+        {
+          "id": 2336,
+          "name": "Cybersecurity - Reverse me - Rev",
+          "slug": "cybersecurity-reverse-me-rev",
+          "xp": 1350,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "cybersecurity-ft_onion-web"
+            ]
+          ]
+        },
+        {
+          "id": 2345,
+          "name": "Cybersecurity - Vaccine - Web",
+          "slug": "cybersecurity-vaccine-web",
+          "xp": 1350,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "cybersecurity-inquisitor-network"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 9450,
+      "unlocks": []
+    },
+    {
+      "id": 1405,
+      "name": "darkly",
+      "slug": "darkly",
+      "url": "https://projects.intra.42.fr/projects/42cursus-darkly",
+      "xp": 6300,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Web"
+      ],
+      "description": "Introductory project to computer security in the specific field of the web, this project has you audit a deliberately vulnerable web platform. You will exploit real-world vulnerabilities to escalate your access from an anonymous visitor all the way up to administrator, capture the flags hidden along the way, and understand how each breach could have been prevented, both from a programming and a design perspective.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: web",
+        "RNCP6 Applicative: OOP",
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: security",
+        "RNCP7 Data: databases"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2751,
+      "name": "Datomic",
+      "slug": "datomic",
+      "url": "https://projects.intra.42.fr/projects/datomic",
+      "xp": 0,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Databases",
+        "Data modelling"
+      ],
+      "description": "Datomic is a databases project. On a single self-contained VM you climb twenty levels across six engines (SQLite, PostgreSQL, Redis, ClickHouse, Neo4j and DuckDB), building up SQL and then moving on to columnar, key-value and graph stores. The point is not the syntax of six databases but knowing which tool fits which problem, and federating them instead of duplicating data. Every level draws from a bank of validated variants and your data is renamed for your login, so nobody hands you a solved copy. You discover the SQL yourself in a browser playground and prove it in a live review exam, with nothing to hand in.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/229044/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1445,
+      "name": "death",
+      "slug": "death",
+      "url": "https://projects.intra.42.fr/projects/42cursus-death",
+      "xp": 35700,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "2-2",
+      "requires": [
+        [
+          "war"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Low-level",
+        "Malware"
+      ],
+      "description": "Last virus project. Create with your Famine, Pestilence and War a real metamorphic code.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1458,
+      "name": "doom-nukem",
+      "slug": "doom-nukem",
+      "url": "https://projects.intra.42.fr/projects/42cursus-doom-nukem",
+      "xp": 15750,
+      "estimate": "294 hours",
+      "estimate_hours": 294,
+      "team": "3-4",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "MlX"
+      ],
+      "description": "Doom Nukem pushes the possibilities of Raycasting much further while bringing a dimension of Game design, so you are going to have to make a mix of Doom and Duke Nukem 3D. It's up to you to find the one that suits you and that will allow you to add the requested features as well as those you want to see there.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: suite",
+        "RNCP6 Applicative: suite",
+        "RNCP7 Security: suite",
+        "RNCP7 Data: suite"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1418,
+      "name": "dr-quine",
+      "slug": "dr-quine",
+      "url": "https://projects.intra.42.fr/projects/42cursus-dr-quine",
+      "xp": 2520,
+      "estimate": "14 hours",
+      "estimate_hours": 14,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Unix",
+        "Optimisation"
+      ],
+      "description": "This small algo project will get you acquainted with auto-replication problems and confront the Kleene recursion theorem.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1422,
+      "name": "drivers-and-interrupts",
+      "slug": "drivers-and-interrupts",
+      "url": "https://projects.intra.42.fr/projects/42cursus-drivers-and-interrupts",
+      "xp": 15750,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "ft_linux"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "Learn how to connect a driver to your kernel. We will use a keyboard driver for this project.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1453,
+      "name": "dslr",
+      "slug": "dslr",
+      "url": "https://projects.intra.42.fr/projects/42cursus-dslr",
+      "xp": 6000,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DataScience",
+        "Logistic Regression"
+      ],
+      "description": "Discover Data Science through this project by recreating the Hogwarts Sorting Hat using logistic regression!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "unlocks": [
+        "leaffliction",
+        "learn2slither",
+        "multilayer-perceptron",
+        "total-perspective-vortex"
+      ]
+    },
+    {
+      "id": 2752,
+      "name": "Ecomesh",
+      "slug": "ecomesh",
+      "url": "https://projects.intra.42.fr/projects/ecomesh",
+      "xp": 0,
+      "estimate": "200 hours",
+      "estimate_hours": 200,
+      "team": "2-3",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Green IT",
+        "Artificial intelligence",
+        "Network & system administration"
+      ],
+      "description": "One deployment, one year, zero reset. A mesh of battery-powered sensors is dropped in a nature reserve with no way back in: no recharge, no replacement, no repair. Your job is not to build the network, it is to keep it alive and honest. You build, in code, a real carbon cost model of the system using the Software Carbon Intensity standard, accounting for both the energy the nodes spend and the carbon embodied in the hardware itself, including what is stranded for good when a node runs out of battery or wears out early. Then you design an adaptive policy that spreads component wear and places computation, so no single node burns out and drags a whole branch of the mesh down with it. Everything runs on real Contiki-NG firmware inside a headless Cooja / MSPSim emulation, on a procedurally generated scenario you have never seen and cannot memorize. By the end, you can explain every decision in terms of the Green Software Engineering principles it serves.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1384,
+      "name": "expert-system",
+      "slug": "expert-system",
+      "url": "https://projects.intra.42.fr/projects/42cursus-expert-system",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "lem_in",
+          "rubik",
+          "n-puzzle"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Optimisation",
+        "Algorithm"
+      ],
+      "description": "This project involves creating, in the language of your choice, an expert system in proposal calculation. In other words, a program that can reason on a set of rules and initial facts to deduce other facts.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1430,
+      "name": "famine",
+      "slug": "famine",
+      "url": "https://projects.intra.42.fr/projects/42cursus-famine",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "woody-woodpacker"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Low-level",
+        "Malware"
+      ],
+      "description": "Welcome to the wonderful world of viruses, trojans and other <Insert random antiVirus software>… Your goal here is to put your skills on handling binary files and make your first virus. WARNING: this project is solely for educational purposes!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: security"
+      ],
+      "unlocks": [
+        "pestilence"
+      ]
+    },
+    {
+      "id": 1423,
+      "name": "filesystem",
+      "slug": "filesystem",
+      "url": "https://projects.intra.42.fr/projects/42cursus-filesystem",
+      "xp": 15750,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-2",
+      "requires": [
+        [
+          "ft_linux"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "Create your own filesystem, for your linux kernel.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1437,
+      "name": "fix-me",
+      "slug": "fix-me",
+      "url": "https://projects.intra.42.fr/projects/42cursus-fix-me",
+      "xp": 15750,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "solo",
+      "requires": [
+        [
+          "java-module-09"
+        ],
+        [
+          "swingy"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Java",
+        "Network"
+      ],
+      "description": "Final project of the Java Programming arc. You will write a program that simulates stock exchanges and handles trading algorithms, including networking and socket implementations.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: OOP"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1883,
+      "name": "freddie-mercury",
+      "slug": "freddie-mercury",
+      "url": "https://projects.intra.42.fr/projects/freddie-mercury",
+      "xp": 12600,
+      "estimate": "14 days",
+      "estimate_hours": 98,
+      "team": "1-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Game Developer"
+      ],
+      "description": "VR escape game",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1960,
+      "name": "Fried eggs",
+      "slug": "fried-eggs",
+      "url": "https://projects.intra.42.fr/projects/fried-eggs",
+      "xp": 25200,
+      "estimate": "35 days",
+      "estimate_hours": 245,
+      "team": "solo",
+      "requires": [
+        [
+          "city-life"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DB & Data",
+        "Algorithms & AI",
+        "Adaptation & creativity",
+        "Technology integration",
+        "Rigor"
+      ],
+      "description": "This project is an introduction to Deep Learning and computer vision (CNN, instance segmentation, object detection, data labeling)",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1407,
+      "name": "ft_ality",
+      "slug": "ft_ality",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_ality",
+      "xp": 4200,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "ft_turing"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Math",
+        "Parsing"
+      ],
+      "description": "This project will get you acquainted with problems linked to automatic syntax analysis (“parsin”) by studying finite automation in a combat game.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: functional-prog"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1379,
+      "name": "ft_hangouts",
+      "slug": "ft_hangouts",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_hangouts",
+      "xp": 4200,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Mobile",
+        "SDK"
+      ],
+      "description": "The goal of this project is to introduce you to mobile application development. You will build a contact management app for Android, allowing users to create, manage, and interact with their contacts. Throughout the project, you will learn how a mobile app works, how the Android system manages application lifecycles, and how to use the Android SDK effectively.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: mobile",
+        "RNCP6 Applicative: OOP"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2098,
+      "name": "ft_kalman",
+      "slug": "ft_kalman",
+      "url": "https://projects.intra.42.fr/projects/ft_kalman",
+      "xp": 16800,
+      "estimate": "210 hours",
+      "estimate_hours": 210,
+      "team": "2-2",
+      "requires": [
+        [
+          "matrix"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Math"
+      ],
+      "description": "Aboard a generic vehicle with flawed sensors, you will need to create a kalman filter in order to track his position coordinates. This project is a good introduction to signal filtering, matrix operations, gaussian noise and correlation.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 2531,
+      "name": "ft_kleene",
+      "slug": "ft_kleene",
+      "url": "https://projects.intra.42.fr/projects/ft_kleene",
+      "xp": 0,
+      "estimate": "140 hours",
+      "estimate_hours": 140,
+      "team": "solo",
+      "requires": [
+        [
+          "ready-set-boole"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Language theory",
+        "Automata theory",
+        "Chomsky hierarchy"
+      ],
+      "description": "Delve deep into the mathematics of computer science by learning how programming languages and compilers are built: through language theory and automata theory !",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 2380,
+      "name": "ft_lex",
+      "slug": "ft_lex",
+      "url": "https://projects.intra.42.fr/projects/ft_lex",
+      "xp": 15000,
+      "estimate": "250 hours",
+      "estimate_hours": 250,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Computer science",
+        "lexical analysis",
+        "finite automata"
+      ],
+      "description": "A project about lexical analysis and finite automata. In this project you will implement a powerful regex engine",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "ft_yacc"
+      ]
+    },
+    {
+      "id": 2747,
+      "name": "ft_lgtm",
+      "slug": "ft_lgtm",
+      "url": "https://projects.intra.42.fr/projects/ft_lgtm",
+      "xp": 16200,
+      "estimate": "180 hours",
+      "estimate_hours": 180,
+      "team": "2-2",
+      "requires": [
+        [
+          "inception-of-things"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Observability and monitoring",
+        "Kubernetes deployment",
+        "WASM/WASI sandboxing",
+        "IPFS integration",
+        "OpenTelemetry instrumentation",
+        "Distributed tracing",
+        "Metrics and logging"
+      ],
+      "description": "Build a web application that runs untrusted code securely with WASM/WASI, uploads it to IPFS, and monitors everything with a complete LGTM observability stack on Kubernetes.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: admin-sys"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1391,
+      "name": "ft_linear_regression",
+      "slug": "ft_linear_regression",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_linear_regression",
+      "xp": 4200,
+      "estimate": "70 hours",
+      "estimate_hours": 70,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DataScience",
+        "Math"
+      ],
+      "description": "This project will be your first steps into AI and Machine Learning. You're going to start with a simple, basic machine learning algorithm. You will have to create a program that predicts the price of a car by using a linear function train with a gradient descent algorithm.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1415,
+      "name": "ft_linux",
+      "slug": "ft_linux",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_linux",
+      "xp": 4200,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "System administration"
+      ],
+      "description": "The first project of the Kernel branch! This is a simple LFS so that you can build your own distribution which will be used in the next projects",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "drivers-and-interrupts",
+        "filesystem",
+        "little-penguin-1",
+        "process-and-memory"
+      ]
+    },
+    {
+      "id": 1479,
+      "name": "ft_ls",
+      "slug": "ft_ls",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_ls",
+      "xp": 4200,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Unix",
+        "System"
+      ],
+      "description": "For knowing the filesystem inside out, and how files and directories are sorted, you will code by yourself one of the most used command: ls.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 2394,
+      "name": "ft_microservices",
+      "slug": "ft_microservices",
+      "url": "https://projects.intra.42.fr/projects/ft_microservices",
+      "xp": 4200,
+      "estimate": "7 days",
+      "estimate_hours": 49,
+      "team": "2-2",
+      "requires": [
+        [
+          "java-module-09"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Rigor",
+        "Object-oriented programming",
+        "Technology integration",
+        "Group & interpersonal"
+      ],
+      "description": "Now you will master the skills of creating microservice applications using Spring framework",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "microshop"
+      ]
+    },
+    {
+      "id": 2126,
+      "name": "ft_minecraft",
+      "slug": "ft_minecraft",
+      "url": "https://projects.intra.42.fr/projects/ft_minecraft",
+      "xp": 20750,
+      "estimate": "560 hours",
+      "estimate_hours": 560,
+      "team": "2-4",
+      "requires": [
+        [
+          "ft_vox"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "Game Engine",
+        "Procedural Generation"
+      ],
+      "description": "ft_minecraft is the continuation of ft_vox, with a more advanced approach to procedural generation, rendering techniques and networking.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "very_real_engine"
+      ]
+    },
+    {
+      "id": 1962,
+      "name": "ft_newton",
+      "slug": "ft_newton",
+      "url": "https://projects.intra.42.fr/projects/ft_newton",
+      "xp": 24360,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "humangl"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "Physic Engine"
+      ],
+      "description": "Basic physics engine - motion - gravity - collisions.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "very_real_engine"
+      ]
+    },
+    {
+      "id": 1400,
+      "name": "ft_nmap",
+      "slug": "ft_nmap",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_nmap",
+      "xp": 15750,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "2-2",
+      "requires": [
+        [
+          "ft_traceroute"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Network",
+        "Low level"
+      ],
+      "description": "Re-coding the nmap command will be the opportunity to deepen your knowledge of TCP/IP networks and thus understand advanced use of threads in real life.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: admin-sys"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1397,
+      "name": "ft_ping",
+      "slug": "ft_ping",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_ping",
+      "xp": 4200,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Network",
+        "Low level"
+      ],
+      "description": "Re-coding the ping command will allow you to become acquainted with raw IP communication between two machines on a network.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/210907/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP7 Security: admin-sys"
+      ],
+      "unlocks": [
+        "ft_ssl_md5",
+        "ft_traceroute"
+      ]
+    },
+    {
+      "id": 2623,
+      "name": "ft_resume",
+      "slug": "42_collaborative_resume",
+      "url": "https://projects.intra.42.fr/projects/42_collaborative_resume",
+      "xp": 2100,
+      "estimate": "15 hours",
+      "estimate_hours": 15,
+      "team": "solo",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "communication",
+        "teamwork"
+      ],
+      "description": "Build your communication and self-reflection skills by working closely with a peer. Through mutual interviews, you’ll learn to recognize and express both your strengths and theirs—helping you craft genuine, effective resumes.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1466,
+      "name": "ft_script",
+      "slug": "ft_script",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_script",
+      "xp": 4200,
+      "estimate": "7 days",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Pseudo terminals",
+        "Line discipline"
+      ],
+      "description": "By re-coding the script command you will have the opportunity to understand interactions between user input and tty, notably line discipline as well as pseudo-terminals. Once the project finished, you will know why a Ctrl-C in your shell interrupts the ongoing program!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1469,
+      "name": "ft_select",
+      "slug": "ft_select",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_select",
+      "xp": 4200,
+      "estimate": "7 days",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "User interface via the terminal",
+        "Termcaps Library",
+        "Unix logic"
+      ],
+      "description": "The goal of this project is to get you started on terminal manipulation with termcaps. Here you will learn how to create a user interface for a program launched on the terminal.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1447,
+      "name": "ft_shield",
+      "slug": "ft_shield",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_shield",
+      "xp": 15750,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-2",
+      "requires": [
+        [
+          "woody-woodpacker"
+        ],
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Low-level",
+        "Malware"
+      ],
+      "description": "Use your skills to create a daemon to create your first basic trojan.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: security"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1452,
+      "name": "ft_ssl_des",
+      "slug": "ft_ssl_des",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_ssl_des",
+      "xp": 9450,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "ft_ssl_md5"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Math"
+      ],
+      "description": "You will reimplement part of the OpenSSL program, specifically BASE64, DES-ECB, and DES-CBC.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/215577/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "unlocks": [
+        "ft_ssl_rsa"
+      ]
+    },
+    {
+      "id": 1451,
+      "name": "ft_ssl_md5",
+      "slug": "ft_ssl_md5",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_ssl_md5",
+      "xp": 9450,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "ft_ping"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Math"
+      ],
+      "description": "You will recode part of the OpenSSL program, specifically the MD5 Hashing Algorithm.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/227986/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: security"
+      ],
+      "unlocks": [
+        "ft_ssl_des"
+      ]
+    },
+    {
+      "id": 1450,
+      "name": "ft_ssl_rsa",
+      "slug": "ft_ssl_rsa",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_ssl_rsa",
+      "xp": 15750,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "ft_ssl_des"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Math"
+      ],
+      "description": "You will code your own random prime number generator and use it to make private RSA keys.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/208589/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1399,
+      "name": "ft_traceroute",
+      "slug": "ft_traceroute",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_traceroute",
+      "xp": 4200,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "ft_ping"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Network",
+        "Low level"
+      ],
+      "description": "Re-coding the traceroute command will be the opportunity to deepen your knowledge of TCP/IP networks by following the paths of an IP packet from one machine to another.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/221754/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP7 Security: admin-sys"
+      ],
+      "unlocks": [
+        "ft_nmap"
+      ]
+    },
+    {
+      "id": 1403,
+      "name": "ft_turing",
+      "slug": "ft_turing",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_turing",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Math",
+        "Functionnal"
+      ],
+      "description": "ft_turing will help you discover the turing model using imperative programming through an implementation of this model with OCaml",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: functional-prog"
+      ],
+      "unlocks": [
+        "ft_ality",
+        "h42n42"
+      ]
+    },
+    {
+      "id": 1449,
+      "name": "ft_vox",
+      "slug": "ft_vox",
+      "url": "https://projects.intra.42.fr/projects/42cursus-ft_vox",
+      "xp": 15750,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "2-2",
+      "requires": [
+        [
+          "scop"
+        ],
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "Optimisation",
+        "GPU"
+      ],
+      "description": "ft_vox is a project that introduces voxel engines, inspired by Minecraft, where you must create a randomly generated world.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/204654/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "unlocks": [
+        "ft_minecraft"
+      ]
+    },
+    {
+      "id": 2381,
+      "name": "ft_yacc",
+      "slug": "ft_yacc",
+      "url": "https://projects.intra.42.fr/projects/ft_yacc",
+      "xp": 20000,
+      "estimate": "300 hours",
+      "estimate_hours": 300,
+      "team": "solo",
+      "requires": [
+        [
+          "ft_lex"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Computer science",
+        "lexical analysis",
+        "finite automata"
+      ],
+      "description": "A project about syntactic analysis and stack automata",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "cc1"
+      ]
+    },
+    {
+      "id": 2225,
+      "name": "Ftl_quantum",
+      "slug": "ftl_quantum",
+      "url": "https://projects.intra.42.fr/projects/ftl_quantum",
+      "xp": 6500,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Quantum programming"
+      ],
+      "description": "This project is an introduction to quantum programming. It will challenge you to create different quantum programs, and run them on a real quantum computer.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "supercharge"
+      ]
+    },
+    {
+      "id": 2347,
+      "name": "fwa",
+      "slug": "fwa",
+      "url": "https://projects.intra.42.fr/projects/42cursus-fwa",
+      "xp": 4200,
+      "estimate": "7 days",
+      "estimate_hours": 49,
+      "team": "2-2",
+      "requires": [
+        [
+          "java-module-09"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Rigor",
+        "DB & Data",
+        "Algorithms & AI",
+        "Object-oriented programming",
+        "Technology integration",
+        "Security",
+        "Group & interpersonal"
+      ],
+      "description": "in this project you will develop your First Web Application using standard Java technologies",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "cinema"
+      ]
+    },
+    {
+      "id": 1383,
+      "name": "gomoku",
+      "slug": "gomoku",
+      "url": "https://projects.intra.42.fr/projects/42cursus-gomoku",
+      "xp": 25200,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-2",
+      "requires": [
+        [
+          "lem_in",
+          "rubik",
+          "n-puzzle"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "Min-Max"
+      ],
+      "description": "This project involves creating, in the language of your choice, a Gomoku game integrating an AI player capable of beating a human player the fastest way possible. To do this, you will implement a min-max algorithm but also do research, trial and error to find the most adapted heuristics. This will not be as easy as checkers.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1455,
+      "name": "guimp",
+      "slug": "guimp",
+      "url": "https://projects.intra.42.fr/projects/42cursus-guimp",
+      "xp": 12600,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "3-3",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "SDL2",
+        "GUI"
+      ],
+      "description": "The goal of this project is to create a graphic interface library. You will have to prove it works correctly with a small 2D image software. This library must as complete and modular as possible, the goal being to re-use it in future projects, whether for projects in the graphic branch or other projects of you training.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1429,
+      "name": "h42n42",
+      "slug": "h42n42",
+      "url": "https://projects.intra.42.fr/projects/42cursus-h42n42",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "ft_turing"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Web",
+        "Ocsigen"
+      ],
+      "description": "An introductory project to the OCSIGEN framework for creating rich web applications in OCaml. The goal is to design a simulator where creatures try to escape a dangerous virus.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: web",
+        "RNCP6 Applicative: OOP",
+        "RNCP6 Applicative: functional-prog",
+        "RNCP7 Data: databases"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1394,
+      "name": "humangl",
+      "slug": "humangl",
+      "url": "https://projects.intra.42.fr/projects/42cursus-humangl",
+      "xp": 4200,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "2-2",
+      "requires": [
+        [
+          "scop"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "OpenGL",
+        "Modeling"
+      ],
+      "description": "This intermediate OpenGL project is an introduction to hierarchical modeling. You will learn to use matrices in order to link various parts of a humanoid model, and animate them.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: suite",
+        "RNCP6 Applicative: suite",
+        "RNCP7 Security: suite",
+        "RNCP7 Data: suite"
+      ],
+      "unlocks": [
+        "bomberman",
+        "ft_newton",
+        "particle-system",
+        "shaderpixel"
+      ]
+    },
+    {
+      "id": 1402,
+      "name": "hypertube",
+      "slug": "hypertube",
+      "url": "https://projects.intra.42.fr/projects/42cursus-hypertube",
+      "xp": 15750,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-4",
+      "requires": [
+        [
+          "matcha"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Web",
+        "Peertube'like"
+      ],
+      "description": "Hypertube introduces you to a powerful category of tools: MVC frameworks. You will learn how to work with an MVC framework—using the programming language of your choice—to build a video streaming website with content downloaded via the BitTorrent protocol.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: web",
+        "RNCP6 Applicative: OOP",
+        "RNCP7 Data: databases"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1409,
+      "name": "in-the-shadows",
+      "slug": "in-the-shadows",
+      "url": "https://projects.intra.42.fr/projects/42cursus-in-the-shadows",
+      "xp": 9450,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "Shadowmatic"
+      ],
+      "description": "This project wants you to develop a complete game using a bit of algo and a lot of creativity.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "xv"
+      ]
+    },
+    {
+      "id": 2746,
+      "name": "Inception of context",
+      "slug": "inception-of-context",
+      "url": "https://projects.intra.42.fr/projects/inception-of-context",
+      "xp": 19800,
+      "estimate": "220 hours",
+      "estimate_hours": 220,
+      "team": "2-3",
+      "requires": [
+        [
+          "inception-of-things"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "System administration",
+        "Artificial intelligence"
+      ],
+      "description": "Every senior team now ships with an AI coding assistant. Most engineers use one; almost nobody has built one. In this project you build your own, end to end on your laptop: a local model, a vector index over your code, a retriever that answers grounded questions, and a patch loop that applies, validates, and rolls back when things break. No cloud, no API key, no token bill. By the end, you will know how Copilot and Cursor actually work, because you will have built one.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: admin-sys"
+      ],
+      "unlocks": [
+        "inception-of-wisdom"
+      ]
+    },
+    {
+      "id": 2750,
+      "name": "Inception of wisdom",
+      "slug": "inception-of-wisdom",
+      "url": "https://projects.intra.42.fr/projects/inception-of-wisdom",
+      "xp": 21600,
+      "estimate": "240 hours",
+      "estimate_hours": 240,
+      "team": "2-3",
+      "requires": [
+        [
+          "inception-of-context"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "System administration",
+        "Artificial intelligence"
+      ],
+      "description": "Autonomous self-healing on your laptop. The agent watches a real service, notices when it crashes, retrieves the relevant code and config from its own index, asks a local language model what to change, applies the patch, commits it, restarts the service, and rolls everything back when the fix does not take. This project ties together what Inception-of-Things taught about GitOps-driven deployment and what Inception-of-Context taught about retrieval-augmented patching, into a closed observe / think / act / verify loop that never leaves the project broken. By the end, you will have an agent that catches a bug you planted, finds it without your help, fixes it, and proves it stayed fixed.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: admin-sys"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2064,
+      "name": "Inception-of-Things",
+      "slug": "inception-of-things",
+      "url": "https://projects.intra.42.fr/projects/inception-of-things",
+      "xp": 25450,
+      "estimate": "200 hours",
+      "estimate_hours": 200,
+      "team": "2-3",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "System administration",
+        "docker-kuber",
+        "CD"
+      ],
+      "description": "This project aims to introduce you to Kubernetes from a developer's perspective. You will have to set up small clusters and discover the mechanics of continuous integration. At the end of this project, you will be able to set up a working cluster in Docker and have a usable continuous integration pipeline for your applications.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: suite",
+        "RNCP6 Applicative: suite",
+        "RNCP7 Security: suite",
+        "RNCP7 Security: admin-sys",
+        "RNCP7 Data: suite"
+      ],
+      "unlocks": [
+        "ft_lgtm",
+        "inception-of-context"
+      ]
+    },
+    {
+      "id": 1425,
+      "name": "kfs-1",
+      "slug": "kfs-1",
+      "url": "https://projects.intra.42.fr/projects/42cursus-kfs-1",
+      "xp": 15750,
+      "estimate": "294 hours",
+      "estimate_hours": 294,
+      "team": "2-2",
+      "requires": [
+        [
+          "little-penguin-1"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "Discover the world of \"Kernel Programming\" and learn how to create your very own Kernel from scratch.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "kfs-2"
+      ]
+    },
+    {
+      "id": 1424,
+      "name": "kfs-2",
+      "slug": "kfs-2",
+      "url": "https://projects.intra.42.fr/projects/42cursus-kfs-2",
+      "xp": 15750,
+      "estimate": "294 hours",
+      "estimate_hours": 294,
+      "team": "2-2",
+      "requires": [
+        [
+          "kfs-1"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "Discover the world of Kernel Programming and learn how to create your very own Kernel from scratch.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: suite",
+        "RNCP6 Applicative: suite",
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX",
+        "RNCP7 Security: suite",
+        "RNCP7 Data: suite"
+      ],
+      "unlocks": [
+        "kfs-3"
+      ]
+    },
+    {
+      "id": 1426,
+      "name": "kfs-3",
+      "slug": "kfs-3",
+      "url": "https://projects.intra.42.fr/projects/42cursus-kfs-3",
+      "xp": 35700,
+      "estimate": "294 hours",
+      "estimate_hours": 294,
+      "team": "2-2",
+      "requires": [
+        [
+          "kfs-2"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "Third Kernel from Scratch project. Learn how to manage the memory in you kernel.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "kfs-4"
+      ]
+    },
+    {
+      "id": 1431,
+      "name": "kfs-4",
+      "slug": "kfs-4",
+      "url": "https://projects.intra.42.fr/projects/42cursus-kfs-4",
+      "xp": 25200,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-2",
+      "requires": [
+        [
+          "kfs-3"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "Project aimed at creating an Interrupt Description Table and handle interrupts within your Kernel",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "kfs-5"
+      ]
+    },
+    {
+      "id": 1432,
+      "name": "kfs-5",
+      "slug": "kfs-5",
+      "url": "https://projects.intra.42.fr/projects/42cursus-kfs-5",
+      "xp": 35700,
+      "estimate": "392 hours",
+      "estimate_hours": 392,
+      "team": "2-2",
+      "requires": [
+        [
+          "kfs-4"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "You must now develop process managing in your Kernel, by implementing how to interpret the command :(){ :|:& }",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "kfs-6"
+      ]
+    },
+    {
+      "id": 1438,
+      "name": "kfs-6",
+      "slug": "kfs-6",
+      "url": "https://projects.intra.42.fr/projects/42cursus-kfs-6",
+      "xp": 25200,
+      "estimate": "294 hours",
+      "estimate_hours": 294,
+      "team": "2-2",
+      "requires": [
+        [
+          "kfs-5"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "Keep on developping your own kernel. This project will help you set up your own filesystem.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "kfs-7"
+      ]
+    },
+    {
+      "id": 1439,
+      "name": "kfs-7",
+      "slug": "kfs-7",
+      "url": "https://projects.intra.42.fr/projects/42cursus-kfs-7",
+      "xp": 35700,
+      "estimate": "630 hours",
+      "estimate_hours": 630,
+      "team": "2-2",
+      "requires": [
+        [
+          "kfs-6"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "This project will teach you how to build your own syscalls for your kernel, as well as user accounts, sockets, and a Unix-like hierarchy. Almost a full kernel here!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "kfs-8"
+      ]
+    },
+    {
+      "id": 1440,
+      "name": "kfs-8",
+      "slug": "kfs-8",
+      "url": "https://projects.intra.42.fr/projects/42cursus-kfs-8",
+      "xp": 15750,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-2",
+      "requires": [
+        [
+          "kfs-7"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "Build a module interface for your kernel.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "kfs-9"
+      ]
+    },
+    {
+      "id": 1441,
+      "name": "kfs-9",
+      "slug": "kfs-9",
+      "url": "https://projects.intra.42.fr/projects/42cursus-kfs-9",
+      "xp": 15750,
+      "estimate": "245 hours",
+      "estimate_hours": 245,
+      "team": "2-2",
+      "requires": [
+        [
+          "kfs-8"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "Create an ELF parser and loader for your kernel.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "kfs-x"
+      ]
+    },
+    {
+      "id": 1442,
+      "name": "kfs-x",
+      "slug": "kfs-x",
+      "url": "https://projects.intra.42.fr/projects/42cursus-kfs-x",
+      "xp": 35700,
+      "estimate": "56 hours",
+      "estimate_hours": 56,
+      "team": "2-2",
+      "requires": [
+        [
+          "kfs-9"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "This is the final kernel project. It just requires you to create a complete linux environment. Maybe name your kernel aswell?",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1392,
+      "name": "krpsim",
+      "slug": "krpsim",
+      "url": "https://projects.intra.42.fr/projects/42cursus-krpsim",
+      "xp": 9450,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "2-3",
+      "requires": [
+        [
+          "lem_in",
+          "n-puzzle",
+          "rubik"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Optimisation",
+        "Algorithm"
+      ],
+      "description": "This algorithm project consists of creating a program that will optimize rendering of a process graph, with some resource constraints. It’s up to you to explore the existing algorithms and choose, possibly create, what you seem most fit. For this project, you can choose the language you want",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2372,
+      "name": "Leaffliction",
+      "slug": "leaffliction",
+      "url": "https://projects.intra.42.fr/projects/leaffliction",
+      "xp": 15750,
+      "estimate": "294 hours",
+      "estimate_hours": 294,
+      "team": "2-3",
+      "requires": [
+        [
+          "dslr"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DataScience",
+        "Computer vision"
+      ],
+      "description": "An innovative computer vision project utilizing leaf image analysis for disease recognition.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2551,
+      "name": "Learn2Slither",
+      "slug": "learn2slither",
+      "url": "https://projects.intra.42.fr/projects/learn2slither",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "dslr"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Data Science",
+        "Computer Science"
+      ],
+      "description": "A cutting-edge Q-learning project focused on autonomous decision-making in a dynamic environment.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/225974/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1470,
+      "name": "lem_in",
+      "slug": "lem_in",
+      "url": "https://projects.intra.42.fr/projects/42cursus-lem_in",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-contract-upload"
+        ],
+        [
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Optimisation",
+        "Algorithm"
+      ],
+      "description": "Your ant colony must move from on point to another. How do you do it in the shortest time possible? This project will get you acquainted with graph traversal algorithms: your program will have to intelligently select paths and precise movements used by the ants",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "expert-system",
+        "gomoku",
+        "krpsim"
+      ]
+    },
+    {
+      "id": 1464,
+      "name": "lem-ipc",
+      "slug": "lem-ipc",
+      "url": "https://projects.intra.42.fr/projects/42cursus-lem-ipc",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "malloc"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Unix",
+        "System"
+      ],
+      "description": "You have already learned how processes can communicate over a network using TCP/IP. Next, you will explore Unix tools that enable processes to communicate locally. You will practice these concepts by building a client for a classic board game.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "nibbler",
+        "strace"
+      ]
+    },
+    {
+      "id": 1330,
+      "name": "libasm",
+      "slug": "libasm",
+      "url": "https://projects.intra.42.fr/projects/libasm",
+      "xp": 966,
+      "estimate": "20 hours",
+      "estimate_hours": 20,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii",
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-Level",
+        "Library"
+      ],
+      "description": "The aim of this project is to become familiar with assembly language.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "b"
+      ]
+    },
+    {
+      "id": 2550,
+      "name": "libftpp",
+      "slug": "libftpp",
+      "url": "https://projects.intra.42.fr/projects/libftpp",
+      "xp": 5880,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Library",
+        "OOP"
+      ],
+      "description": "This subject aims to introduce you to advanced C++ concepts through the development of complex tools and systems.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: OOP"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1416,
+      "name": "little-penguin-1",
+      "slug": "little-penguin-1",
+      "url": "https://projects.intra.42.fr/projects/42cursus-little-penguin-1",
+      "xp": 9450,
+      "estimate": "100 hours",
+      "estimate_hours": 100,
+      "team": "solo",
+      "requires": [
+        [
+          "ft_linux"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "The start of a series of challenges inspired by Eudyptula. You will get acquainted with many points of Kernel development.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "kfs-1",
+        "userspace_digressions"
+      ]
+    },
+    {
+      "id": 1468,
+      "name": "malloc",
+      "slug": "malloc",
+      "url": "https://projects.intra.42.fr/projects/42cursus-malloc",
+      "xp": 9450,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Unix",
+        "System"
+      ],
+      "description": "What’s the deal with malloc? You’ve been using it since the piscine C but it’s not a system call. Find out the workings behind optimum memory management and recode it, as well as free and realloc.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": [
+        "lem-ipc"
+      ]
+    },
+    {
+      "id": 1401,
+      "name": "matcha",
+      "slug": "matcha",
+      "url": "https://projects.intra.42.fr/projects/42cursus-matcha",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Web",
+        "Micro-framework"
+      ],
+      "description": "This second project introduces a more advanced tool for building web applications: the micro-framework. You are invited to create a dating site in the programming language of your choice. User interaction is at the heart of this project!",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/227569/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: web",
+        "RNCP6 Applicative: OOP",
+        "RNCP7 Data: databases"
+      ],
+      "unlocks": [
+        "hypertube"
+      ]
+    },
+    {
+      "id": 2077,
+      "name": "matrix",
+      "slug": "matrix",
+      "url": "https://projects.intra.42.fr/projects/matrix",
+      "xp": 7000,
+      "estimate": "110 hours",
+      "estimate_hours": 110,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-contract-upload"
+        ],
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Math"
+      ],
+      "description": "You've probably encountered vectors and vector spaces before. Now it's time to formalize them through Linear Algebra and to learn how matrices and linear transformations work.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "unlocks": [
+        "ft_kalman"
+      ]
+    },
+    {
+      "id": 1420,
+      "name": "matt-daemon",
+      "slug": "matt-daemon",
+      "url": "https://projects.intra.42.fr/projects/42cursus-matt-daemon",
+      "xp": 9450,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "2-2",
+      "requires": [
+        [
+          "taskmaster"
+        ],
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Unix",
+        "System"
+      ],
+      "description": "A Unix project to create a server-type daemon. This server will listen on a given port and interpret a list of commands.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2353,
+      "name": "messagequeue",
+      "slug": "messagequeue",
+      "url": "https://projects.intra.42.fr/projects/42cursus-messagequeue",
+      "xp": 9450,
+      "estimate": "14 days",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "java-module-09"
+        ],
+        [
+          "microservices"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Rigor",
+        "Object-oriented programming",
+        "Technology integration",
+        "Group & interpersonal"
+      ],
+      "description": "We will learn how to work with a large flow of tasks using RabbitMQ message broker, a popular implementation of MQ pattern",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 2373,
+      "name": "Microshop",
+      "slug": "microshop",
+      "url": "https://projects.intra.42.fr/projects/microshop",
+      "xp": 24360,
+      "estimate": "245 hours",
+      "estimate_hours": 245,
+      "team": "2-4",
+      "requires": [
+        [
+          "java-module-09"
+        ],
+        [
+          "ft_microservices"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Rigor",
+        "Object-oriented programming",
+        "Technology integration",
+        "Group & interpersonal",
+        "Security",
+        "DB & Data",
+        "Web"
+      ],
+      "description": "Now you will master the skills of creating microservice application and deploying them to the Cloud using Micronaut framework and various Oracle technologies",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 2355,
+      "name": "Mobile",
+      "slug": "mobile",
+      "url": "https://projects.intra.42.fr/projects/mobile",
+      "xp": 0,
+      "estimate": "63 hours",
+      "estimate_hours": 63,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Mobile",
+        "General"
+      ],
+      "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: mobile",
+        "RNCP6 Applicative: OOP"
+      ],
+      "modules": [
+        {
+          "id": 2354,
+          "name": "Mobile - 0 - Basic of the mobile application",
+          "slug": "mobile-0-basic-of-the-mobile-application",
+          "xp": 500,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2356,
+          "name": "Mobile - 1 - Structure and logic",
+          "slug": "mobile-1-structure-and-logic",
+          "xp": 950,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "mobile-0-basic-of-the-mobile-application"
+            ]
+          ]
+        },
+        {
+          "id": 2357,
+          "name": "Mobile - 2 - API and data",
+          "slug": "mobile-2-api-and-data",
+          "xp": 1000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "mobile-1-structure-and-logic"
+            ]
+          ]
+        },
+        {
+          "id": 2358,
+          "name": "Mobile - 3 - Design",
+          "slug": "mobile-3-design",
+          "xp": 2000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "mobile-2-api-and-data"
+            ]
+          ]
+        },
+        {
+          "id": 2359,
+          "name": "Mobile - 4 - Auth and dataBase",
+          "slug": "mobile-4-auth-and-database",
+          "xp": 2000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "mobile-3-design"
+            ]
+          ]
+        },
+        {
+          "id": 2360,
+          "name": "Mobile - 5 - Manage data and display",
+          "slug": "mobile-5-manage-data-and-display",
+          "xp": 3000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "mobile-4-auth-and-database"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 9450,
+      "unlocks": []
+    },
+    {
+      "id": 1462,
+      "name": "mod1",
+      "slug": "mod1",
+      "url": "https://projects.intra.42.fr/projects/42cursus-mod1",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Math",
+        "Simulation"
+      ],
+      "description": "This simulation graphic project will have you represent a surface in 3D, on which water will flow. Empirical or scientific (with many equations), recreate a wave, a tsunami or maybe just rain on your surface.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1457,
+      "name": "multilayer-perceptron",
+      "slug": "multilayer-perceptron",
+      "url": "https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-internship-peer-video"
+        ],
+        [
+          "dslr"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DataScience",
+        "Math",
+        "Neural Network"
+      ],
+      "description": "This project is an introduction to artificial neural networks through the implementation of a multilayer perceptron.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1427,
+      "name": "music-room",
+      "slug": "music-room",
+      "url": "https://projects.intra.42.fr/projects/42cursus-music-room",
+      "xp": 25200,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-4",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Mobile",
+        "API"
+      ],
+      "description": "In a group, create a complete mobile app for collaborative playlists using a relevant SDK and API. The tasks include mobile development, back-end development, and the creation of a REST API.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: web",
+        "RNCP6 Web & mobile: mobile",
+        "RNCP7 Data: databases"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1943,
+      "name": "mySpotify",
+      "slug": "myspotify",
+      "url": "https://projects.intra.42.fr/projects/myspotify",
+      "xp": 9450,
+      "estimate": "1 day",
+      "estimate_hours": 7,
+      "team": "1-2",
+      "requires": [
+        [
+          "churn"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DB & Data",
+        "Algorithms & AI",
+        "Rigor",
+        "Object-oriented programming"
+      ],
+      "description": "This project is an introduction to algorithms used for recommendations: non-personalized, content-based, collaborative filtering.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "understanding-customer"
+      ]
+    },
+    {
+      "id": 1385,
+      "name": "n-puzzle",
+      "slug": "n-puzzle",
+      "url": "https://projects.intra.42.fr/projects/42cursus-n-puzzle",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Optimisation",
+        "Algorithm"
+      ],
+      "description": "We are going to create, in any language, a programme capable of solving N-puzzles of various sizes, as efficiently as possible.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "expert-system",
+        "gomoku",
+        "krpsim"
+      ]
+    },
+    {
+      "id": 1386,
+      "name": "nibbler",
+      "slug": "nibbler",
+      "url": "https://projects.intra.42.fr/projects/42cursus-nibbler",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "lem-ipc"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "Dynamic libraby"
+      ],
+      "description": "This project in C++ will make you recode a Snake where you can switch the interface at run time",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: OOP"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1467,
+      "name": "nm",
+      "slug": "nm",
+      "url": "https://projects.intra.42.fr/projects/nm",
+      "xp": 9450,
+      "estimate": "14 days",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Sections",
+        "Dynamic libraries",
+        "Table of symbols",
+        "Unix logic"
+      ],
+      "description": "This project will educate you on a deeper comprehension of how linux handle executables, by re-creating the command nm",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1635,
+      "name": "Open Project",
+      "slug": "open-project",
+      "url": "https://projects.intra.42.fr/projects/open-project",
+      "xp": 31500,
+      "estimate": "180 days",
+      "estimate_hours": 1260,
+      "team": "4-5",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Project management",
+        "Creation of specifications",
+        "Planning"
+      ],
+      "description": "This project offers the opportunity for long-term project management on a topic of your choice, including some computer science related elements. Collaborate with other 42 students and complete within 6 months.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 1637,
+          "name": "Open Project - Complete the project",
+          "slug": "open-project-open-project-complete-the-project",
+          "xp": 0,
+          "estimate": "150 days",
+          "requires": []
+        },
+        {
+          "id": 1636,
+          "name": "Open Project - Define your Subject",
+          "slug": "open-project-open-project-define-your-subject",
+          "xp": 0,
+          "estimate": "30 days",
+          "requires": []
+        }
+      ],
+      "xp_with_modules": 31500,
+      "unlocks": []
+    },
+    {
+      "id": 1448,
+      "name": "override",
+      "slug": "override",
+      "url": "https://projects.intra.42.fr/projects/42cursus-override",
+      "xp": 35700,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-2",
+      "requires": [
+        [
+          "rainfall"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Binary Exploitation"
+      ],
+      "description": "Override is the direct sequel to Rainfall, and it is another level entirely. Rainfall taught you the stack; Override drops you into modern, fully mitigated 64-bit binaries on glibc 2.39, all protections on by default. Stripped binaries, no shortcuts, the heap and the network in play. This is serious binary exploitation. Come prepared.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: suite",
+        "RNCP6 Applicative: suite",
+        "RNCP7 Security: security",
+        "RNCP7 Security: suite",
+        "RNCP7 Data: suite"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": null,
+      "name": "Part_Time I",
+      "slug": "part-time-i",
+      "url": null,
+      "xp": 0,
+      "estimate": null,
+      "estimate_hours": null,
+      "team": "solo",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "objectives": [],
+      "description": "",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 1651,
+          "name": "Part_Time I - Contract Upload",
+          "slug": "part_time-i-part_time-i-contract-upload",
+          "xp": 0,
+          "estimate": "1 day",
+          "requires": []
+        },
+        {
+          "id": 1652,
+          "name": "Part_Time I - Duration",
+          "slug": "part_time-i-part_time-i-duration",
+          "xp": 0,
+          "estimate": "1 day",
+          "requires": []
+        },
+        {
+          "id": 1653,
+          "name": "Part_Time I Company Final Evaluation",
+          "slug": "part_time-i-part_time-i-company-final-evaluation",
+          "xp": 0,
+          "estimate": "0 days",
+          "requires": []
+        },
+        {
+          "id": 1654,
+          "name": "Part_Time I Company Mid Evaluation",
+          "slug": "part_time-i-part_time-i-company-mid-evaluation",
+          "xp": 0,
+          "estimate": "0 days",
+          "requires": []
+        },
+        {
+          "id": 1655,
+          "name": "Part_Time I Peer Video",
+          "slug": "part_time-i-part_time-i-peer-video",
+          "xp": 0,
+          "estimate": "7 days",
+          "requires": []
+        }
+      ],
+      "xp_with_modules": 0,
+      "unlocks": []
+    },
+    {
+      "id": null,
+      "name": "Part_Time II",
+      "slug": "part-time-ii",
+      "url": null,
+      "xp": 0,
+      "estimate": null,
+      "estimate_hours": null,
+      "team": "solo",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "objectives": [],
+      "description": "",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 1660,
+          "name": "Part_Time II - Company Final Evaluation",
+          "slug": "part_time-ii-part_time-ii-company-final-evaluation",
+          "xp": 0,
+          "estimate": "0 days",
+          "requires": []
+        },
+        {
+          "id": 1659,
+          "name": "Part_Time II - Company Mid Evaluation",
+          "slug": "part_time-ii-part_time-ii-company-mid-evaluation",
+          "xp": 0,
+          "estimate": "0 days",
+          "requires": []
+        },
+        {
+          "id": 1657,
+          "name": "Part_Time II - Contract Upload",
+          "slug": "part_time-ii-part_time-ii-contract-upload",
+          "xp": 0,
+          "estimate": "1 day",
+          "requires": []
+        },
+        {
+          "id": 1658,
+          "name": "Part_Time II - Duration",
+          "slug": "part_time-ii-part_time-ii-duration",
+          "xp": 0,
+          "estimate": "1 day",
+          "requires": []
+        },
+        {
+          "id": 1661,
+          "name": "Part_Time II - Peer Video",
+          "slug": "part_time-ii-part_time-ii-peer-video",
+          "xp": 0,
+          "estimate": "7 days",
+          "requires": []
+        }
+      ],
+      "xp_with_modules": 0,
+      "unlocks": []
+    },
+    {
+      "id": 1410,
+      "name": "particle-system",
+      "slug": "particle-system",
+      "url": "https://projects.intra.42.fr/projects/42cursus-particle-system",
+      "xp": 15750,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "solo",
+      "requires": [
+        [
+          "humangl"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Optimisation",
+        "GPU"
+      ],
+      "description": "This infographics project is an introduction to the fascinating world of GPU programming. You will design a particle system while meeting performance constraints, using GPU libraries such as OpenGL, OpenCL, Metal, CUDA, Vulkan, WebGPU (...) to parallelize computations.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 2552,
+      "name": "Peace_Break",
+      "slug": "peace_break",
+      "url": "https://projects.intra.42.fr/projects/peace_break",
+      "xp": 9000,
+      "estimate": "150 hours",
+      "estimate_hours": 150,
+      "team": "2-3",
+      "requires": [
+        [
+          "swifty-proteins"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Mobile",
+        "Gaming"
+      ],
+      "description": "Inspired by the classic game 'Brick Breaker', this project is a great introduction to mobile development. You'll design a user-friendly interface, manage user data, implement core gameplay features, and gain key skills in mobile app creation.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1443,
+      "name": "pestilence",
+      "slug": "pestilence",
+      "url": "https://projects.intra.42.fr/projects/42cursus-pestilence",
+      "xp": 15750,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-2",
+      "requires": [
+        [
+          "famine"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Low-level",
+        "Malware"
+      ],
+      "description": "Second virus project. Reuse the Famine base to add a hiding method of your code.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: suite",
+        "RNCP6 Applicative: suite",
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: security",
+        "RNCP7 Security: suite",
+        "RNCP7 Data: suite"
+      ],
+      "unlocks": [
+        "war"
+      ]
+    },
+    {
+      "id": 2295,
+      "name": "Piscine Data Science",
+      "slug": "piscine-data-science",
+      "url": "https://projects.intra.42.fr/projects/piscine-data-science",
+      "xp": 0,
+      "estimate": "35 hours",
+      "estimate_hours": 35,
+      "team": "solo",
+      "requires": [
+        [
+          "python-for-data-science"
+        ],
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DataScience",
+        "DB"
+      ],
+      "description": "Introduction to data science via the different professions",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/211817/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "modules": [
+        {
+          "id": 2306,
+          "name": "Data Science - 0",
+          "slug": "data-science-0",
+          "xp": 545,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2318,
+          "name": "Data Science - 1",
+          "slug": "data-science-1",
+          "xp": 545,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "data-science-0"
+            ]
+          ]
+        },
+        {
+          "id": 2311,
+          "name": "Data Science - 2",
+          "slug": "data-science-2",
+          "xp": 545,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "data-science-1"
+            ]
+          ]
+        },
+        {
+          "id": 2316,
+          "name": "Data Science - 3",
+          "slug": "data-science-3",
+          "xp": 545,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "data-science-2"
+            ]
+          ]
+        },
+        {
+          "id": 2317,
+          "name": "Data Science - 4",
+          "slug": "data-science-4",
+          "xp": 2545,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "data-science-3"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 4725,
+      "unlocks": [
+        "piscine-deep-learning"
+      ]
+    },
+    {
+      "id": 2773,
+      "name": "Piscine Deep Learning",
+      "slug": "piscine-deep-learning",
+      "url": "https://projects.intra.42.fr/projects/piscine-deep-learning",
+      "xp": 0,
+      "estimate": "35 hours",
+      "estimate_hours": 35,
+      "team": "solo",
+      "requires": [
+        [
+          "piscine-data-science"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DataScience",
+        "Data & AI",
+        "Neural Network"
+      ],
+      "description": "Presentation of the Deep Learning piscine and the modules to validate.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/229216/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 2774,
+          "name": "Deep Learning - 0",
+          "slug": "deep-learning-0",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2775,
+          "name": "Deep Learning - 1",
+          "slug": "deep-learning-1",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "deep-learning-0"
+            ]
+          ]
+        },
+        {
+          "id": 2776,
+          "name": "Deep Learning - 2",
+          "slug": "deep-learning-2",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "deep-learning-1"
+            ]
+          ]
+        },
+        {
+          "id": 2777,
+          "name": "Deep Learning - 3",
+          "slug": "deep-learning-3",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "deep-learning-2"
+            ]
+          ]
+        },
+        {
+          "id": 2778,
+          "name": "Deep Learning - 4",
+          "slug": "deep-learning-4",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "deep-learning-3"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 0,
+      "unlocks": []
+    },
+    {
+      "id": 2189,
+      "name": "Piscine Django",
+      "slug": "piscine-django",
+      "url": "https://projects.intra.42.fr/projects/piscine-django",
+      "xp": 0,
+      "estimate": "63 hours",
+      "estimate_hours": 63,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Web",
+        "Framework python"
+      ],
+      "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: web",
+        "RNCP6 Applicative: OOP",
+        "RNCP7 Data: databases"
+      ],
+      "modules": [
+        {
+          "id": 2190,
+          "name": "Django - 0 - Initiation",
+          "slug": "django-0-initiation",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2192,
+          "name": "Django - 0 - Oob",
+          "slug": "django-0-oob",
+          "xp": 1500,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "django-0-starting"
+            ]
+          ]
+        },
+        {
+          "id": 2191,
+          "name": "Django - 0 - Starting",
+          "slug": "django-0-starting",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "django-0-initiation"
+            ]
+          ]
+        },
+        {
+          "id": 2194,
+          "name": "Django - 1 - Base Django",
+          "slug": "django-1-base-django",
+          "xp": 3475,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "django-1-lib"
+            ]
+          ]
+        },
+        {
+          "id": 2193,
+          "name": "Django - 1 - Lib",
+          "slug": "django-1-lib",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "django-0-oob"
+            ]
+          ]
+        },
+        {
+          "id": 2195,
+          "name": "Django - 2 - SQL",
+          "slug": "django-2-sql",
+          "xp": 1000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "django-1-base-django"
+            ]
+          ]
+        },
+        {
+          "id": 2197,
+          "name": "Django - 3 - Advanced",
+          "slug": "django-3-advanced",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "django-3-sessions"
+            ]
+          ]
+        },
+        {
+          "id": 2198,
+          "name": "Django - 3 - Final",
+          "slug": "django-3-final",
+          "xp": 3475,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "django-3-advanced"
+            ]
+          ]
+        },
+        {
+          "id": 2196,
+          "name": "Django - 3 - Sessions",
+          "slug": "django-3-sessions",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "django-2-sql"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 9450,
+      "unlocks": []
+    },
+    {
+      "id": null,
+      "name": "Piscine Java (Java Module 00-09)",
+      "slug": "piscine-java",
+      "url": null,
+      "xp": 0,
+      "estimate": null,
+      "estimate_hours": null,
+      "team": "solo",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "objectives": [],
+      "description": "",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 2320,
+          "name": "Java Module 00",
+          "slug": "java-module-00",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "work-experience-i-work-experience-i-peer-video",
+              "startup-experience-startup-experience-peer-video"
+            ]
+          ]
+        },
+        {
+          "id": 2321,
+          "name": "Java Module 01",
+          "slug": "java-module-01",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "java-module-00"
+            ]
+          ]
+        },
+        {
+          "id": 2322,
+          "name": "Java Module 02",
+          "slug": "java-module-02",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "java-module-01"
+            ]
+          ]
+        },
+        {
+          "id": 2329,
+          "name": "Java Module 03",
+          "slug": "java-module-03",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "java-module-02"
+            ]
+          ]
+        },
+        {
+          "id": 2330,
+          "name": "Java Module 04",
+          "slug": "java-module-04",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "java-module-03"
+            ]
+          ]
+        },
+        {
+          "id": 2331,
+          "name": "Java Module 05",
+          "slug": "java-module-05",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "java-module-04"
+            ]
+          ]
+        },
+        {
+          "id": 2332,
+          "name": "Java Module 06",
+          "slug": "java-module-06",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "java-module-05"
+            ]
+          ]
+        },
+        {
+          "id": 2333,
+          "name": "Java Module 07",
+          "slug": "java-module-07",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "java-module-06"
+            ]
+          ]
+        },
+        {
+          "id": 2334,
+          "name": "Java Module 08",
+          "slug": "java-module-08",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "java-module-07"
+            ]
+          ]
+        },
+        {
+          "id": 2335,
+          "name": "Java Module 09",
+          "slug": "java-module-09",
+          "xp": 15750,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "java-module-08"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 15750,
+      "unlocks": []
+    },
+    {
+      "id": 2364,
+      "name": "Piscine Object",
+      "slug": "piscine-object",
+      "url": "https://projects.intra.42.fr/projects/piscine-object",
+      "xp": 0,
+      "estimate": "64 hours",
+      "estimate_hours": 64,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Object-oriented programming"
+      ],
+      "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: OOP"
+      ],
+      "modules": [
+        {
+          "id": 2365,
+          "name": "Piscine Object - Module 00 - Encapsulation",
+          "slug": "piscine-object-module-00-encapsulation",
+          "xp": 945,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2366,
+          "name": "Piscine Object - Module 01 - Relationship",
+          "slug": "piscine-object-module-01-relationship",
+          "xp": 945,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "piscine-object-module-00-encapsulation"
+            ]
+          ]
+        },
+        {
+          "id": 2367,
+          "name": "Piscine Object - Module 02 - UML",
+          "slug": "piscine-object-module-02-uml",
+          "xp": 1890,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "piscine-object-module-01-relationship"
+            ]
+          ]
+        },
+        {
+          "id": 2368,
+          "name": "Piscine Object - Module 03 - SOLID",
+          "slug": "piscine-object-module-03-solid",
+          "xp": 1890,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "piscine-object-module-02-uml"
+            ]
+          ]
+        },
+        {
+          "id": 2369,
+          "name": "Piscine Object - Module 04 - Design Pattern",
+          "slug": "piscine-object-module-04-design-pattern",
+          "xp": 1890,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "piscine-object-module-03-solid"
+            ]
+          ]
+        },
+        {
+          "id": 2370,
+          "name": "Piscine Object - Module 05 - Practical work",
+          "slug": "piscine-object-module-05-practical-work",
+          "xp": 1890,
+          "estimate": "14 hours",
+          "requires": [
+            [
+              "piscine-object-module-04-design-pattern"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 9450,
+      "unlocks": [
+        "abstract_data"
+      ]
+    },
+    {
+      "id": 2228,
+      "name": "Piscine ocaml",
+      "slug": "piscine-ocaml",
+      "url": "https://projects.intra.42.fr/projects/42cursus-piscine-ocaml",
+      "xp": 0,
+      "estimate": "63 hours",
+      "estimate_hours": 63,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Functionnal",
+        "OCAML"
+      ],
+      "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: functional-prog"
+      ],
+      "modules": [
+        {
+          "id": 2251,
+          "name": "OCAML  - OCaml’s modules language - 1",
+          "slug": "ocaml-ocaml-s-modules-language-1",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ocaml-pattern-matching-and-data-types-0"
+            ]
+          ]
+        },
+        {
+          "id": 2230,
+          "name": "OCAML - Basic syntax and semantics - 0",
+          "slug": "ocaml-basic-syntax-and-semantics-0",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2279,
+          "name": "OCAML - Functor - 1",
+          "slug": "ocaml-functor-1",
+          "xp": 2250,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ocaml-imperative-features-1"
+            ]
+          ]
+        },
+        {
+          "id": 2252,
+          "name": "OCAML - Imperative features - 1",
+          "slug": "ocaml-imperative-features-1",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ocaml-ocaml-s-modules-language-1"
+            ]
+          ]
+        },
+        {
+          "id": 2282,
+          "name": "OCAML - Monoids and Monads - 3",
+          "slug": "ocaml-monoids-and-monads-3",
+          "xp": 3475,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ocaml-object-oriented-programming-2"
+            ]
+          ]
+        },
+        {
+          "id": 2280,
+          "name": "OCAML - Object Oriented Programming -  1",
+          "slug": "ocaml-object-oriented-programming-1",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ocaml-functor-1"
+            ]
+          ]
+        },
+        {
+          "id": 2281,
+          "name": "OCAML - Object Oriented Programming - 2",
+          "slug": "ocaml-object-oriented-programming-2",
+          "xp": 2225,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ocaml-object-oriented-programming-1"
+            ]
+          ]
+        },
+        {
+          "id": 2237,
+          "name": "OCAML - Pattern Matching and Data Types - 0",
+          "slug": "ocaml-pattern-matching-and-data-types-0",
+          "xp": 1500,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ocaml-recursion-and-higher-order-functions-0"
+            ]
+          ]
+        },
+        {
+          "id": 2234,
+          "name": "OCAML - Recursion and higher-order functions - 0",
+          "slug": "ocaml-recursion-and-higher-order-functions-0",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ocaml-basic-syntax-and-semantics-0"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 9450,
+      "unlocks": []
+    },
+    {
+      "id": null,
+      "name": "Piscine Ruby on Rails",
+      "slug": "piscine-ror",
+      "url": null,
+      "xp": 0,
+      "estimate": null,
+      "estimate_hours": null,
+      "team": "solo",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "objectives": [],
+      "description": "",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 2180,
+          "name": "RoR - 0 - Initiation",
+          "slug": "ror-0-initiation",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2182,
+          "name": "RoR - 0 - Oob",
+          "slug": "ror-0-oob",
+          "xp": 1500,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ror-0-starting"
+            ]
+          ]
+        },
+        {
+          "id": 2181,
+          "name": "RoR - 0 - Starting",
+          "slug": "ror-0-starting",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ror-0-initiation"
+            ]
+          ]
+        },
+        {
+          "id": 2184,
+          "name": "RoR - 1 - Base Rails",
+          "slug": "ror-1-base-rails",
+          "xp": 3475,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ror-1-gems"
+            ]
+          ]
+        },
+        {
+          "id": 2183,
+          "name": "RoR - 1 - Gems",
+          "slug": "ror-1-gems",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ror-0-oob"
+            ]
+          ]
+        },
+        {
+          "id": 2185,
+          "name": "RoR - 2 - SQL",
+          "slug": "ror-2-sql",
+          "xp": 1000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ror-1-base-rails"
+            ]
+          ]
+        },
+        {
+          "id": 2187,
+          "name": "RoR - 3 - Advanced",
+          "slug": "ror-3-advanced",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ror-3-sessions"
+            ]
+          ]
+        },
+        {
+          "id": 2188,
+          "name": "RoR - 3 - Final",
+          "slug": "ror-3-final",
+          "xp": 3475,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ror-3-advanced"
+            ]
+          ]
+        },
+        {
+          "id": 2186,
+          "name": "RoR - 3 - Sessions",
+          "slug": "ror-3-sessions",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "ror-2-sql"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 9450,
+      "unlocks": []
+    },
+    {
+      "id": null,
+      "name": "Piscine Symfony",
+      "slug": "piscine-symfony",
+      "url": null,
+      "xp": 0,
+      "estimate": null,
+      "estimate_hours": null,
+      "team": "solo",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "objectives": [],
+      "description": "",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 2200,
+          "name": "Symfony - 0 - Initiation",
+          "slug": "symfony-0-initiation",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2202,
+          "name": "Symfony - 0 - Oob",
+          "slug": "symfony-0-oob",
+          "xp": 1500,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "symfony-0-starting"
+            ]
+          ]
+        },
+        {
+          "id": 2201,
+          "name": "Symfony - 0 - Starting",
+          "slug": "symfony-0-starting",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "symfony-0-initiation"
+            ]
+          ]
+        },
+        {
+          "id": 2204,
+          "name": "Symfony - 1 - Base Symfony",
+          "slug": "symfony-1-base-symfony",
+          "xp": 3475,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "symfony-1-composer"
+            ]
+          ]
+        },
+        {
+          "id": 2203,
+          "name": "Symfony - 1 - Composer",
+          "slug": "symfony-1-composer",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "symfony-0-oob"
+            ]
+          ]
+        },
+        {
+          "id": 2205,
+          "name": "Symfony - 2 - SQL",
+          "slug": "symfony-2-sql",
+          "xp": 1000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "symfony-1-base-symfony"
+            ]
+          ]
+        },
+        {
+          "id": 2207,
+          "name": "Symfony - 3 - Advanced",
+          "slug": "symfony-3-advanced",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "symfony-3-sessions"
+            ]
+          ]
+        },
+        {
+          "id": 2208,
+          "name": "Symfony - 3 - Final",
+          "slug": "symfony-3-final",
+          "xp": 3475,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "symfony-3-advanced"
+            ]
+          ]
+        },
+        {
+          "id": 2206,
+          "name": "Symfony - 3 - Sessions",
+          "slug": "symfony-3-sessions",
+          "xp": 0,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "symfony-2-sql"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 9450,
+      "unlocks": []
+    },
+    {
+      "id": 1421,
+      "name": "process-and-memory",
+      "slug": "process-and-memory",
+      "url": "https://projects.intra.42.fr/projects/42cursus-process-and-memory",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "ft_linux"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "An introduction to syscalls and memory management within linux kernel",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2267,
+      "name": "Python for Data Science",
+      "slug": "python-for-data-science",
+      "url": "https://projects.intra.42.fr/projects/python-for-data-science",
+      "xp": 0,
+      "estimate": "35 hours",
+      "estimate_hours": 35,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Data & AI",
+        "Python"
+      ],
+      "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "modules": [
+        {
+          "id": 2268,
+          "name": "Python - 0 - Starting",
+          "slug": "python-0-starting",
+          "xp": 545,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2269,
+          "name": "Python - 1 - Array",
+          "slug": "python-1-array",
+          "xp": 545,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "python-0-starting"
+            ]
+          ]
+        },
+        {
+          "id": 2270,
+          "name": "Python - 2 - DataTable",
+          "slug": "python-2-datatable",
+          "xp": 545,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "python-1-array"
+            ]
+          ]
+        },
+        {
+          "id": 2271,
+          "name": "Python - 3 - OOP",
+          "slug": "python-3-oop",
+          "xp": 545,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "python-2-datatable"
+            ]
+          ]
+        },
+        {
+          "id": 2272,
+          "name": "Python - 4 - Dod",
+          "slug": "python-4-dod",
+          "xp": 2545,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "python-3-oop"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 4725,
+      "unlocks": [
+        "piscine-data-science"
+      ]
+    },
+    {
+      "id": 2744,
+      "name": "RAG against the machine",
+      "slug": "rag-against-the-machine",
+      "url": "https://projects.intra.42.fr/projects/42cursus-rag-against-the-machine",
+      "xp": 7717,
+      "estimate": "150 hours",
+      "estimate_hours": 150,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ],
+        [
+          "call-me-maybe"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "AI",
+        "Parsing",
+        "LLM"
+      ],
+      "description": "Build a Retrieval-Augmented Generation system that answers questions about codebases by retrieving relevant information and generating evidence-based responses, implementing intelligent chunking, efficient retrieval (TF-IDF/BM25)",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/221976/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "unlocks": [
+        "agent-smith"
+      ]
+    },
+    {
+      "id": 1417,
+      "name": "rainfall",
+      "slug": "rainfall",
+      "url": "https://projects.intra.42.fr/projects/42cursus-rainfall",
+      "xp": 25200,
+      "estimate": "28 days",
+      "estimate_hours": 196,
+      "team": "2-2",
+      "requires": [
+        [
+          "snow-crash"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Binary Exploitation"
+      ],
+      "description": "Rainfall picks up where Snow Crash left off and goes deeper. On a deliberately vulnerable VM, you climb from one account to the next by exploiting a series of SUID ELF binaries: reading their code, mapping how they lay out memory, and turning their flaws into control of execution. Each level tightens the protections (NX, stack canaries and ASLR), so your techniques must grow with them. Full RELRO and PIE await in the bonus part. Will you reach the last level?",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: security"
+      ],
+      "unlocks": [
+        "override"
+      ]
+    },
+    {
+      "id": 2076,
+      "name": "ready set boole",
+      "slug": "ready-set-boole",
+      "url": "https://projects.intra.42.fr/projects/ready-set-boole",
+      "xp": 7000,
+      "estimate": "110 hours",
+      "estimate_hours": 110,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Boolean algebra",
+        "Sets theory",
+        "Space filling curves"
+      ],
+      "description": "Discover the basics of computer-related mathematics with Boolean Algebra and Sets Theory!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Data: ai"
+      ],
+      "unlocks": [
+        "ft_kleene"
+      ]
+    },
+    {
+      "id": 1428,
+      "name": "red-tetris",
+      "slug": "red-tetris",
+      "url": "https://projects.intra.42.fr/projects/42cursus-red-tetris",
+      "xp": 15750,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Web",
+        "Javascript"
+      ],
+      "description": "The objective of this project is to develop a networked multiplayer Tetris game using a software stack that is exclusively Full Stack JavaScript.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: web",
+        "RNCP6 Applicative: OOP",
+        "RNCP7 Data: databases"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2351,
+      "name": "restful",
+      "slug": "restful",
+      "url": "https://projects.intra.42.fr/projects/42cursus-restful",
+      "xp": 4200,
+      "estimate": "7 days",
+      "estimate_hours": 49,
+      "team": "2-2",
+      "requires": [
+        [
+          "java-module-09"
+        ],
+        [
+          "spring-boot"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Rigor",
+        "DB & Data",
+        "Object-oriented programming",
+        "Security",
+        "Technology integration",
+        "Group & interpersonal"
+      ],
+      "description": "In this project you will learn how to use Spring mechanisms to develop REST applications",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 2749,
+      "name": "RetroEmu",
+      "slug": "retroemu",
+      "url": "https://projects.intra.42.fr/projects/retroemu",
+      "xp": 37800,
+      "estimate": "420 hours",
+      "estimate_hours": 420,
+      "team": "2-4",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Emulation"
+      ],
+      "description": "This project involves coding an emulator for an 8-bit handheld console (DMG model) and its color variant (CGB model). You will become familiar with technical documentation, better apprehend hardware emulation and understand the inner workings of a real piece of hardware as well as ROM cartridges.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: OOP",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1855,
+      "name": "rt",
+      "slug": "rt",
+      "url": "https://projects.intra.42.fr/projects/42cursus-rt",
+      "xp": 20750,
+      "estimate": "294 hours",
+      "estimate_hours": 294,
+      "team": "3-4",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Raytracing "
+      ],
+      "description": "RT pushes the limits of what Ray Tracing can do: mirror effect, transparency, object cutting, texture application... . Use the preceding project to create an infrastructure capable of supporting all these ramifications and obtain sublime computer-generated images.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: suite",
+        "RNCP6 Applicative: suite",
+        "RNCP7 Security: suite",
+        "RNCP7 Data: suite"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1393,
+      "name": "rubik",
+      "slug": "rubik",
+      "url": "https://projects.intra.42.fr/projects/42cursus-rubik",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Optimisation",
+        "Algorithm"
+      ],
+      "description": "Non-trivial algorithm project: Create a Rubik’s cube solver. You can choose the language you want for this project.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "expert-system",
+        "gomoku",
+        "krpsim"
+      ]
+    },
+    {
+      "id": 1390,
+      "name": "scop",
+      "slug": "scop",
+      "url": "https://projects.intra.42.fr/projects/42cursus-scop",
+      "xp": 9450,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "GPU",
+        "Rendering"
+      ],
+      "description": "Your introduction to 3D rendering on the GPU using OpenGL, Vulkan, or Metal. Through this small graphical project, you'll explore the core concepts of modern 3D graphics.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "42run",
+        "ft_vox",
+        "humangl"
+      ]
+    },
+    {
+      "id": 1454,
+      "name": "shaderpixel",
+      "slug": "shaderpixel",
+      "url": "https://projects.intra.42.fr/projects/42cursus-shaderpixel",
+      "xp": 15750,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "2-2",
+      "requires": [
+        [
+          "humangl"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Shader"
+      ],
+      "description": "Now that you are familiar with 3D objects and basic rendering techniques, we can get serious now and really work in the space of the graphic card. It’s up to you to design and create the weirdest objects thanks to shaders programming.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1404,
+      "name": "snow-crash",
+      "slug": "snow-crash",
+      "url": "https://projects.intra.42.fr/projects/42cursus-snow-crash",
+      "xp": 9450,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "2-2",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Security",
+        "Unix"
+      ],
+      "description": "Eleven independent security challenges on a deliberately vulnerable Linux VM. Each level requires a distinct technique: binary analysis, process and filesystem inspection, code injection through configuration files and templates, protocol reverse engineering, jail escapes, and side-channel attacks. You will learn to read and exploit systems you did not write, using the tools and mindset of a security researcher.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: security"
+      ],
+      "unlocks": [
+        "boot2root",
+        "rainfall"
+      ]
+    },
+    {
+      "id": 2350,
+      "name": "Spring Boot",
+      "slug": "spring-boot",
+      "url": "https://projects.intra.42.fr/projects/spring-boot",
+      "xp": 15750,
+      "estimate": "14 days",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "java-module-09"
+        ],
+        [
+          "cinema"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Rigor",
+        "DB & Data",
+        "Object-oriented programming",
+        "Security",
+        "Technology integration",
+        "Group & interpersonal"
+      ],
+      "description": "Let's make a final MVP for our web application using the most current Java-based Spring Boot development technology",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "restful"
+      ]
+    },
+    {
+      "id": 1662,
+      "name": "Startup Experience",
+      "slug": "startup-experience",
+      "url": "https://projects.intra.42.fr/projects/startup-experience",
+      "xp": 63000,
+      "estimate": "900 hours",
+      "estimate_hours": 900,
+      "team": "solo",
+      "requires": [
+        [
+          "exam-rank-06",
+          "c-exam-alone-in-the-dark-beginner"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Company Integration",
+        "Adaptation",
+        "Relational",
+        "Production constraints",
+        "Company Experience"
+      ],
+      "description": "Successful professional integration remains one of the school’s fundamental objectives. This project offers you the opportunity to found a startup and work on it full-time for at least the next six months.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 1663,
+          "name": "Startup Experience - Contract Upload",
+          "slug": "startup-experience-startup-experience-contract-upload",
+          "xp": 0,
+          "estimate": "1 day",
+          "requires": []
+        },
+        {
+          "id": 1664,
+          "name": "Startup Experience - Duration",
+          "slug": "startup-experience-startup-experience-duration",
+          "xp": 0,
+          "estimate": "1 day",
+          "requires": []
+        },
+        {
+          "id": 1667,
+          "name": "Startup Experience - Peer Video",
+          "slug": "startup-experience-startup-experience-peer-video",
+          "xp": 0,
+          "estimate": "7 days",
+          "requires": []
+        },
+        {
+          "id": 1666,
+          "name": "Startup Experience - Tutor Final Evaluation",
+          "slug": "startup-experience-startup-experience-tutor-final-evaluation",
+          "xp": 0,
+          "estimate": "0 days",
+          "requires": []
+        },
+        {
+          "id": 1665,
+          "name": "Startup Experience - Tutor Mid Evaluation",
+          "slug": "startup-experience-startup-experience-tutor-mid-evaluation",
+          "xp": 0,
+          "estimate": "0 days",
+          "requires": []
+        }
+      ],
+      "xp_with_modules": 63000,
+      "unlocks": [
+        "work-experience-ii"
+      ]
+    },
+    {
+      "id": 1388,
+      "name": "strace",
+      "slug": "strace",
+      "url": "https://projects.intra.42.fr/projects/42cursus-strace",
+      "xp": 9450,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "lem-ipc"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Unix",
+        "System"
+      ],
+      "description": "First step in a serie of projects in C language leading to creation of a mini-GDB, this project will ask you to recode strace, a tool allowing you to list syscalls done by a running program",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2748,
+      "name": "Supercharge",
+      "slug": "supercharge",
+      "url": "https://projects.intra.42.fr/projects/supercharge",
+      "xp": 12600,
+      "estimate": "140 hours",
+      "estimate_hours": 140,
+      "team": "solo",
+      "requires": [
+        [
+          "ftl_quantum"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Web",
+        "Optimisation",
+        "Quantum programming"
+      ],
+      "description": "Go from a quantum algorithm to a real optimization problem. Build a web app that places electric vehicle charging stations on a real map, and compares a classical brute-force solver against a quantum QAOA solver to show why quantum matters at scale.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/228246/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1395,
+      "name": "swifty-companion",
+      "slug": "swifty-companion",
+      "url": "https://projects.intra.42.fr/projects/42cursus-swifty-companion",
+      "xp": 4200,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "startup-experience-startup-experience-peer-video",
+          "work-experience-i-work-experience-i-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Mobile",
+        "API-42"
+      ],
+      "description": "This project is an introduction to mobile programming. The goal is to create, an application which will allow you to get infos about 42students, using the API.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: mobile",
+        "RNCP6 Applicative: OOP"
+      ],
+      "unlocks": [
+        "swifty-proteins"
+      ]
+    },
+    {
+      "id": 1406,
+      "name": "swifty-proteins",
+      "slug": "swifty-proteins",
+      "url": "https://projects.intra.42.fr/projects/42cursus-swifty-proteins",
+      "xp": 15750,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "2-2",
+      "requires": [
+        [
+          "swifty-companion"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Mobile",
+        "Biometric Authentication",
+        "3D Rendering",
+        "Data Parsing"
+      ],
+      "description": "Build a professional mobile application for visualizing protein ligands in 3D. You'll fetch molecular data from the RCSB Protein Data Bank, parse Chemical Information Files (.cif format), and render complex molecular structures using native 3D frameworks (SceneKit on iOS or equivalent on Android). The app features secure biometric authentication, interactive 3D models with CPK coloring and ball-and-stick representation, gesture-based controls for rotation and zoom, and social sharing capabilities. This project combines bioinformatics, mobile security, network programming, and advanced 3D graphics rendering.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: mobile",
+        "RNCP6 Applicative: OOP"
+      ],
+      "unlocks": [
+        "peace_break"
+      ]
+    },
+    {
+      "id": 1436,
+      "name": "swingy",
+      "slug": "swingy",
+      "url": "https://projects.intra.42.fr/projects/42cursus-swingy",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "java-module-09"
+        ],
+        [
+          "avaj-launcher"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Java",
+        "Swing"
+      ],
+      "description": "This is the second project from the Java world at 42. You will learn to develop GUI applications with the SWING framework, in order to create an RPG game.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: OOP"
+      ],
+      "unlocks": [
+        "fix-me"
+      ]
+    },
+    {
+      "id": 1381,
+      "name": "taskmaster",
+      "slug": "taskmaster",
+      "url": "https://projects.intra.42.fr/projects/42cursus-taskmaster",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Unix",
+        "System"
+      ],
+      "description": "This program is a job control task, in any language. The project is very close to the supervisor program on your computer",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX",
+        "RNCP7 Security: admin-sys"
+      ],
+      "unlocks": [
+        "matt-daemon"
+      ]
+    },
+    {
+      "id": 2097,
+      "name": "tinky-winkey",
+      "slug": "tinky-winkey",
+      "url": "https://projects.intra.42.fr/projects/tinky-winkey",
+      "xp": 16800,
+      "estimate": "210 hours",
+      "estimate_hours": 210,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Windows",
+        "Malware"
+      ],
+      "description": "Introduction to windows operating system by creating a service that run a keylogger.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: security"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2600,
+      "name": "TokenizeArt",
+      "slug": "tokenizeart",
+      "url": "https://projects.intra.42.fr/projects/tokenizeart",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "tokenizer"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Web3"
+      ],
+      "description": "This project allows you to learn the basics in web3. You will have to create your non-fungible token!",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/214858/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: web",
+        "RNCP7 Data: databases"
+      ],
+      "unlocks": [
+        "tokenzwap"
+      ]
+    },
+    {
+      "id": 2485,
+      "name": "Tokenizer",
+      "slug": "tokenizer",
+      "url": "https://projects.intra.42.fr/projects/tokenizer",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Web3"
+      ],
+      "description": "This project allows you to learn the basics in web3. You will have to create your personal token!",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: web",
+        "RNCP7 Data: databases"
+      ],
+      "unlocks": [
+        "tokenizeart"
+      ]
+    },
+    {
+      "id": 2719,
+      "name": "TokenZwap",
+      "slug": "tokenzwap",
+      "url": "https://projects.intra.42.fr/projects/tokenzwap",
+      "xp": 9000,
+      "estimate": "150 hours",
+      "estimate_hours": 150,
+      "team": "solo",
+      "requires": [
+        [
+          "tokenizeart"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "General",
+        "Web3"
+      ],
+      "description": "This project introduces you to the fundamentals of decentralized finance (DeFi). You will build an Automated Market Maker (AMM) where users can swap tokens and buy/sell NFTs!",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/224502/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1460,
+      "name": "total-perspective-vortex",
+      "slug": "total-perspective-vortex",
+      "url": "https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex",
+      "xp": 9450,
+      "estimate": "98 hours",
+      "estimate_hours": 98,
+      "team": "solo",
+      "requires": [
+        [
+          "dslr"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DataScience",
+        "EEG",
+        "Classification"
+      ],
+      "description": "Learn to use python tools to process large dimension data, and create a man-machine interface thanks to brainwaves.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/209510/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP6 Web & mobile: suite",
+        "RNCP6 Applicative: suite",
+        "RNCP7 Security: suite",
+        "RNCP7 Data: ai",
+        "RNCP7 Data: suite"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2319,
+      "name": "tweet",
+      "slug": "tweet",
+      "url": "https://projects.intra.42.fr/projects/tweet",
+      "xp": 9450,
+      "estimate": "14 days",
+      "estimate_hours": 98,
+      "team": "1-2",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": false,
+      "deprecated": false,
+      "objectives": [
+        "DB & Data",
+        "Algorithms & AI",
+        "Rigor"
+      ],
+      "description": "This project is an introduction to natural language processing: bag of words, TFIDF, stemming, lemmatization, stop-words, cosine similarity, n-grams, word2vec",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1933,
+      "name": "tweets [DEPRECATED]",
+      "slug": "tweets-deprecated",
+      "url": "https://projects.intra.42.fr/projects/tweets-deprecated",
+      "xp": 9450,
+      "estimate": "14 days",
+      "estimate_hours": 98,
+      "team": "1-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": true,
+      "objectives": [
+        "DB & Data",
+        "Algorithms & AI",
+        "Rigor"
+      ],
+      "description": "This project is an introduction to natural language processing: bag of words, TFIDF, stemming, lemmatization, stop-words, cosine similarity, n-grams, word2vec",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1955,
+      "name": "Uber",
+      "slug": "uber",
+      "url": "https://projects.intra.42.fr/projects/uber",
+      "xp": 9450,
+      "estimate": "14 days",
+      "estimate_hours": 98,
+      "team": "1-2",
+      "requires": [
+        [
+          "understanding-customer"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DB & Data",
+        "Algorithms & AI",
+        "Adaptation & creativity",
+        "Data Visualization"
+      ],
+      "description": "This project is an introduction to time series analysis: stationarity, exponential smoothing, SARIMA",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "city-life"
+      ]
+    },
+    {
+      "id": 1956,
+      "name": "Understanding customer",
+      "slug": "understanding-customer",
+      "url": "https://projects.intra.42.fr/projects/understanding-customer",
+      "xp": 9450,
+      "estimate": "21 days",
+      "estimate_hours": 147,
+      "team": "1-2",
+      "requires": [
+        [
+          "myspotify"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "DB & Data",
+        "Algorithms & AI",
+        "Adaptation & creativity"
+      ],
+      "description": "This project is an introduction to deep learning and NLP: recurrent neural nets (RNN), LSTM, Transformer, BERT",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "uber"
+      ]
+    },
+    {
+      "id": 2288,
+      "name": "Unity",
+      "slug": "unity",
+      "url": "https://projects.intra.42.fr/projects/unity",
+      "xp": 0,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "solo",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Graphics",
+        "Adaptation and creativity",
+        "Object-oriented programming"
+      ],
+      "description": "Piscines are an important part of your curriculum, giving you the opportunity to learn a new language — or even explore a completely new paradigm!",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 2286,
+          "name": "Unity - 0 - The basics Unity tools",
+          "slug": "unity-0-the-basics-unity-tools",
+          "xp": 500,
+          "estimate": "7 hours",
+          "requires": []
+        },
+        {
+          "id": 2284,
+          "name": "Unity - 1 - 3D physics, Tags, Layers and Scene",
+          "slug": "unity-1-3d-physics-tags-layers-and-scene",
+          "xp": 500,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "unity-0-the-basics-unity-tools"
+            ]
+          ]
+        },
+        {
+          "id": 2289,
+          "name": "Unity - 2 - 2D environment, tiles and sprites",
+          "slug": "unity-2-2d-environment-tiles-and-sprites",
+          "xp": 1000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "unity-1-3d-physics-tags-layers-and-scene"
+            ]
+          ]
+        },
+        {
+          "id": 2290,
+          "name": "Unity - 3 - Advanced inputs and 2D GUI",
+          "slug": "unity-3-advanced-inputs-and-2d-gui",
+          "xp": 1000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "unity-2-2d-environment-tiles-and-sprites"
+            ]
+          ]
+        },
+        {
+          "id": 2292,
+          "name": "Unity - 4 - Animations and Sound",
+          "slug": "unity-4-animations-and-sound",
+          "xp": 1000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "unity-3-advanced-inputs-and-2d-gui"
+            ]
+          ]
+        },
+        {
+          "id": 2287,
+          "name": "Unity - 5 - Singleton, playerPrefs and coroutines",
+          "slug": "unity-5-singleton-playerprefs-and-coroutines",
+          "xp": 2000,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "unity-4-animations-and-sound"
+            ]
+          ]
+        },
+        {
+          "id": 2285,
+          "name": "Unity - 6 - Navmesh, light, sound and camera",
+          "slug": "unity-6-navmesh-light-sound-and-camera",
+          "xp": 3450,
+          "estimate": "7 hours",
+          "requires": [
+            [
+              "unity-5-singleton-playerprefs-and-coroutines"
+            ]
+          ]
+        }
+      ],
+      "xp_with_modules": 9450,
+      "unlocks": []
+    },
+    {
+      "id": 2393,
+      "name": "UnleashTheBox",
+      "slug": "unleashthebox",
+      "url": "https://projects.intra.42.fr/projects/unleashthebox",
+      "xp": 15750,
+      "estimate": "147 hours",
+      "estimate_hours": 147,
+      "team": "solo",
+      "requires": [
+        [
+          "boot2root"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity"
+      ],
+      "description": "An immersive cybersecurity project where participants learn to exploit systems and acquire essential skills to navigate the dynamic world of information security.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/212058/en.subject.pdf"
+      ],
+      "rncp_blocks": [
+        "RNCP7 Security: security"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 1456,
+      "name": "userspace_digressions",
+      "slug": "userspace_digressions",
+      "url": "https://projects.intra.42.fr/projects/42cursus-userspace_digressions",
+      "xp": 16800,
+      "estimate": "294 hours",
+      "estimate_hours": 294,
+      "team": "2-2",
+      "requires": [
+        [
+          "little-penguin-1"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Low-level",
+        "Kernel"
+      ],
+      "description": "Make your own userspace init binary.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    },
+    {
+      "id": 2553,
+      "name": "Very_Real_Engine",
+      "slug": "very_real_engine",
+      "url": "https://projects.intra.42.fr/projects/very_real_engine",
+      "xp": 30000,
+      "estimate": "600 hours",
+      "estimate_hours": 600,
+      "team": "2-4",
+      "requires": [
+        [
+          "ft_minecraft",
+          "ft_newton"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "Game Engine"
+      ],
+      "description": "Create and implement a library containing all necessary tools, notably a graphics engine and a physics engine.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1444,
+      "name": "war",
+      "slug": "war",
+      "url": "https://projects.intra.42.fr/projects/42cursus-war",
+      "xp": 35700,
+      "estimate": "196 hours",
+      "estimate_hours": 196,
+      "team": "2-2",
+      "requires": [
+        [
+          "pestilence"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Low-level",
+        "Malware"
+      ],
+      "description": "Third virus project. Reuse Pestilence, and manage to have your binary modify its signature on runtime.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "death"
+      ]
+    },
+    {
+      "id": 1419,
+      "name": "woody-woodpacker",
+      "slug": "woody-woodpacker",
+      "url": "https://projects.intra.42.fr/projects/42cursus-woody-woodpacker",
+      "xp": 9450,
+      "estimate": "49 hours",
+      "estimate_hours": 49,
+      "team": "2-2",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Cybersecurity",
+        "Low-level",
+        "Malware"
+      ],
+      "description": "A logical follow-up project on nm/otools that is designed to modify the headers of a ELF64 file. The goal here is to add a chunk of code and hide a non-stripped part of a file.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: security"
+      ],
+      "unlocks": [
+        "famine",
+        "ft_shield"
+      ]
+    },
+    {
+      "id": 1638,
+      "name": "Work Experience I",
+      "slug": "work-experience-i",
+      "url": "https://projects.intra.42.fr/projects/work-experience-i",
+      "xp": 42000,
+      "estimate": "120 days",
+      "estimate_hours": 840,
+      "team": "solo",
+      "requires": [
+        [
+          "exam-rank-06",
+          "c-exam-alone-in-the-dark-beginner",
+          "ft_transcendence"
+        ],
+        [
+          "exam-rank-06",
+          "ft_transcendence"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Company Integration",
+        "Adaptation",
+        "Relationnal",
+        "Production constraints",
+        "Company Experience"
+      ],
+      "description": "Your first step in a company is an important milestone in your 42 training. This employment project is designed to help you discover the professional world and apply your work ethic and adaptability in a real-world context. It represents a first asset for your resume and offers an opportunity to identify your future field of interest.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 1642,
+          "name": "Work Experience I - Company Final Evaluation",
+          "slug": "work-experience-i-work-experience-i-company-final-evaluation",
+          "xp": 0,
+          "estimate": "0 days",
+          "requires": []
+        },
+        {
+          "id": 1641,
+          "name": "Work Experience I - Company Mid Evaluation",
+          "slug": "work-experience-i-work-experience-i-company-mid-evaluation",
+          "xp": 0,
+          "estimate": "0 days",
+          "requires": []
+        },
+        {
+          "id": 1639,
+          "name": "Work Experience I - Duration",
+          "slug": "work-experience-i-work-experience-i-duration",
+          "xp": 0,
+          "estimate": "1 day",
+          "requires": []
+        },
+        {
+          "id": 1643,
+          "name": "Work Experience I - Peer Video",
+          "slug": "work-experience-i-work-experience-i-peer-video",
+          "xp": 0,
+          "estimate": "7 days",
+          "requires": []
+        }
+      ],
+      "xp_with_modules": 42000,
+      "unlocks": [
+        "work-experience-ii"
+      ]
+    },
+    {
+      "id": 1640,
+      "name": "Work Experience I  - Contract Upload",
+      "slug": "work-experience-i-work-experience-i-contract-upload",
+      "url": "https://projects.intra.42.fr/projects/work-experience-i-work-experience-i-contract-upload",
+      "xp": 0,
+      "estimate": "1 day",
+      "estimate_hours": 7,
+      "team": "solo",
+      "requires": [],
+      "blocked_while_ongoing": [],
+      "available_on_campus": false,
+      "subscribable": false,
+      "deprecated": false,
+      "objectives": [],
+      "description": "",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": [
+        "lem_in",
+        "matrix"
+      ]
+    },
+    {
+      "id": 1644,
+      "name": "Work Experience II",
+      "slug": "work-experience-ii",
+      "url": "https://projects.intra.42.fr/projects/work-experience-ii",
+      "xp": 63000,
+      "estimate": "120 days",
+      "estimate_hours": 840,
+      "team": "solo",
+      "requires": [
+        [
+          "first-internship",
+          "work-experience-i",
+          "startup-experience",
+          "startup-internship"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Company Integration",
+        "Adaptation",
+        "Relationnal",
+        "Production constraints",
+        "Company Experience"
+      ],
+      "description": "Your course 42 can be continued with a second period of professional integration: the second internship. This internship is the accomplishment of your journey, and will have you demonstrate your expertise professionally in a company. This will be the springboard for your career.",
+      "subject_pdf": [
+        "https://cdn.intra.42.fr/pdf/pdf/184734/en.subject.pdf"
+      ],
+      "rncp_blocks": [],
+      "modules": [
+        {
+          "id": 1648,
+          "name": "Work Experience II - Company Final Evaluation",
+          "slug": "work-experience-ii-work-experience-ii-company-final-evaluation",
+          "xp": 0,
+          "estimate": "0 days",
+          "requires": []
+        },
+        {
+          "id": 1647,
+          "name": "Work Experience II - Company Mid Evaluation",
+          "slug": "work-experience-ii-work-experience-ii-company-mid-evaluation",
+          "xp": 0,
+          "estimate": "0 days",
+          "requires": []
+        },
+        {
+          "id": 1645,
+          "name": "Work Experience II - Contract Upload",
+          "slug": "work-experience-ii-work-experience-ii-contract-upload",
+          "xp": 0,
+          "estimate": "1 day",
+          "requires": []
+        },
+        {
+          "id": 1646,
+          "name": "Work Experience II - Duration",
+          "slug": "work-experience-ii-work-experience-ii-duration",
+          "xp": 0,
+          "estimate": "1 day",
+          "requires": []
+        },
+        {
+          "id": 1649,
+          "name": "Work Experience II - Peer Video",
+          "slug": "work-experience-ii-work-experience-ii-peer-video",
+          "xp": 0,
+          "estimate": "7 days",
+          "requires": []
+        }
+      ],
+      "xp_with_modules": 63000,
+      "unlocks": []
+    },
+    {
+      "id": 1408,
+      "name": "xv",
+      "slug": "xv",
+      "url": "https://projects.intra.42.fr/projects/42cursus-xv",
+      "xp": 22000,
+      "estimate": "392 hours",
+      "estimate_hours": 392,
+      "team": "2-4",
+      "requires": [
+        [
+          "in-the-shadows"
+        ]
+      ],
+      "blocked_while_ongoing": [],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "Game engine"
+      ],
+      "description": "This project was designed by the Daher company and has you develop a graphic interface under Unity for optimizing industrial processes.",
+      "subject_pdf": [],
+      "rncp_blocks": [],
+      "unlocks": []
+    },
+    {
+      "id": 1463,
+      "name": "zappy",
+      "slug": "zappy",
+      "url": "https://projects.intra.42.fr/projects/42cursus-zappy",
+      "xp": 25200,
+      "estimate": "294 hours",
+      "estimate_hours": 294,
+      "team": "2-4",
+      "requires": [
+        [
+          "work-experience-i-work-experience-i-peer-video",
+          "startup-experience-startup-experience-peer-video"
+        ]
+      ],
+      "blocked_while_ongoing": [
+        "work-experience-ii"
+      ],
+      "available_on_campus": true,
+      "subscribable": true,
+      "deprecated": false,
+      "objectives": [
+        "Gaming",
+        "Multiplayer"
+      ],
+      "description": "You will now create a multi-player game in a TCP/IP network. The game will consist of a server managing the game field, a graphic client which displays the state of the board, and IA clients that connect to the server to pilot a player on the filed. This is a real complete project that will let you express your creativity on top of your technical knowledge.",
+      "subject_pdf": [],
+      "rncp_blocks": [
+        "RNCP6 Applicative: imperative-prog",
+        "RNCP7 Security: UNIX"
+      ],
+      "unlocks": []
+    }
+  ]
+}

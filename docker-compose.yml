@@ -1,0 +1,38 @@
+# 37 Companion — `make run` starts everything below and opens http://localhost:3000
+name: 37-companion
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-companion}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-companion}
+      POSTGRES_DB: ${POSTGRES_DB:-companion}
+    ports:
+      # Published on localhost only, for `make dev`. 5433 avoids clashing with a local PostgreSQL.
+      - "127.0.0.1:${DB_PORT:-5433}:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+      - ./scripts/seed-database.sql:/docker-entrypoint-initdb.d/01-seed.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  app:
+    build: .
+    image: 37-companion-app
+    restart: unless-stopped
+    env_file: .env.local
+    environment:
+      DATABASE_KEY: postgresql://${POSTGRES_USER:-companion}:${POSTGRES_PASSWORD:-companion}@db:5432/${POSTGRES_DB:-companion}
+    ports:
+      - "${APP_PORT:-3000}:3000"
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  db-data:

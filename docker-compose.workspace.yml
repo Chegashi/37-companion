@@ -1,0 +1,12 @@
+# Optional, for self-hosting on your own machine only: mounts the folder that holds your 42 projects
+# so the Projects and Tracks pages show each project's local folder, git state and subject PDF.
+#   WORKSPACE=~/42 docker compose -f docker-compose.yml -f docker-compose.workspace.yml up -d
+# (or: make run WORKSPACE=~/42). Never use this on a shared server.
+services:
+  app:
+    environment:
+      WORKSPACE_DIR: /workspace
+      HOST_WORKSPACE_DIR: ${WORKSPACE:?set WORKSPACE to the folder that holds your 42 projects}
+      APP_FOLDER: 37-companion
+    volumes:
+      - ${WORKSPACE}:/workspace

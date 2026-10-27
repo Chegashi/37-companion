@@ -1,0 +1,673 @@
+{
+  "tracks": [
+    {
+      "id": "security",
+      "title": "Security",
+      "tagline": "Audit, break and harden systems — web, binaries, crypto and networks.",
+      "careers": [
+        "Security engineer",
+        "Pentester (authorized testing)",
+        "SOC / blue team analyst"
+      ],
+      "rncp": "RNCP 7 — Network & IS (Security)",
+      "stages": [
+        {
+          "title": "Foundations",
+          "projects": [
+            "cybersecurity",
+            "ft_ping",
+            "ft_ssl_md5"
+          ]
+        },
+        {
+          "title": "Core",
+          "projects": [
+            "darkly",
+            "snow-crash",
+            "ft_traceroute",
+            "ft_ssl_des"
+          ]
+        },
+        {
+          "title": "Advanced",
+          "projects": [
+            "boot2root",
+            "rainfall",
+            "ft_nmap",
+            "ft_ssl_rsa"
+          ]
+        },
+        {
+          "title": "Capstone",
+          "projects": [
+            "override",
+            "unleashthebox"
+          ]
+        }
+      ],
+      "notes": {
+        "cybersecurity": "Piscine of short security modules (web scraping, OTP, onion service, reverse engineering…); validate the last module to count it.",
+        "ft_ping": "Recode ping against inetutils-2.0 (raw sockets, RTT).",
+        "ft_ssl_md5": "First of the ft_ssl series: plan the structure, later projects build on it.",
+        "darkly": "Audit a vulnerable website and document each finding.",
+        "snow-crash": "Eleven independent challenges on a vulnerable Linux VM.",
+        "ft_traceroute": "Recode traceroute (IPv4, --help only): follow a packet hop by hop. Needs ft_ping.",
+        "ft_ssl_des": "Second ft_ssl step: base64 and DES (ECB/CBC) built into your ft_ssl.",
+        "boot2root": "Get root on a provided practice VM in at least two different ways, and document each path.",
+        "rainfall": "Level-by-level binary-analysis challenges on a practice VM; keep everything that helped you in your repo. Needs snow-crash.",
+        "ft_nmap": "Threaded port scanner (part of nmap).",
+        "ft_ssl_rsa": "Third ft_ssl step: prime generation and RSA keys (genrsa, rsa, rsautl).",
+        "override": "Sequel to Rainfall on 64-bit binaries with modern protections — the hardest of the series.",
+        "unleashthebox": "Done on HackTheBox to reach a minimum rank — it can't be retried, prepare first."
+      }
+    },
+    {
+      "id": "fullstack",
+      "title": "Full-stack web",
+      "tagline": "Ship complete web products: back end, front end, real-time and frameworks.",
+      "careers": [
+        "Full-stack developer",
+        "Back-end developer",
+        "Front-end developer"
+      ],
+      "rncp": "RNCP 6 — Web & mobile · RNCP 7 — Databases & Data",
+      "stages": [
+        {
+          "title": "Foundations",
+          "projects": [
+            "camagru",
+            "red-tetris"
+          ]
+        },
+        {
+          "title": "Core",
+          "projects": [
+            "matcha",
+            "piscine-django",
+            "h42n42"
+          ]
+        },
+        {
+          "title": "Advanced",
+          "projects": [
+            "hypertube",
+            "piscine-symfony"
+          ]
+        },
+        {
+          "title": "Capstone",
+          "projects": [
+            "music-room"
+          ]
+        }
+      ],
+      "notes": {
+        "camagru": "Webcam photo-montage site from scratch (PHP/JS), users, gallery, likes — first web project.",
+        "red-tetris": "Introduction to full-stack JavaScript: multiplayer Tetris with React and a Node server.",
+        "matcha": "Dating site, any language/micro-framework: auth, profiles, matching, real-time chat.",
+        "piscine-django": "Django piscine: Python web framework basics to sessions and SQL; validate the last module to count it.",
+        "h42n42": "Browser game in OCaml with Ocsigen/Eliom (needs ft_turing).",
+        "hypertube": "Video streaming site over BitTorrent with an MVC framework.",
+        "piscine-symfony": "PHP Symfony piscine, same structure as the Django one.",
+        "music-room": "Connected collaborative mobile app with its own back end and social login — a real product."
+      }
+    },
+    {
+      "id": "mobile",
+      "title": "Mobile",
+      "tagline": "Native apps from first screen to a full product with its own API.",
+      "careers": [
+        "Mobile developer (Android / iOS)",
+        "Cross-platform developer"
+      ],
+      "rncp": "RNCP 6 — Web & mobile",
+      "stages": [
+        {
+          "title": "Foundations",
+          "projects": [
+            "mobile",
+            "ft_hangouts"
+          ]
+        },
+        {
+          "title": "Core",
+          "projects": [
+            "swifty-companion"
+          ]
+        },
+        {
+          "title": "Advanced",
+          "projects": [
+            "swifty-proteins",
+            "peace_break"
+          ]
+        },
+        {
+          "title": "Capstone",
+          "projects": [
+            "music-room"
+          ]
+        }
+      ],
+      "notes": {
+        "mobile": "Mobile piscine: six modules from first screen to auth and data; counts for both RNCP 6 titles.",
+        "ft_hangouts": "Native Android contacts + SMS app.",
+        "swifty-companion": "Mobile intro with the 42 API, any stack (Flutter, Swift, Kotlin…).",
+        "swifty-proteins": "3D molecule rendering, biometric login, data parsing.",
+        "peace_break": "Mobile brick-breaker with auth, shop, leaderboard and 10+ stages.",
+        "music-room": "Connected collaborative mobile app with its own back end and social login — a real product."
+      }
+    },
+    {
+      "id": "java",
+      "title": "Java & enterprise back end",
+      "tagline": "Object-oriented design, Spring, microservices and message queues.",
+      "careers": [
+        "Java / Spring developer",
+        "Back-end engineer",
+        "Software architect"
+      ],
+      "rncp": "RNCP 6 — Applicative software",
+      "stages": [
+        {
+          "title": "Foundations",
+          "projects": [
+            "piscine-java",
+            "piscine-object",
+            "avaj-launcher"
+          ]
+        },
+        {
+          "title": "Core",
+          "projects": [
+            "swingy",
+            "fwa",
+            "cinema"
+          ]
+        },
+        {
+          "title": "Advanced",
+          "projects": [
+            "spring-boot",
+            "restful",
+            "ft_microservices"
+          ]
+        },
+        {
+          "title": "Capstone",
+          "projects": [
+            "messagequeue",
+            "microshop",
+            "fix-me"
+          ]
+        }
+      ],
+      "notes": {
+        "piscine-java": "Java Modules 00–09; Module 09 (client/server sockets) unlocks the whole Java arc.",
+        "piscine-object": "OOP piscine: encapsulation, relationships, UML, SOLID, design patterns.",
+        "avaj-launcher": "Intro to Java: implement a given UML class diagram (weather simulation).",
+        "swingy": "Text RPG with MVC — switch between console and Swing GUI.",
+        "fwa": "First Java web app with servlets and authentication.",
+        "cinema": "Spring + Hibernate web application.",
+        "spring-boot": "Spring Boot MVP of your web app — needs Java Module 09 and Cinema; unlocks RESTful.",
+        "restful": "REST API with Spring (needs Spring Boot).",
+        "ft_microservices": "Microservices with Spring; unlocks Microshop and MessageQueue.",
+        "messagequeue": "Work with a large flow of tasks through RabbitMQ.",
+        "microshop": "Cloud-native e-commerce: Java/Micronaut microservices + front end + Docker.",
+        "fix-me": "Last Java project: multi-threaded networking with async sockets (FIX trading simulation)."
+      }
+    },
+    {
+      "id": "data",
+      "title": "Data science",
+      "tagline": "From Python and SQL to analytics, recommendation and forecasting.",
+      "careers": [
+        "Data analyst",
+        "Data scientist",
+        "Analytics engineer"
+      ],
+      "rncp": "RNCP 7 — Databases & Data",
+      "stages": [
+        {
+          "title": "Foundations",
+          "projects": [
+            "python-for-data-science",
+            "piscine-data-science",
+            "datomic"
+          ]
+        },
+        {
+          "title": "Core",
+          "projects": [
+            "churn",
+            "myspotify",
+            "tweets-deprecated"
+          ]
+        },
+        {
+          "title": "Advanced",
+          "projects": [
+            "understanding-customer",
+            "uber"
+          ]
+        },
+        {
+          "title": "Capstone",
+          "projects": [
+            "city-life",
+            "fried-eggs"
+          ]
+        }
+      ],
+      "notes": {
+        "python-for-data-science": "Python piscine for data: arrays, data tables, OOP, data-oriented design (5 modules).",
+        "piscine-data-science": "Data science piscine: data engineering to analysis (needs Python for Data Science).",
+        "datomic": "SQL to columnar, key-value and graph across six engines in one VM (20 levels).",
+        "churn": "First neural-net project: fully-connected nets, back-propagation, dropout.",
+        "myspotify": "Recommender systems: top-N, content-based and collaborative filtering on music data.",
+        "tweets-deprecated": "First NLP project: vectorize tweets, similarity, sentiment classification. Registrable version (\"tweet\" is closed).",
+        "understanding-customer": "Intent classification with deep NLP (RNN, LSTM, Transformers) — subject assumes NLP + neural-net basics.",
+        "uber": "Demand forecasting for a taxi company: stationarity, smoothing, SARIMA.",
+        "city-life": "Geospatial analytics: GeoPandas, clustering, maps.",
+        "fried-eggs": "Computer vision: labeling, CNN, detection and instance segmentation."
+      }
+    },
+    {
+      "id": "ai",
+      "title": "AI & machine learning",
+      "tagline": "Models from scratch, deep learning, reinforcement learning and LLM systems.",
+      "careers": [
+        "ML engineer",
+        "AI engineer",
+        "Research engineer"
+      ],
+      "rncp": "RNCP 7 — Databases & Data (AI block)",
+      "stages": [
+        {
+          "title": "Foundations",
+          "projects": [
+            "multilayer-perceptron",
+            "total-perspective-vortex"
+          ]
+        },
+        {
+          "title": "Core",
+          "projects": [
+            "learn2slither",
+            "leaffliction",
+            "piscine-deep-learning"
+          ]
+        },
+        {
+          "title": "Advanced",
+          "projects": [
+            "call-me-maybe",
+            "rag-against-the-machine",
+            "n-puzzle",
+            "gomoku"
+          ]
+        },
+        {
+          "title": "Capstone",
+          "projects": [
+            "agent-smith",
+            "inception-of-context",
+            "inception-of-wisdom"
+          ]
+        }
+      ],
+      "notes": {
+        "multilayer-perceptron": "Build feedforward + backprop + gradient descent yourself; you must explain them — the base of the AI branch.",
+        "total-perspective-vortex": "EEG data with MNE: filtering, dimensionality reduction, scikit-learn pipeline, real-time classification.",
+        "learn2slither": "Reinforcement learning (Q-learning) on a 10×10 snake board.",
+        "leaffliction": "Computer vision on leaf images: dataset analysis, augmentation, classification.",
+        "piscine-deep-learning": "Deep-learning piscine modules (needs Piscine Data Science).",
+        "call-me-maybe": "Function calling: turn prompts into structured calls with typed arguments (constrained JSON output).",
+        "rag-against-the-machine": "RAG over a real codebase: chunking, BM25/TF-IDF retrieval, answers with a small local model, retrieval metrics. Builds on Call Me Maybe.",
+        "n-puzzle": "A* search with several heuristics; unlocks gomoku, expert-system, krpsim.",
+        "gomoku": "Min-max AI that must beat a human quickly.",
+        "agent-smith": "Agentic framework: Thought → Code → Observation loop solving coding challenges in a sandbox.",
+        "inception-of-context": "AI-native engineering: index your code in a vector DB, local LLM, validated automatic edits. Builds on Inception.",
+        "inception-of-wisdom": "Autonomous version of Inception of Context: observe a service, decide, patch, verify."
+      }
+    },
+    {
+      "id": "devops",
+      "title": "DevOps & cloud",
+      "tagline": "Deploy, observe and run services: containers, Kubernetes, networks.",
+      "careers": [
+        "DevOps engineer",
+        "SRE",
+        "Cloud / platform engineer"
+      ],
+      "rncp": "RNCP 7 — Network & IS (System administration)",
+      "stages": [
+        {
+          "title": "Foundations",
+          "projects": [
+            "cloud-1",
+            "taskmaster"
+          ]
+        },
+        {
+          "title": "Core",
+          "projects": [
+            "matt-daemon",
+            "ft_ping",
+            "ft_traceroute"
+          ]
+        },
+        {
+          "title": "Advanced",
+          "projects": [
+            "ft_lgtm",
+            "bgp-at-doors-of-autonomous-systems-is-simple"
+          ]
+        },
+        {
+          "title": "Capstone",
+          "projects": [
+            "inception-of-context",
+            "inception-of-wisdom"
+          ]
+        }
+      ],
+      "notes": {
+        "cloud-1": "Automated deployment of your Inception stack on a cloud server, one container per process.",
+        "taskmaster": "Job-control daemon like supervisor; any language, done in a VM.",
+        "matt-daemon": "A daemon on port 4242 with a logging class reused later.",
+        "ft_ping": "Recode ping against inetutils-2.0 (raw sockets, RTT).",
+        "ft_traceroute": "Recode traceroute (IPv4, --help only): follow a packet hop by hop. Needs ft_ping.",
+        "ft_lgtm": "Code playground (WASM/WASI) on Kubernetes with logs, metrics and traces (LGTM stack).",
+        "bgp-at-doors-of-autonomous-systems-is-simple": "Extends NetPractice: GNS3 + Docker, VXLAN, then BGP EVPN — in that order.",
+        "inception-of-context": "AI-native engineering: index your code in a vector DB, local LLM, validated automatic edits. Builds on Inception.",
+        "inception-of-wisdom": "Autonomous version of Inception of Context: observe a service, decide, patch, verify."
+      }
+    },
+    {
+      "id": "systems",
+      "title": "Systems & kernel",
+      "tagline": "Unix internals, memory, processes, then your own kernel.",
+      "careers": [
+        "Systems programmer",
+        "Embedded / kernel developer",
+        "Performance engineer"
+      ],
+      "rncp": "RNCP 6 — Applicative (Imperative) · RNCP 7 — Unix/Kernel",
+      "stages": [
+        {
+          "title": "Foundations",
+          "projects": [
+            "ft_ls",
+            "malloc",
+            "nm",
+            "ft_select"
+          ]
+        },
+        {
+          "title": "Core",
+          "projects": [
+            "lem-ipc",
+            "strace",
+            "ft_script",
+            "42sh"
+          ]
+        },
+        {
+          "title": "Advanced",
+          "projects": [
+            "ft_linux",
+            "little-penguin-1",
+            "process-and-memory",
+            "drivers-and-interrupts"
+          ]
+        },
+        {
+          "title": "Capstone",
+          "projects": [
+            "kfs-1",
+            "kfs-2",
+            "kfs-3",
+            "filesystem",
+            "userspace_digressions"
+          ]
+        }
+      ],
+      "notes": {
+        "ft_ls": "Opens the Unix branch: recode ls with -l -R -a -r -t.",
+        "malloc": "Recode malloc/free/realloc as a shared library.",
+        "nm": "Recode nm: read ELF sections and the symbol table.",
+        "ft_select": "Terminal UI with termcaps: navigate and select arguments with the arrow keys.",
+        "lem-ipc": "Processes communicating through System V IPC on a shared board.",
+        "strace": "Recode strace with ptrace (no options). Needs lem-ipc.",
+        "ft_script": "Recode script: pseudo-terminals and line discipline.",
+        "42sh": "Most complete and stable Unix shell possible: line editing, redirections, job control — team of 4–5.",
+        "ft_linux": "Build your own Linux distribution from source — base of the kernel branch.",
+        "little-penguin-1": "Eudyptula-style kernel tasks: custom kernel, modules, drivers. Needs ft_linux.",
+        "process-and-memory": "Add a custom syscall (get_pid_info) to the Linux kernel.",
+        "drivers-and-interrupts": "Write a keyboard driver for your Linux kernel. Needs ft_linux.",
+        "kfs-1": "Bootable kernel from scratch (C, C++ or Rust).",
+        "kfs-2": "Global Descriptor Table and a kernel-stack printer.",
+        "kfs-3": "Paging, kernel/user memory, kmalloc/kfree.",
+        "filesystem": "Write a filesystem kernel module (fortytwofs) with files, dirs and permissions.",
+        "userspace_digressions": "Write an init (PID 1): mount filesystems, start services, two advanced features."
+      }
+    },
+    {
+      "id": "graphics",
+      "title": "Graphics & game dev",
+      "tagline": "GPU rendering, physics, engines and complete games.",
+      "careers": [
+        "Game developer",
+        "Graphics programmer",
+        "Engine developer"
+      ],
+      "rncp": "RNCP 6 — Applicative (Object-oriented: bomberman, nibbler)",
+      "stages": [
+        {
+          "title": "Foundations",
+          "projects": [
+            "scop",
+            "unity",
+            "nibbler"
+          ]
+        },
+        {
+          "title": "Core",
+          "projects": [
+            "humangl",
+            "particle-system",
+            "shaderpixel",
+            "in-the-shadows"
+          ]
+        },
+        {
+          "title": "Advanced",
+          "projects": [
+            "ft_newton",
+            "ft_vox",
+            "rt",
+            "42run",
+            "mod1"
+          ]
+        },
+        {
+          "title": "Capstone",
+          "projects": [
+            "bomberman",
+            "ft_minecraft",
+            "very_real_engine",
+            "retroemu"
+          ]
+        }
+      ],
+      "notes": {
+        "scop": "First GPU rendering project (OpenGL/Vulkan/Metal) — base of the graphics branch.",
+        "unity": "Unity piscine: 7 modules from physics to navmesh.",
+        "nibbler": "Snake in C++ where the graphics library is switched at runtime (dynamic libraries).",
+        "humangl": "Hierarchical modeling with a matrix stack (articulated humanoid).",
+        "particle-system": "GPU compute (OpenCL/CUDA/compute shaders) with a gravity point and shapes.",
+        "shaderpixel": "Fragment shaders: a museum scene of shader art pieces.",
+        "in-the-shadows": "Full Shadowmatic-like game in a game engine, menus and levels included.",
+        "ft_newton": "Physics engine: rigid bodies, collisions, torque — Angry Birds-like game.",
+        "ft_vox": "Deterministic procedural voxel world (≥16384×256×16384 cubes, ≥160-cube view distance) straight on OpenGL/Vulkan/Metal — performance-heavy; ft_minecraft builds on it.",
+        "rt": "Ray tracer: the mandatory part is worth 0, points come from the options.",
+        "42run": "Temple Run-style endless runner in OpenGL. Needs scop.",
+        "mod1": "Terrain from sparse points, then a water simulation on it.",
+        "bomberman": "A complete 3D game for real players: menus, saves, levels — team of 4–5.",
+        "ft_minecraft": "Continuation of ft_vox: biomes, caves, clouds and advanced lighting.",
+        "very_real_engine": "Build a reusable game engine library (scenes, rendering, physics).",
+        "retroemu": "Game Boy (DMG/CGB) emulator: CPU, debugger, from the hardware docs."
+      }
+    },
+    {
+      "id": "algorithms",
+      "title": "Algorithms & theory",
+      "tagline": "Search, optimisation, math, automata and compilers.",
+      "careers": [
+        "Software engineer (algorithms-heavy)",
+        "Compiler engineer",
+        "Quant / research developer"
+      ],
+      "rncp": "RNCP 6 — Applicative (Functional) · RNCP 7 — AI block",
+      "stages": [
+        {
+          "title": "Foundations",
+          "projects": [
+            "n-puzzle",
+            "computorv2",
+            "ready-set-boole",
+            "dr-quine"
+          ]
+        },
+        {
+          "title": "Core",
+          "projects": [
+            "piscine-ocaml",
+            "ft_turing",
+            "lem_in",
+            "rubik"
+          ]
+        },
+        {
+          "title": "Advanced",
+          "projects": [
+            "ft_ality",
+            "expert-system",
+            "krpsim",
+            "ft_kalman",
+            "ft_kleene"
+          ]
+        },
+        {
+          "title": "Capstone",
+          "projects": [
+            "b",
+            "ft_lex",
+            "ft_yacc",
+            "cc1"
+          ]
+        }
+      ],
+      "notes": {
+        "n-puzzle": "A* search with several heuristics; unlocks gomoku, expert-system, krpsim.",
+        "computorv2": "First of the math series — essential for later projects.",
+        "ready-set-boole": "Boolean algebra and set theory exercises; unlocks ft_kleene.",
+        "dr-quine": "Quines (self-reproducing programs) in C and assembly — Kleene's recursion theorem.",
+        "piscine-ocaml": "OCaml piscine: functional basics to modules and monads; counts toward Functional.",
+        "ft_turing": "Turing machine simulator in OCaml.",
+        "lem_in": "Move n ants through a graph in the fewest turns (path finding + flow).",
+        "rubik": "Rubik's cube solver in as few moves as possible.",
+        "ft_ality": "First of the parsing series: train and run a finite-state automaton.",
+        "expert-system": "Propositional-logic inference engine (backward chaining). Needs n-puzzle, lem_in or rubik.",
+        "krpsim": "Optimise a process graph under resource constraints (team of 2–3).",
+        "ft_kalman": "Kalman filter tracking a vehicle from noisy sensors over UDP. Needs matrix.",
+        "ft_kleene": "Language theory literacy: Chomsky hierarchy and automata.",
+        "b": "B compiler with syntax-directed translation (no AST).",
+        "ft_lex": "Implement POSIX lex (automata, regex engine); leads to ft_yacc.",
+        "ft_yacc": "Implement POSIX yacc (pushdown automata); after ft_lex.",
+        "cc1": "C compiler that emits LLVM IR — needs ft_lex and ft_yacc."
+      }
+    },
+    {
+      "id": "emerging",
+      "title": "Emerging tech",
+      "tagline": "Web3, quantum computing and green IT.",
+      "careers": [
+        "Blockchain developer",
+        "Quantum software engineer",
+        "Sustainable-IT engineer"
+      ],
+      "rncp": "RNCP 6 Web (Tokenizer, TokenizeArt) · RNCP 7 Databases",
+      "stages": [
+        {
+          "title": "Web3",
+          "projects": [
+            "tokenizer",
+            "tokenizeart",
+            "tokenzwap"
+          ]
+        },
+        {
+          "title": "Quantum",
+          "projects": [
+            "ftl_quantum",
+            "supercharge"
+          ]
+        },
+        {
+          "title": "Green IT",
+          "projects": [
+            "ecomesh"
+          ]
+        }
+      ],
+      "notes": {
+        "tokenizer": "Create your own token on a blockchain (name must contain 42).",
+        "tokenizeart": "Create an NFT (must include 42) and its contract.",
+        "tokenzwap": "DeFi: an AMM smart contract with liquidity pools, swaps and a front end.",
+        "ftl_quantum": "Intro to quantum programs on a real quantum computer: superposition, entanglement, Deutsch-Jozsa, search.",
+        "supercharge": "Web app placing EV chargers on a real map: classical brute force vs a quantum QAOA solver.",
+        "ecomesh": "Keep a battery-powered sensor mesh alive for a year: carbon/energy cost model first."
+      }
+    },
+    {
+      "id": "leadership",
+      "title": "Leadership & product",
+      "tagline": "Lead a team over months, then run your own product.",
+      "careers": [
+        "Tech lead",
+        "Product engineer",
+        "Founder / CTO"
+      ],
+      "rncp": "Experiences (Startup Experience counts as full-time)",
+      "stages": [
+        {
+          "title": "Team work",
+          "projects": [
+            "42sh",
+            "music-room"
+          ]
+        },
+        {
+          "title": "Long-term project",
+          "projects": [
+            "open-project"
+          ]
+        },
+        {
+          "title": "Founder",
+          "projects": [
+            "startup-experience"
+          ]
+        }
+      ],
+      "notes": {
+        "42sh": "Most complete and stable Unix shell possible: line editing, redirections, job control — team of 4–5.",
+        "music-room": "Connected collaborative mobile app with its own back end and social login — a real product.",
+        "open-project": "Long-term team project (4–5 people, 6 months): specs, planning, delivery.",
+        "startup-experience": "Found and work full-time on your startup; counts as a full-time experience."
+      }
+    }
+  ]
+}
