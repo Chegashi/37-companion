@@ -3,6 +3,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import clustersJson from "@/data/clusters.json";
 import { useStoredState, useTracker } from "@/component/tracker/useTracker";
 import { PageState } from "@/component/tracker/ui";
+import { avatarFallback, avatarSrc } from "@/utils/avatar";
 
 interface Cluster { id: number; name: string; cdn_link: string; campus: { id: number; name: string } }
 interface Seat { host: string; login: string; image: string }
@@ -88,7 +89,7 @@ export default function ClustersPage() {
         <div className="cg-panel" style={{ position: "fixed", left: hover.x + 14, top: hover.y + 14, zIndex: 200, pointerEvents: "none" }}>
           <div className="cg-panel-body" style={{ flexDirection: "row", alignItems: "center" }}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={hover.seat.image} alt="" width={48} height={48} style={{ objectFit: "cover" }} />
+            <img src={avatarSrc(hover.seat.image)} onError={avatarFallback} alt="" width={48} height={48} style={{ objectFit: "cover" }} />
             <div><b>{hover.seat.login}</b><div className="cg-muted">{hover.seat.host}</div></div>
           </div>
         </div>

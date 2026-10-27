@@ -14,83 +14,19 @@ import LevelHistory from "@/component/dashboard/LevelHistory";
 const Dashboard = () => {
   const { userData } = React.useContext(ContextCreator) as ContextProps;
 
-  const sideCardClass = "relative border-4 border-[#a0a6b0] bg-[#ece9d8] p-3";
-
   return (
     <div
       className="flex flex-1 overflow-auto overflow-x-hidden p-2 sm:p-4 lg:p-6 gap-1 z-10 w-full flex-col lg:flex-row lg:items-stretch min-w-0"
       style={{ fontFamily: "var(--font-ui)" }}
     >
-      {/* Left Sidebar - Profile */}
-      <aside className="hidden lg:flex flex-col w-52 xl:w-64 flex-shrink-0 min-h-0">
-        <div className={`${sideCardClass} flex-1 min-h-0 flex flex-col`} style={{ boxShadow: "none" }}>
-          {/* Pixel corner accents - muted */}
-          <div className="absolute top-0 left-0 w-4 h-4 border-l-2 border-t-2 border-[#a0a6b0]" />
-          <div className="absolute top-0 right-0 w-4 h-4 border-r-2 border-t-2 border-[#a0a6b0]" />
-          <div className="absolute bottom-0 left-0 w-4 h-4 border-l-2 border-b-2 border-[#a0a6b0]" />
-          <div className="absolute bottom-0 right-0 w-4 h-4 border-r-2 border-b-2 border-[#a0a6b0]" />
-          <h3 className="text-[10px] font-bold text-[var(--theme-primary-muted)] uppercase tracking-wider mb-3 flex-shrink-0">
-            Profile
-          </h3>
-          {userData ? (
-            <div className="flex flex-col items-center gap-3 flex-1 justify-center min-h-0">
-              <div
-                className="w-20 h-20 border-2 border-[#a0a6b0] overflow-hidden cursor-pointer hover:border-[#a0a6b0] transition-colors bg-[#ece9d8]"
-                style={{ boxShadow: "none" }}
-                onClick={() =>
-                  window.open(`https://profile.intra.42.fr/users/${userData.login}`, "_blank")
-                }
-              >
-                <img
-                  src={userData.image || "/nopic.svg"}
-                  alt="Avatar"
-                  className="w-full h-full object-cover"
-                  style={{ imageRendering: "pixelated" }}
-                />
-              </div>
-              <div className="text-center w-full">
-                <p className="text-[11px] font-bold theme-text uppercase truncate">
-                  {userData.login}
-                </p>
-                <p className="text-[10px] font-bold theme-text-muted mt-0.5">
-                  {userData.level.toFixed(2)}
-                </p>
-                <div className="flex items-center justify-center gap-1.5 mt-2">
-                  <div className="w-2 h-2 bg-[#d9e5f5]" />
-                  <span className="text-[9px] theme-text-muted uppercase">
-                    {userData.location || "Offline"}
-                  </span>
-                </div>
-              </div>
-              <a
-                href={`https://profile.intra.42.fr/users/${userData.login}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full border-2 border-[#a0a6b0] bg-[#ece9d8] py-2 text-center text-[9px] font-bold theme-text uppercase tracking-wider hover:border-[#a0a6b0] transition-all active:translate-y-0.5"
-                style={{ boxShadow: "none" }}
-              >
-                42 Profile
-              </a>
-            </div>
-          ) : (
-            <div className="flex flex-col items-center gap-3 flex-1 justify-center py-6">
-              <div className="w-20 h-20 border-2 border-[#a0a6b0] skeleton-shimmer rounded-sm" style={{ boxShadow: "none" }} />
-              <div className="h-3 w-16 skeleton-shimmer rounded-sm" />
-              <div className="h-2.5 w-12 skeleton-shimmer rounded-sm" />
-              <div className="h-2.5 w-14 skeleton-shimmer rounded-sm" />
-            </div>
-          )}
-        </div>
-      </aside>
-
       {/* Main Content */}
       <main className="flex-1 min-w-0 lg:min-h-0 flex flex-col gap-3 w-full">
-        <div className="w-full min-h-[140px] sm:min-h-[180px] min-w-0">
+        <div className="w-full min-h-[140px] sm:min-h-[180px] min-w-0 flex-shrink-0">
           <RankComponent userData={userData as UserData} rank={-1} />
         </div>
 
         <div
-          className="relative flex-1 flex-shrink-0 border-4 border-[#a0a6b0] bg-[#ece9d8] p-3 sm:p-4 lg:p-6 flex flex-col gap-4 sm:gap-6 min-w-0 lg:overflow-hidden"
+          className="relative grow shrink-0 border-4 border-[#a0a6b0] bg-[#ece9d8] p-3 sm:p-4 lg:p-6 flex flex-col gap-4 sm:gap-6 min-w-0"
           style={{
             boxShadow: "none",
           }}

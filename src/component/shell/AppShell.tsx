@@ -9,6 +9,7 @@ import type { ContextProps } from "@/component/context/context.types";
 import { useTheme } from "@/component/context/ThemeContext";
 import { useStoredState } from "@/component/tracker/useTracker";
 import { NAV, pageOf } from "./nav";
+import { avatarFallback, avatarSrc } from "@/utils/avatar";
 
 // Sidebar: drag its edge to resize, or collapse it to an icon rail (⌘/Ctrl + B). Saved per browser.
 const SIDEBAR_DEFAULT = 244, SIDEBAR_MIN = 200, SIDEBAR_MAX = 360, SIDEBAR_RAIL = 72;
@@ -39,7 +40,7 @@ function UserCard() {
     <div className="c-usercard">
       {user?.image
         // eslint-disable-next-line @next/next/no-img-element
-        ? <img src={user.image} alt="" className="c-avatar" />
+        ? <img src={avatarSrc(user.image)} onError={avatarFallback} alt="" className="c-avatar" />
         : <div className="c-avatar c-skeleton" />}
       <div className="c-usercard-body">
         <div className="c-usercard-row">
