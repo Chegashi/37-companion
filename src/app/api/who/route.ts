@@ -171,7 +171,7 @@ export async function GET(request: NextRequest) {
         email: userResponse.email,
         login: userResponse.login,
         kind: userResponse.cursus_users?.length > 1 ? "student" : "pooler",
-        image: userResponse.image?.versions?.large || "/nopic.svg",
+        image: userResponse.image?.versions?.large || userResponse.image?.versions?.medium || userResponse.image?.link || "/nopic.svg",
         staff: userResponse.staff !== undefined && userResponse.staff !== false,
         correction_point: userResponse.correction_point || 0,
         pool_month: userResponse.pool_month || null,

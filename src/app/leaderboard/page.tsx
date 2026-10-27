@@ -5,6 +5,7 @@ import clustersJson from "@/data/clusters.json";
 import { useStoredState, useTracker } from "@/component/tracker/useTracker";
 import { Badge, PageState } from "@/component/tracker/ui";
 import type { Coalition, Student } from "@/utils/campus";
+import { avatarFallback, avatarSrc } from "@/utils/avatar";
 
 const PER_PAGE = 50;
 const campuses = [...new Map((clustersJson as { campus: { id: number; name: string } }[]).map((c) => [c.campus.id, c.campus])).values()]
@@ -129,7 +130,7 @@ export default function LeaderboardPage() {
                     <td>
                       <a className="flex items-center gap-3" href={`https://profile.intra.42.fr/users/${s.login}`} target="_blank" rel="noopener noreferrer">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
-                        <img src={s.image} alt="" width={34} height={34} style={{ borderRadius: 9, objectFit: "cover", width: 34, height: 34 }} loading="lazy" />
+                        <img src={avatarSrc(s.image)} onError={avatarFallback} alt="" width={34} height={34} style={{ borderRadius: 9, objectFit: "cover", width: 34, height: 34 }} loading="lazy" />
                         <b>{s.login}</b>
                       </a>
                     </td>

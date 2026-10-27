@@ -4,6 +4,7 @@ import { RiUserStarLine } from "react-icons/ri";
 import { UserData } from "../navbar/navbar.types";
 import { BsStars, BsDiamond } from "react-icons/bs";
 import { FaCrown, FaUserShield } from "react-icons/fa";
+import { avatarFallback, avatarSrc } from "@/utils/avatar";
 
 const ImageSideComp: React.FC<{ image: string; podiumPosition?: "gold" | "silver" | "bronze" | "staff"; muted?: boolean }> = ({ image, podiumPosition, muted }) => {
   const borderClass = muted ? "border-[#a0a6b0]" : podiumPosition === "gold" ? "border-[#a0a6b0]" : podiumPosition === "silver" ? "border-[#a0a6b0]" : podiumPosition === "bronze" ? "border-[#a0a6b0]" : podiumPosition === "staff" ? "border-[#a0a6b0]" : "theme-border";
@@ -335,7 +336,7 @@ const RankComponent: React.FC<{ userData: UserData | null; rank: number; isGridV
         <a href={`https://profile.intra.42.fr/users/${userData.login}`} target="_blank" rel="noopener noreferrer" aria-label={`Open ${userData.login}'s profile`} className="xp-rank-open">↗</a>
       </div>
       <div className="xp-rank-content">
-        <img className="xp-rank-avatar" src={userData.image || "/nopic.svg"} alt={`${userData.login}'s avatar`} loading="lazy" decoding="async" width={144} height={144} />
+        <img className="xp-rank-avatar" src={avatarSrc(userData.image)} onError={avatarFallback} alt={`${userData.login}'s avatar`} loading="lazy" decoding="async" width={144} height={144} />
         <div className="xp-rank-details">
           <a className="xp-username" href={`https://profile.intra.42.fr/users/${userData.login}`} target="_blank" rel="noopener noreferrer">{userData.login}</a>
           <strong className="xp-rank-level">{userData.level.toFixed(2)}</strong>

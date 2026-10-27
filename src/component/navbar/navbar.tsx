@@ -9,6 +9,7 @@ import { useRouter } from "next/navigation";
 import { ContextCreator } from "../context/context";
 import { ContextProps } from "../context/context.types";
 import { XPIcon } from "../xp/XPIcon";
+import { avatarFallback, avatarSrc } from "@/utils/avatar";
 
 
 const DropDownMenu = () => {
@@ -185,7 +186,8 @@ const Navbar = ({ compact = false }: { compact?: boolean }) => {
             />
           ) : (
             <img
-              src={userData.image}
+              src={avatarSrc(userData.image)}
+              onError={avatarFallback}
               alt="User Avatar"
               width={40}
               height={40}

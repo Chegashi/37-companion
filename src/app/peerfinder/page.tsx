@@ -5,6 +5,7 @@ import { FaCaretDown } from "react-icons/fa";
 import { ContextCreator } from "@/component/context/context";
 import { useRateLimitHandler } from "@/component/hooks/useRateLimitHandler";
 import RateLimitPopup from "@/component/RateLimitPopup";
+import { avatarFallback, avatarSrc } from "@/utils/avatar";
 
 interface Project {
   state: string;
@@ -516,7 +517,8 @@ const PeerFinderPage = () => {
                   <div className="flex flex-col items-center gap-2">
                     <div className="relative">
                       <img
-                        src={getDisplayImage(peer)}
+                        src={avatarSrc(getDisplayImage(peer))}
+                        onError={avatarFallback}
                         alt={getDisplayLogin(peer)}
                         className="w-20 h-20 sm:w-24 sm:h-24 object-cover border-2 theme-border"
                         style={{ imageRendering: "pixelated" }}
